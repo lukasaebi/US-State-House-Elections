@@ -79,4 +79,4 @@ other = number of votes for independent candidate per district
 
 year
 
-target = 0: republican winner, 1: democrat winner, 2: independent winner of district
+target = 0: republican winner, 1: democratic winner
