@@ -1,0 +1,3822 @@
+district,percent female,state
+1,0.4755,alaska
+2,0.4379,alaska
+3,0.4623,alaska
+4,0.4416,alaska
+5,0.4618,alaska
+6,0.4397,alaska
+7,0.4831,alaska
+8,0.4577,alaska
+9,0.4273,alaska
+10,0.4654,alaska
+11,0.4995,alaska
+12,0.4941,alaska
+13,0.4087,alaska
+14,0.4944,alaska
+15,0.433,alaska
+16,0.5001,alaska
+17,0.4548,alaska
+18,0.4825,alaska
+19,0.5215,alaska
+20,0.4864,alaska
+21,0.5267,alaska
+22,0.493,alaska
+23,0.4774,alaska
+24,0.5238,alaska
+25,0.5121,alaska
+26,0.4861,alaska
+27,0.4937,alaska
+28,0.4991,alaska
+29,0.4227,alaska
+30,0.5041,alaska
+31,0.4988,alaska
+32,0.4542,alaska
+33,0.4613,alaska
+34,0.5057,alaska
+35,0.4666,alaska
+36,0.4805,alaska
+37,0.395,alaska
+38,0.4759,alaska
+39,0.4665,alaska
+40,0.3801,alaska
+1,0.5228,arkansas
+2,0.517,arkansas
+3,0.5204,arkansas
+4,0.5244,arkansas
+5,0.5472,arkansas
+6,0.5245,arkansas
+7,0.5179,arkansas
+8,0.5152,arkansas
+9,0.5315,arkansas
+10,0.5311,arkansas
+11,0.5316,arkansas
+12,0.4378,arkansas
+13,0.5332,arkansas
+14,0.4626,arkansas
+15,0.5117,arkansas
+16,0.5684,arkansas
+17,0.5154,arkansas
+18,0.5228,arkansas
+19,0.5151,arkansas
+20,0.5196,arkansas
+21,0.4964,arkansas
+22,0.529,arkansas
+23,0.5123,arkansas
+24,0.531,arkansas
+25,0.5398,arkansas
+26,0.4831,arkansas
+27,0.5159,arkansas
+28,0.507,arkansas
+29,0.5473,arkansas
+30,0.5862,arkansas
+31,0.5152,arkansas
+32,0.5265,arkansas
+33,0.4908,arkansas
+34,0.5358,arkansas
+35,0.5172,arkansas
+36,0.502,arkansas
+37,0.5668,arkansas
+38,0.5253,arkansas
+39,0.5623,arkansas
+40,0.5102,arkansas
+41,0.5299,arkansas
+42,0.5332,arkansas
+43,0.5128,arkansas
+44,0.4956,arkansas
+45,0.5167,arkansas
+46,0.538,arkansas
+47,0.5279,arkansas
+48,0.4188,arkansas
+49,0.5333,arkansas
+50,0.5306,arkansas
+51,0.5516,arkansas
+52,0.4891,arkansas
+53,0.5232,arkansas
+54,0.5131,arkansas
+55,0.5335,arkansas
+56,0.5052,arkansas
+57,0.5248,arkansas
+58,0.5367,arkansas
+59,0.5238,arkansas
+60,0.5039,arkansas
+61,0.5106,arkansas
+62,0.4921,arkansas
+63,0.5299,arkansas
+64,0.5066,arkansas
+65,0.5104,arkansas
+66,0.5086,arkansas
+67,0.5195,arkansas
+68,0.4988,arkansas
+69,0.5089,arkansas
+70,0.5152,arkansas
+71,0.5234,arkansas
+72,0.5321,arkansas
+73,0.5257,arkansas
+74,0.5073,arkansas
+75,0.5238,arkansas
+76,0.5318,arkansas
+77,0.5133,arkansas
+78,0.5056,arkansas
+79,0.5357,arkansas
+80,0.4869,arkansas
+81,0.5154,arkansas
+82,0.503,arkansas
+83,0.4968,arkansas
+84,0.5138,arkansas
+85,0.5331,arkansas
+86,0.4855,arkansas
+87,0.5296,arkansas
+88,0.489,arkansas
+89,0.5223,arkansas
+90,0.5027,arkansas
+91,0.5179,arkansas
+92,0.5211,arkansas
+93,0.499,arkansas
+94,0.519,arkansas
+95,0.5105,arkansas
+96,0.5198,arkansas
+97,0.5047,arkansas
+98,0.519,arkansas
+99,0.5147,arkansas
+100,0.5305,arkansas
+1,0.4974,california
+2,0.5053,california
+3,0.5095,california
+4,0.5187,california
+5,0.5046,california
+6,0.5124,california
+7,0.515,california
+8,0.5296,california
+9,0.5246,california
+10,0.5223,california
+11,0.5079,california
+12,0.518,california
+13,0.5154,california
+14,0.5204,california
+15,0.5281,california
+16,0.5208,california
+17,0.4696,california
+18,0.5263,california
+19,0.5168,california
+20,0.5159,california
+21,0.5019,california
+22,0.5181,california
+23,0.5211,california
+24,0.5097,california
+25,0.4979,california
+26,0.5154,california
+27,0.4966,california
+28,0.5088,california
+29,0.5125,california
+30,0.4954,california
+31,0.4983,california
+32,0.447,california
+33,0.508,california
+34,0.5032,california
+35,0.4986,california
+36,0.5062,california
+37,0.5141,california
+38,0.5012,california
+39,0.5102,california
+40,0.5161,california
+41,0.5268,california
+42,0.5037,california
+43,0.5186,california
+44,0.515,california
+45,0.5194,california
+46,0.5143,california
+47,0.5159,california
+48,0.5155,california
+49,0.5198,california
+50,0.5043,california
+51,0.5058,california
+52,0.4953,california
+53,0.4972,california
+54,0.5316,california
+55,0.517,california
+56,0.4874,california
+57,0.5148,california
+58,0.5212,california
+59,0.5372,california
+60,0.5019,california
+61,0.5179,california
+62,0.5307,california
+63,0.5209,california
+64,0.5363,california
+65,0.5174,california
+66,0.5129,california
+67,0.5099,california
+68,0.5183,california
+69,0.491,california
+70,0.5132,california
+71,0.5012,california
+72,0.5092,california
+73,0.5175,california
+74,0.5168,california
+75,0.5078,california
+76,0.4784,california
+77,0.5075,california
+78,0.4836,california
+79,0.5038,california
+80,0.4894,california
+1,0.5109,colorado
+2,0.4811,colorado
+3,0.5107,colorado
+4,0.5249,colorado
+5,0.4686,colorado
+6,0.5321,colorado
+7,0.5301,colorado
+8,0.509,colorado
+9,0.5021,colorado
+10,0.4942,colorado
+11,0.5134,colorado
+12,0.5138,colorado
+13,0.4775,colorado
+14,0.5097,colorado
+15,0.492,colorado
+16,0.5027,colorado
+17,0.5067,colorado
+18,0.5146,colorado
+19,0.5029,colorado
+20,0.4925,colorado
+21,0.4639,colorado
+22,0.5192,colorado
+23,0.5058,colorado
+24,0.4924,colorado
+25,0.4972,colorado
+26,0.467,colorado
+27,0.5205,colorado
+28,0.5053,colorado
+29,0.5119,colorado
+30,0.509,colorado
+31,0.504,colorado
+32,0.5047,colorado
+33,0.5107,colorado
+34,0.5135,colorado
+35,0.5082,colorado
+36,0.504,colorado
+37,0.4977,colorado
+38,0.5295,colorado
+39,0.4948,colorado
+40,0.5158,colorado
+41,0.5334,colorado
+42,0.5203,colorado
+43,0.5147,colorado
+44,0.5078,colorado
+45,0.5115,colorado
+46,0.5217,colorado
+47,0.5141,colorado
+48,0.5027,colorado
+49,0.5082,colorado
+50,0.5168,colorado
+51,0.5109,colorado
+52,0.4995,colorado
+53,0.5088,colorado
+54,0.495,colorado
+55,0.513,colorado
+56,0.4996,colorado
+57,0.4896,colorado
+58,0.5057,colorado
+59,0.4928,colorado
+60,0.4309,colorado
+61,0.4749,colorado
+62,0.5054,colorado
+63,0.4949,colorado
+64,0.4698,colorado
+65,0.4803,colorado
+1,0.51,connecticut
+2,0.5321,connecticut
+3,0.5384,connecticut
+4,0.5151,connecticut
+5,0.5355,connecticut
+6,0.5436,connecticut
+7,0.5794,connecticut
+8,0.5048,connecticut
+9,0.5326,connecticut
+10,0.5533,connecticut
+11,0.4999,connecticut
+12,0.5623,connecticut
+13,0.5361,connecticut
+14,0.5281,connecticut
+15,0.5485,connecticut
+16,0.5185,connecticut
+17,0.5246,connecticut
+18,0.571,connecticut
+19,0.5099,connecticut
+20,0.5417,connecticut
+21,0.5117,connecticut
+22,0.5385,connecticut
+23,0.5257,connecticut
+24,0.5576,connecticut
+25,0.5155,connecticut
+26,0.5114,connecticut
+27,0.5279,connecticut
+28,0.5505,connecticut
+29,0.5404,connecticut
+30,0.5182,connecticut
+31,0.5202,connecticut
+32,0.4945,connecticut
+33,0.5298,connecticut
+34,0.4944,connecticut
+35,0.5176,connecticut
+36,0.5183,connecticut
+37,0.5355,connecticut
+38,0.507,connecticut
+39,0.5254,connecticut
+40,0.4191,connecticut
+41,0.5399,connecticut
+42,0.4682,connecticut
+43,0.5199,connecticut
+44,0.5151,connecticut
+45,0.4891,connecticut
+46,0.5195,connecticut
+47,0.4961,connecticut
+48,0.5005,connecticut
+49,0.5597,connecticut
+50,0.4785,connecticut
+51,0.5129,connecticut
+52,0.4677,connecticut
+53,0.4908,connecticut
+54,0.5128,connecticut
+55,0.5053,connecticut
+56,0.5322,connecticut
+57,0.5215,connecticut
+58,0.5225,connecticut
+59,0.4314,connecticut
+60,0.4982,connecticut
+61,0.4748,connecticut
+62,0.5058,connecticut
+63,0.5155,connecticut
+64,0.5001,connecticut
+65,0.5055,connecticut
+66,0.5217,connecticut
+67,0.5036,connecticut
+68,0.5209,connecticut
+69,0.5273,connecticut
+70,0.5035,connecticut
+71,0.5325,connecticut
+72,0.5488,connecticut
+73,0.5513,connecticut
+74,0.5177,connecticut
+75,0.5183,connecticut
+76,0.5175,connecticut
+77,0.541,connecticut
+78,0.5092,connecticut
+79,0.5106,connecticut
+80,0.4957,connecticut
+81,0.523,connecticut
+82,0.5206,connecticut
+83,0.5186,connecticut
+84,0.5554,connecticut
+85,0.5492,connecticut
+86,0.4914,connecticut
+87,0.514,connecticut
+88,0.5524,connecticut
+89,0.5199,connecticut
+90,0.51,connecticut
+91,0.5383,connecticut
+92,0.5611,connecticut
+93,0.5482,connecticut
+94,0.5672,connecticut
+95,0.5623,connecticut
+96,0.5117,connecticut
+97,0.5546,connecticut
+98,0.5133,connecticut
+99,0.5345,connecticut
+100,0.5293,connecticut
+101,0.5281,connecticut
+102,0.5471,connecticut
+103,0.4804,connecticut
+104,0.5173,connecticut
+105,0.5121,connecticut
+106,0.5036,connecticut
+107,0.5117,connecticut
+108,0.5096,connecticut
+109,0.5136,connecticut
+110,0.5434,connecticut
+111,0.5225,connecticut
+112,0.5321,connecticut
+113,0.5339,connecticut
+114,0.5356,connecticut
+115,0.5268,connecticut
+116,0.4906,connecticut
+117,0.5246,connecticut
+118,0.5252,connecticut
+119,0.5351,connecticut
+120,0.5304,connecticut
+121,0.5681,connecticut
+122,0.5193,connecticut
+123,0.5252,connecticut
+124,0.569,connecticut
+125,0.5313,connecticut
+126,0.5405,connecticut
+127,0.5201,connecticut
+128,0.5872,connecticut
+129,0.5285,connecticut
+130,0.5508,connecticut
+131,0.5258,connecticut
+132,0.5276,connecticut
+133,0.542,connecticut
+134,0.511,connecticut
+135,0.5117,connecticut
+136,0.5158,connecticut
+137,0.5655,connecticut
+138,0.5252,connecticut
+139,0.5002,connecticut
+140,0.5112,connecticut
+141,0.5148,connecticut
+142,0.52,connecticut
+143,0.514,connecticut
+144,0.5156,connecticut
+145,0.5336,connecticut
+146,0.5193,connecticut
+147,0.5322,connecticut
+148,0.5465,connecticut
+149,0.5155,connecticut
+150,0.5335,connecticut
+151,0.5274,connecticut
+1,0.5297,delaware
+2,0.5049,delaware
+3,0.5791,delaware
+4,0.5404,delaware
+5,0.5713,delaware
+6,0.5287,delaware
+7,0.5418,delaware
+8,0.5367,delaware
+9,0.4339,delaware
+10,0.5416,delaware
+11,0.5012,delaware
+12,0.5214,delaware
+13,0.5456,delaware
+14,0.5078,delaware
+15,0.5345,delaware
+16,0.5613,delaware
+17,0.5191,delaware
+18,0.493,delaware
+19,0.5081,delaware
+20,0.5296,delaware
+21,0.5312,delaware
+22,0.5104,delaware
+23,0.5387,delaware
+24,0.5251,delaware
+25,0.5082,delaware
+26,0.5405,delaware
+27,0.5052,delaware
+28,0.5305,delaware
+29,0.5159,delaware
+30,0.5203,delaware
+31,0.5564,delaware
+32,0.511,delaware
+33,0.5376,delaware
+34,0.5253,delaware
+35,0.5294,delaware
+36,0.5236,delaware
+37,0.5527,delaware
+38,0.5225,delaware
+39,0.5195,delaware
+40,0.5264,delaware
+41,0.4936,delaware
+1,0.5138,florida
+2,0.4993,florida
+3,0.4882,florida
+4,0.4868,florida
+5,0.4682,florida
+6,0.5052,florida
+7,0.4375,florida
+8,0.53,florida
+9,0.541,florida
+10,0.4803,florida
+11,0.4986,florida
+12,0.5289,florida
+13,0.5284,florida
+14,0.5384,florida
+15,0.5166,florida
+16,0.5254,florida
+17,0.5167,florida
+18,0.5172,florida
+19,0.4788,florida
+20,0.5194,florida
+21,0.5172,florida
+22,0.5357,florida
+23,0.521,florida
+24,0.5264,florida
+25,0.5146,florida
+26,0.5204,florida
+27,0.5202,florida
+28,0.5261,florida
+29,0.517,florida
+30,0.5303,florida
+31,0.531,florida
+32,0.5128,florida
+33,0.5073,florida
+34,0.5169,florida
+35,0.5329,florida
+36,0.5302,florida
+37,0.5068,florida
+38,0.5239,florida
+39,0.506,florida
+40,0.5349,florida
+41,0.5296,florida
+42,0.5105,florida
+43,0.5189,florida
+44,0.524,florida
+45,0.5291,florida
+46,0.5286,florida
+47,0.503,florida
+48,0.507,florida
+49,0.5024,florida
+50,0.5016,florida
+51,0.5131,florida
+52,0.5187,florida
+53,0.5204,florida
+54,0.5262,florida
+55,0.502,florida
+56,0.4854,florida
+57,0.5244,florida
+58,0.5187,florida
+59,0.5289,florida
+60,0.5144,florida
+61,0.529,florida
+62,0.5204,florida
+63,0.5348,florida
+64,0.5303,florida
+65,0.5412,florida
+66,0.5269,florida
+67,0.5203,florida
+68,0.5236,florida
+69,0.5156,florida
+70,0.5428,florida
+71,0.5416,florida
+72,0.5333,florida
+73,0.515,florida
+74,0.5175,florida
+75,0.517,florida
+76,0.5169,florida
+77,0.5201,florida
+78,0.5215,florida
+79,0.5174,florida
+80,0.5121,florida
+81,0.5087,florida
+82,0.5219,florida
+83,0.5202,florida
+84,0.5222,florida
+85,0.5216,florida
+86,0.5349,florida
+87,0.539,florida
+88,0.5204,florida
+89,0.5234,florida
+90,0.5435,florida
+91,0.5458,florida
+92,0.4992,florida
+93,0.4847,florida
+94,0.4805,florida
+95,0.5593,florida
+96,0.5386,florida
+97,0.5369,florida
+98,0.5375,florida
+99,0.5145,florida
+100,0.5156,florida
+101,0.5235,florida
+102,0.5586,florida
+103,0.543,florida
+104,0.5318,florida
+105,0.5105,florida
+106,0.5323,florida
+107,0.5406,florida
+108,0.5245,florida
+109,0.52,florida
+110,0.5528,florida
+111,0.5569,florida
+112,0.5297,florida
+113,0.4851,florida
+114,0.523,florida
+115,0.5097,florida
+116,0.546,florida
+117,0.5417,florida
+118,0.5359,florida
+119,0.5341,florida
+120,0.4867,florida
+1,0.5158,georgia
+2,0.5144,georgia
+3,0.5299,georgia
+4,0.4945,georgia
+5,0.5125,georgia
+6,0.5185,georgia
+7,0.5114,georgia
+8,0.5208,georgia
+9,0.5076,georgia
+10,0.5417,georgia
+11,0.5096,georgia
+12,0.5027,georgia
+13,0.5389,georgia
+14,0.5061,georgia
+15,0.5229,georgia
+16,0.5136,georgia
+17,0.5224,georgia
+18,0.5287,georgia
+19,0.5237,georgia
+20,0.5147,georgia
+21,0.5222,georgia
+22,0.5192,georgia
+23,0.5145,georgia
+24,0.5106,georgia
+25,0.5075,georgia
+26,0.5157,georgia
+27,0.5167,georgia
+28,0.5164,georgia
+29,0.544,georgia
+30,0.5001,georgia
+31,0.5111,georgia
+32,0.5142,georgia
+33,0.5235,georgia
+34,0.5277,georgia
+35,0.5294,georgia
+36,0.5136,georgia
+37,0.5336,georgia
+38,0.5606,georgia
+39,0.5724,georgia
+40,0.5392,georgia
+41,0.5209,georgia
+42,0.5109,georgia
+43,0.5237,georgia
+44,0.5182,georgia
+45,0.523,georgia
+46,0.5268,georgia
+47,0.5253,georgia
+48,0.5262,georgia
+49,0.512,georgia
+50,0.5184,georgia
+51,0.5137,georgia
+52,0.5483,georgia
+53,0.575,georgia
+54,0.5202,georgia
+55,0.5212,georgia
+56,0.4445,georgia
+57,0.488,georgia
+58,0.5132,georgia
+59,0.4947,georgia
+60,0.5572,georgia
+61,0.5558,georgia
+62,0.5504,georgia
+63,0.5361,georgia
+64,0.5568,georgia
+65,0.5786,georgia
+66,0.5606,georgia
+67,0.5037,georgia
+68,0.5105,georgia
+69,0.5239,georgia
+70,0.5324,georgia
+71,0.5043,georgia
+72,0.5161,georgia
+73,0.5427,georgia
+74,0.5407,georgia
+75,0.537,georgia
+76,0.552,georgia
+77,0.5857,georgia
+78,0.5327,georgia
+79,0.5146,georgia
+80,0.5384,georgia
+81,0.4876,georgia
+82,0.5178,georgia
+83,0.5465,georgia
+84,0.5745,georgia
+85,0.5484,georgia
+86,0.5178,georgia
+87,0.5445,georgia
+88,0.5434,georgia
+89,0.5371,georgia
+90,0.5414,georgia
+91,0.5691,georgia
+92,0.5664,georgia
+93,0.551,georgia
+94,0.5546,georgia
+95,0.5283,georgia
+96,0.5418,georgia
+97,0.5281,georgia
+98,0.5275,georgia
+99,0.5175,georgia
+100,0.5328,georgia
+101,0.526,georgia
+102,0.5092,georgia
+103,0.4925,georgia
+104,0.5373,georgia
+105,0.5305,georgia
+106,0.5377,georgia
+107,0.5185,georgia
+108,0.5156,georgia
+109,0.5354,georgia
+110,0.5251,georgia
+111,0.5433,georgia
+112,0.5295,georgia
+113,0.5449,georgia
+114,0.5225,georgia
+115,0.522,georgia
+116,0.5131,georgia
+117,0.5362,georgia
+118,0.5311,georgia
+119,0.5205,georgia
+120,0.515,georgia
+121,0.5216,georgia
+122,0.5065,georgia
+123,0.5261,georgia
+124,0.5516,georgia
+125,0.521,georgia
+126,0.5474,georgia
+127,0.4841,georgia
+128,0.5004,georgia
+129,0.4853,georgia
+130,0.5251,georgia
+131,0.528,georgia
+132,0.5421,georgia
+133,0.513,georgia
+134,0.528,georgia
+135,0.5411,georgia
+136,0.4878,georgia
+137,0.5151,georgia
+138,0.4763,georgia
+139,0.48,georgia
+140,0.5367,georgia
+141,0.5369,georgia
+142,0.5452,georgia
+143,0.5436,georgia
+144,0.5298,georgia
+145,0.5002,georgia
+146,0.5165,georgia
+147,0.5058,georgia
+148,0.5264,georgia
+149,0.4513,georgia
+150,0.531,georgia
+151,0.5119,georgia
+152,0.5136,georgia
+153,0.5475,georgia
+154,0.5433,georgia
+155,0.5339,georgia
+156,0.523,georgia
+157,0.46,georgia
+158,0.5165,georgia
+159,0.52,georgia
+160,0.5055,georgia
+161,0.4978,georgia
+162,0.5327,georgia
+163,0.5347,georgia
+164,0.4946,georgia
+165,0.5303,georgia
+166,0.5376,georgia
+167,0.5172,georgia
+168,0.4985,georgia
+169,0.4906,georgia
+170,0.5248,georgia
+171,0.5005,georgia
+172,0.5209,georgia
+173,0.5474,georgia
+174,0.518,georgia
+175,0.5159,georgia
+176,0.4907,georgia
+177,0.5268,georgia
+178,0.4921,georgia
+179,0.5419,georgia
+180,0.4943,georgia
+1,0.5182,hawaii
+2,0.4908,hawaii
+3,0.488,hawaii
+4,0.5045,hawaii
+5,0.5082,hawaii
+6,0.4956,hawaii
+7,0.5103,hawaii
+8,0.5171,hawaii
+9,0.5161,hawaii
+10,0.4814,hawaii
+11,0.4887,hawaii
+12,0.5025,hawaii
+13,0.5163,hawaii
+14,0.4855,hawaii
+15,0.5015,hawaii
+16,0.5141,hawaii
+17,0.5024,hawaii
+18,0.519,hawaii
+19,0.5274,hawaii
+20,0.5149,hawaii
+21,0.4829,hawaii
+22,0.4467,hawaii
+23,0.5084,hawaii
+24,0.5227,hawaii
+25,0.497,hawaii
+26,0.5009,hawaii
+27,0.5215,hawaii
+28,0.4912,hawaii
+29,0.4812,hawaii
+30,0.42,hawaii
+31,0.5018,hawaii
+32,0.4932,hawaii
+33,0.4791,hawaii
+34,0.5011,hawaii
+35,0.4353,hawaii
+36,0.493,hawaii
+37,0.4814,hawaii
+38,0.5083,hawaii
+39,0.4931,hawaii
+40,0.496,hawaii
+41,0.4991,hawaii
+42,0.4973,hawaii
+43,0.4952,hawaii
+44,0.5046,hawaii
+45,0.4078,hawaii
+46,0.4752,hawaii
+47,0.4886,hawaii
+48,0.4972,hawaii
+49,0.5078,hawaii
+50,0.442,hawaii
+51,0.5325,hawaii
+1,0.5118,illinois
+2,0.4971,illinois
+3,0.5241,illinois
+4,0.5021,illinois
+5,0.5631,illinois
+6,0.5392,illinois
+7,0.5386,illinois
+8,0.5543,illinois
+9,0.538,illinois
+10,0.5282,illinois
+11,0.5069,illinois
+12,0.5219,illinois
+13,0.5036,illinois
+14,0.5068,illinois
+15,0.5267,illinois
+16,0.523,illinois
+17,0.5372,illinois
+18,0.5255,illinois
+19,0.5223,illinois
+20,0.5285,illinois
+21,0.4445,illinois
+22,0.5012,illinois
+23,0.5118,illinois
+24,0.522,illinois
+25,0.5545,illinois
+26,0.5772,illinois
+27,0.5416,illinois
+28,0.5378,illinois
+29,0.5551,illinois
+30,0.5365,illinois
+31,0.5518,illinois
+32,0.5435,illinois
+33,0.5595,illinois
+34,0.5466,illinois
+35,0.5275,illinois
+36,0.5428,illinois
+37,0.5136,illinois
+38,0.5417,illinois
+39,0.5077,illinois
+40,0.4981,illinois
+41,0.5163,illinois
+42,0.5152,illinois
+43,0.5106,illinois
+44,0.5063,illinois
+45,0.5125,illinois
+46,0.5078,illinois
+47,0.532,illinois
+48,0.5205,illinois
+49,0.5138,illinois
+50,0.5182,illinois
+51,0.5146,illinois
+52,0.5039,illinois
+53,0.5273,illinois
+54,0.5165,illinois
+55,0.5124,illinois
+56,0.5285,illinois
+57,0.5171,illinois
+58,0.4795,illinois
+59,0.5183,illinois
+60,0.5155,illinois
+61,0.5053,illinois
+62,0.5054,illinois
+63,0.5075,illinois
+64,0.5089,illinois
+65,0.5259,illinois
+66,0.5126,illinois
+67,0.5284,illinois
+68,0.5208,illinois
+69,0.5113,illinois
+70,0.5085,illinois
+71,0.5149,illinois
+72,0.5125,illinois
+73,0.5113,illinois
+74,0.5166,illinois
+75,0.4967,illinois
+76,0.5099,illinois
+77,0.5086,illinois
+78,0.5328,illinois
+79,0.5188,illinois
+80,0.5282,illinois
+81,0.5232,illinois
+82,0.5198,illinois
+83,0.5161,illinois
+84,0.5148,illinois
+85,0.4942,illinois
+86,0.5113,illinois
+87,0.5136,illinois
+88,0.5143,illinois
+89,0.5115,illinois
+90,0.487,illinois
+91,0.501,illinois
+92,0.533,illinois
+93,0.4821,illinois
+94,0.5181,illinois
+95,0.4999,illinois
+96,0.5327,illinois
+97,0.521,illinois
+98,0.5203,illinois
+99,0.5302,illinois
+100,0.5055,illinois
+101,0.5179,illinois
+102,0.5159,illinois
+103,0.4992,illinois
+104,0.5125,illinois
+105,0.527,illinois
+106,0.5103,illinois
+107,0.5015,illinois
+108,0.5019,illinois
+109,0.4899,illinois
+110,0.5205,illinois
+111,0.5222,illinois
+112,0.5213,illinois
+113,0.522,illinois
+114,0.538,illinois
+115,0.4987,illinois
+116,0.484,illinois
+117,0.5109,illinois
+118,0.4974,illinois
+1,0.5241,indiana
+2,0.5493,indiana
+3,0.5552,indiana
+4,0.51,indiana
+5,0.5288,indiana
+6,0.5172,indiana
+7,0.5357,indiana
+8,0.5135,indiana
+9,0.4561,indiana
+10,0.5249,indiana
+11,0.5089,indiana
+12,0.5243,indiana
+13,0.5121,indiana
+14,0.5259,indiana
+15,0.5071,indiana
+16,0.5009,indiana
+17,0.5104,indiana
+18,0.5147,indiana
+19,0.5114,indiana
+20,0.5157,indiana
+21,0.5141,indiana
+22,0.5126,indiana
+23,0.4863,indiana
+24,0.521,indiana
+25,0.5044,indiana
+26,0.483,indiana
+27,0.5007,indiana
+28,0.5141,indiana
+29,0.5174,indiana
+30,0.5325,indiana
+31,0.5306,indiana
+32,0.4992,indiana
+33,0.5201,indiana
+34,0.5306,indiana
+35,0.5216,indiana
+36,0.5284,indiana
+37,0.5149,indiana
+38,0.5118,indiana
+39,0.528,indiana
+40,0.497,indiana
+41,0.5046,indiana
+42,0.5212,indiana
+43,0.5141,indiana
+44,0.4761,indiana
+45,0.4836,indiana
+46,0.4895,indiana
+47,0.512,indiana
+48,0.5257,indiana
+49,0.5076,indiana
+50,0.5151,indiana
+51,0.4963,indiana
+52,0.5105,indiana
+53,0.4842,indiana
+54,0.489,indiana
+55,0.5113,indiana
+56,0.5245,indiana
+57,0.5124,indiana
+58,0.5322,indiana
+59,0.5173,indiana
+60,0.5079,indiana
+61,0.5041,indiana
+62,0.5148,indiana
+63,0.5117,indiana
+64,0.5002,indiana
+65,0.4996,indiana
+66,0.5286,indiana
+67,0.5043,indiana
+68,0.503,indiana
+69,0.5046,indiana
+70,0.5065,indiana
+71,0.5272,indiana
+72,0.5232,indiana
+73,0.5024,indiana
+74,0.4851,indiana
+75,0.5104,indiana
+76,0.5221,indiana
+77,0.5354,indiana
+78,0.5134,indiana
+79,0.5145,indiana
+80,0.5417,indiana
+81,0.4993,indiana
+82,0.5067,indiana
+83,0.5266,indiana
+84,0.5179,indiana
+85,0.5167,indiana
+86,0.5368,indiana
+87,0.5282,indiana
+88,0.521,indiana
+89,0.5261,indiana
+90,0.5239,indiana
+91,0.5057,indiana
+92,0.5268,indiana
+93,0.53,indiana
+94,0.5694,indiana
+95,0.5745,indiana
+96,0.5373,indiana
+97,0.5195,indiana
+98,0.5444,indiana
+99,0.5418,indiana
+100,0.5066,indiana
+1,0.506,iowa
+2,0.5118,iowa
+3,0.4992,iowa
+4,0.5091,iowa
+5,0.5164,iowa
+6,0.5046,iowa
+7,0.5146,iowa
+8,0.4986,iowa
+9,0.4868,iowa
+10,0.4964,iowa
+11,0.5072,iowa
+12,0.5157,iowa
+13,0.5157,iowa
+14,0.5131,iowa
+15,0.5085,iowa
+16,0.5309,iowa
+17,0.5098,iowa
+18,0.5119,iowa
+19,0.5001,iowa
+20,0.5214,iowa
+21,0.5124,iowa
+22,0.5081,iowa
+23,0.5072,iowa
+24,0.5029,iowa
+25,0.5089,iowa
+26,0.5267,iowa
+27,0.5134,iowa
+28,0.4675,iowa
+29,0.5186,iowa
+30,0.5219,iowa
+31,0.513,iowa
+32,0.5126,iowa
+33,0.5281,iowa
+34,0.5234,iowa
+35,0.5112,iowa
+36,0.5237,iowa
+37,0.5029,iowa
+38,0.5022,iowa
+39,0.5239,iowa
+40,0.5135,iowa
+41,0.5451,iowa
+42,0.5179,iowa
+43,0.5075,iowa
+44,0.5225,iowa
+45,0.488,iowa
+46,0.4582,iowa
+47,0.5134,iowa
+48,0.5037,iowa
+49,0.5138,iowa
+50,0.515,iowa
+51,0.5025,iowa
+52,0.5047,iowa
+53,0.5175,iowa
+54,0.5184,iowa
+55,0.5083,iowa
+56,0.5008,iowa
+57,0.4921,iowa
+58,0.5047,iowa
+59,0.54,iowa
+60,0.5107,iowa
+61,0.5171,iowa
+62,0.51,iowa
+63,0.5146,iowa
+64,0.5082,iowa
+65,0.5143,iowa
+66,0.5236,iowa
+67,0.4926,iowa
+68,0.5285,iowa
+69,0.5176,iowa
+70,0.5138,iowa
+71,0.5079,iowa
+72,0.5003,iowa
+73,0.5127,iowa
+74,0.4987,iowa
+75,0.5004,iowa
+76,0.5219,iowa
+77,0.5343,iowa
+78,0.5094,iowa
+79,0.5134,iowa
+80,0.4991,iowa
+81,0.5208,iowa
+82,0.5048,iowa
+83,0.5,iowa
+84,0.4879,iowa
+85,0.4949,iowa
+86,0.5,iowa
+87,0.5263,iowa
+88,0.4927,iowa
+89,0.5204,iowa
+90,0.4878,iowa
+91,0.5092,iowa
+92,0.5155,iowa
+93,0.5201,iowa
+94,0.5484,iowa
+95,0.4959,iowa
+96,0.4895,iowa
+97,0.4947,iowa
+98,0.5273,iowa
+99,0.5293,iowa
+100,0.5084,iowa
+1,0.5089,kansas
+2,0.5105,kansas
+3,0.5061,kansas
+4,0.511,kansas
+5,0.5111,kansas
+6,0.5107,kansas
+7,0.5145,kansas
+8,0.5054,kansas
+9,0.5202,kansas
+10,0.4898,kansas
+11,0.5203,kansas
+12,0.5046,kansas
+13,0.5044,kansas
+14,0.5224,kansas
+15,0.501,kansas
+16,0.5454,kansas
+17,0.5225,kansas
+18,0.5264,kansas
+19,0.5053,kansas
+20,0.5382,kansas
+21,0.5394,kansas
+22,0.516,kansas
+23,0.5295,kansas
+24,0.5361,kansas
+25,0.5185,kansas
+26,0.4957,kansas
+27,0.5186,kansas
+28,0.512,kansas
+29,0.5512,kansas
+30,0.537,kansas
+31,0.5149,kansas
+32,0.4764,kansas
+33,0.5108,kansas
+34,0.5708,kansas
+35,0.5472,kansas
+36,0.5317,kansas
+37,0.5089,kansas
+38,0.5143,kansas
+39,0.504,kansas
+40,0.4369,kansas
+41,0.4472,kansas
+42,0.4853,kansas
+43,0.5032,kansas
+44,0.5248,kansas
+45,0.5265,kansas
+46,0.496,kansas
+47,0.4986,kansas
+48,0.523,kansas
+49,0.5242,kansas
+50,0.5017,kansas
+51,0.5064,kansas
+52,0.5394,kansas
+53,0.5405,kansas
+54,0.4988,kansas
+55,0.4996,kansas
+56,0.5413,kansas
+57,0.5192,kansas
+58,0.5583,kansas
+59,0.5191,kansas
+60,0.5212,kansas
+61,0.5015,kansas
+62,0.5073,kansas
+63,0.5222,kansas
+64,0.4089,kansas
+65,0.4486,kansas
+66,0.4883,kansas
+67,0.4774,kansas
+68,0.4876,kansas
+69,0.5169,kansas
+70,0.5024,kansas
+71,0.5117,kansas
+72,0.517,kansas
+73,0.5098,kansas
+74,0.5215,kansas
+75,0.4649,kansas
+76,0.5121,kansas
+77,0.5245,kansas
+78,0.5034,kansas
+79,0.4884,kansas
+80,0.526,kansas
+81,0.5086,kansas
+82,0.5024,kansas
+83,0.5438,kansas
+84,0.5207,kansas
+85,0.5393,kansas
+86,0.4936,kansas
+87,0.5025,kansas
+88,0.5136,kansas
+89,0.5429,kansas
+90,0.5201,kansas
+91,0.5188,kansas
+92,0.487,kansas
+93,0.5006,kansas
+94,0.5119,kansas
+95,0.5154,kansas
+96,0.498,kansas
+97,0.5152,kansas
+98,0.5135,kansas
+99,0.5123,kansas
+100,0.5439,kansas
+101,0.5079,kansas
+102,0.4663,kansas
+103,0.4296,kansas
+104,0.5364,kansas
+105,0.5269,kansas
+106,0.5043,kansas
+107,0.5008,kansas
+108,0.4838,kansas
+109,0.4979,kansas
+110,0.4868,kansas
+111,0.5073,kansas
+112,0.5192,kansas
+113,0.5122,kansas
+114,0.4962,kansas
+115,0.513,kansas
+116,0.5089,kansas
+117,0.4803,kansas
+118,0.509,kansas
+119,0.4687,kansas
+120,0.5042,kansas
+121,0.4932,kansas
+122,0.4945,kansas
+123,0.4956,kansas
+124,0.5004,kansas
+125,0.4947,kansas
+1,0.519,kentucky
+2,0.5174,kentucky
+3,0.5313,kentucky
+4,0.5095,kentucky
+5,0.523,kentucky
+6,0.4955,kentucky
+7,0.5076,kentucky
+8,0.4556,kentucky
+9,0.4982,kentucky
+10,0.4992,kentucky
+11,0.5283,kentucky
+12,0.5109,kentucky
+13,0.5389,kentucky
+14,0.5081,kentucky
+15,0.5139,kentucky
+16,0.5125,kentucky
+17,0.5219,kentucky
+18,0.5043,kentucky
+19,0.5117,kentucky
+20,0.5285,kentucky
+21,0.5116,kentucky
+22,0.5111,kentucky
+23,0.5233,kentucky
+24,0.5097,kentucky
+25,0.5071,kentucky
+26,0.4907,kentucky
+27,0.5038,kentucky
+28,0.5171,kentucky
+29,0.5241,kentucky
+30,0.5461,kentucky
+31,0.5311,kentucky
+32,0.5315,kentucky
+33,0.5335,kentucky
+34,0.5202,kentucky
+35,0.5171,kentucky
+36,0.5074,kentucky
+37,0.5113,kentucky
+38,0.5334,kentucky
+39,0.534,kentucky
+40,0.5209,kentucky
+41,0.5214,kentucky
+42,0.5439,kentucky
+43,0.5545,kentucky
+44,0.5521,kentucky
+45,0.5142,kentucky
+46,0.5295,kentucky
+47,0.5077,kentucky
+48,0.5236,kentucky
+49,0.5095,kentucky
+50,0.5159,kentucky
+51,0.5207,kentucky
+52,0.4868,kentucky
+53,0.5111,kentucky
+54,0.5096,kentucky
+55,0.5157,kentucky
+56,0.5123,kentucky
+57,0.5274,kentucky
+58,0.5339,kentucky
+59,0.449,kentucky
+60,0.5038,kentucky
+61,0.5075,kentucky
+62,0.5137,kentucky
+63,0.5143,kentucky
+64,0.4976,kentucky
+65,0.5253,kentucky
+66,0.5144,kentucky
+67,0.5108,kentucky
+68,0.5229,kentucky
+69,0.5236,kentucky
+70,0.515,kentucky
+71,0.5114,kentucky
+72,0.491,kentucky
+73,0.5225,kentucky
+74,0.5123,kentucky
+75,0.515,kentucky
+76,0.5311,kentucky
+77,0.5442,kentucky
+78,0.5119,kentucky
+79,0.5396,kentucky
+80,0.5236,kentucky
+81,0.5294,kentucky
+82,0.5168,kentucky
+83,0.5204,kentucky
+84,0.5208,kentucky
+85,0.5143,kentucky
+86,0.5224,kentucky
+87,0.5191,kentucky
+88,0.5177,kentucky
+89,0.5183,kentucky
+90,0.4856,kentucky
+91,0.511,kentucky
+92,0.5159,kentucky
+93,0.4889,kentucky
+94,0.5116,kentucky
+95,0.5221,kentucky
+96,0.5125,kentucky
+97,0.4918,kentucky
+98,0.5225,kentucky
+99,0.5017,kentucky
+100,0.5071,kentucky
+1,0.5211,maine
+2,0.5283,maine
+3,0.511,maine
+4,0.5017,maine
+5,0.5568,maine
+6,0.519,maine
+7,0.5276,maine
+8,0.5448,maine
+9,0.5448,maine
+10,0.5005,maine
+11,0.5429,maine
+12,0.4937,maine
+13,0.5041,maine
+14,0.5364,maine
+15,0.5023,maine
+16,0.4928,maine
+17,0.4683,maine
+18,0.5738,maine
+19,0.5114,maine
+20,0.5108,maine
+21,0.4935,maine
+22,0.4988,maine
+23,0.5192,maine
+24,0.5062,maine
+25,0.4913,maine
+26,0.5147,maine
+27,0.5368,maine
+28,0.5344,maine
+29,0.5396,maine
+30,0.5233,maine
+31,0.5431,maine
+32,0.5248,maine
+33,0.5975,maine
+34,0.4909,maine
+35,0.5559,maine
+36,0.5055,maine
+37,0.5132,maine
+38,0.5124,maine
+39,0.5237,maine
+40,0.4762,maine
+41,0.5054,maine
+42,0.5844,maine
+43,0.5007,maine
+44,0.5099,maine
+45,0.5208,maine
+46,0.5087,maine
+47,0.5359,maine
+48,0.5143,maine
+49,0.5267,maine
+50,0.533,maine
+51,0.5339,maine
+52,0.5234,maine
+53,0.5148,maine
+54,0.5382,maine
+55,0.4876,maine
+56,0.5151,maine
+57,0.4873,maine
+58,0.5228,maine
+59,0.5218,maine
+60,0.525,maine
+61,0.5332,maine
+62,0.4978,maine
+63,0.5313,maine
+64,0.525,maine
+65,0.4798,maine
+66,0.4937,maine
+67,0.5181,maine
+68,0.4929,maine
+69,0.5105,maine
+70,0.5342,maine
+71,0.5352,maine
+72,0.5256,maine
+73,0.4908,maine
+74,0.5093,maine
+75,0.5078,maine
+76,0.5073,maine
+77,0.4967,maine
+78,0.5184,maine
+79,0.4982,maine
+80,0.4942,maine
+81,0.5083,maine
+82,0.5037,maine
+83,0.5669,maine
+84,0.5499,maine
+85,0.5309,maine
+86,0.5112,maine
+87,0.4884,maine
+88,0.4962,maine
+89,0.5381,maine
+90,0.5433,maine
+91,0.5211,maine
+92,0.508,maine
+93,0.5466,maine
+94,0.562,maine
+95,0.4326,maine
+96,0.5064,maine
+97,0.5459,maine
+98,0.5122,maine
+99,0.4947,maine
+100,0.5184,maine
+101,0.4876,maine
+102,0.51,maine
+103,0.4958,maine
+104,0.5237,maine
+105,0.4922,maine
+106,0.5047,maine
+107,0.5026,maine
+108,0.5196,maine
+109,0.5308,maine
+110,0.5352,maine
+111,0.526,maine
+112,0.4944,maine
+113,0.558,maine
+114,0.5082,maine
+115,0.5111,maine
+116,0.5041,maine
+117,0.4781,maine
+118,0.5136,maine
+119,0.5004,maine
+120,0.5101,maine
+121,0.5059,maine
+122,0.4842,maine
+123,0.5165,maine
+124,0.5386,maine
+125,0.5026,maine
+126,0.5655,maine
+127,0.4943,maine
+128,0.5161,maine
+129,0.5231,maine
+130,0.5198,maine
+131,0.5095,maine
+132,0.555,maine
+133,0.4875,maine
+134,0.525,maine
+135,0.4917,maine
+136,0.5027,maine
+137,0.5041,maine
+138,0.5119,maine
+139,0.4993,maine
+140,0.5024,maine
+141,0.5019,maine
+142,0.5005,maine
+143,0.499,maine
+144,0.5188,maine
+145,0.5019,maine
+146,0.5001,maine
+147,0.5269,maine
+148,0.4858,maine
+149,0.4979,maine
+150,0.5202,maine
+151,0.507,maine
+1st barnstable,0.5508,massachusetts
+2nd barnstable,0.5195,massachusetts
+3rd barnstable,0.5343,massachusetts
+4th barnstable,0.5306,massachusetts
+"barnstable, dukes & nantucket",0.5127,massachusetts
+1st berkshire,0.5303,massachusetts
+2nd berkshire,0.4976,massachusetts
+3rd berkshire,0.5395,massachusetts
+4th berkshire,0.5099,massachusetts
+1st bristol,0.5092,massachusetts
+2nd bristol,0.5302,massachusetts
+3rd bristol,0.5299,massachusetts
+4th bristol,0.5048,massachusetts
+5th bristol,0.5135,massachusetts
+6th bristol,0.5411,massachusetts
+7th bristol,0.5471,massachusetts
+8th bristol,0.5214,massachusetts
+9th bristol,0.5144,massachusetts
+10th bristol,0.5321,massachusetts
+11th bristol,0.5231,massachusetts
+12th bristol,0.5195,massachusetts
+13th bristol,0.5506,massachusetts
+14th bristol,0.5055,massachusetts
+1st essex,0.5296,massachusetts
+2nd essex,0.5298,massachusetts
+3rd essex,0.5204,massachusetts
+4th essex,0.5345,massachusetts
+5th essex,0.5312,massachusetts
+6th essex,0.5412,massachusetts
+7th essex,0.5521,massachusetts
+8th essex,0.5511,massachusetts
+9th essex,0.5276,massachusetts
+10th essex,0.5402,massachusetts
+11th essex,0.5224,massachusetts
+12th essex,0.5494,massachusetts
+13th essex,0.4972,massachusetts
+14th essex,0.5081,massachusetts
+15th essex,0.5299,massachusetts
+16th essex,0.5422,massachusetts
+17th essex,0.5536,massachusetts
+1st franklin,0.5211,massachusetts
+2nd franklin,0.5047,massachusetts
+1st hampden,0.5047,massachusetts
+2nd hampden,0.5306,massachusetts
+3rd hampden,0.5284,massachusetts
+4th hampden,0.511,massachusetts
+5th hampden,0.5277,massachusetts
+6th hampden,0.5401,massachusetts
+7th hampden,0.5178,massachusetts
+8th hampden,0.5129,massachusetts
+9th hampden,0.548,massachusetts
+10th hampden,0.5392,massachusetts
+11th hampden,0.5418,massachusetts
+12th hampden,0.5286,massachusetts
+18th essex,0.5215,massachusetts
+1st hampshire,0.5485,massachusetts
+2nd hampshire,0.5771,massachusetts
+3rd hampshire,0.5205,massachusetts
+1st middlesex,0.5165,massachusetts
+2nd middlesex,0.5096,massachusetts
+3rd middlesex,0.5141,massachusetts
+4th middlesex,0.5247,massachusetts
+5th middlesex,0.5261,massachusetts
+6th middlesex,0.5372,massachusetts
+7th middlesex,0.5265,massachusetts
+8th middlesex,0.5112,massachusetts
+9th middlesex,0.5166,massachusetts
+10th middlesex,0.5314,massachusetts
+11th middlesex,0.538,massachusetts
+12th middlesex,0.5346,massachusetts
+13th middlesex,0.5213,massachusetts
+14th middlesex,0.5002,massachusetts
+15th middlesex,0.5279,massachusetts
+16th middlesex,0.5202,massachusetts
+17th middlesex,0.5034,massachusetts
+18th middlesex,0.5045,massachusetts
+19th middlesex,0.5162,massachusetts
+20th middlesex,0.5064,massachusetts
+21st middlesex,0.5075,massachusetts
+22nd middlesex,0.5066,massachusetts
+23rd middlesex,0.5477,massachusetts
+24th middlesex,0.534,massachusetts
+25th middlesex,0.5206,massachusetts
+26th middlesex,0.5186,massachusetts
+27th middlesex,0.518,massachusetts
+28th middlesex,0.5325,massachusetts
+29th middlesex,0.5349,massachusetts
+30th middlesex,0.5238,massachusetts
+31st middlesex,0.5216,massachusetts
+32nd middlesex,0.5143,massachusetts
+33rd middlesex,0.547,massachusetts
+34th middlesex,0.5193,massachusetts
+35th middlesex,0.5191,massachusetts
+36th middlesex,0.5105,massachusetts
+37th middlesex,0.4712,massachusetts
+18th worcester,0.5311,massachusetts
+5th barnstable,0.5052,massachusetts
+1st norfolk,0.5222,massachusetts
+2nd norfolk,0.5383,massachusetts
+3rd norfolk,0.5197,massachusetts
+4th norfolk,0.5394,massachusetts
+5th norfolk,0.5449,massachusetts
+6th norfolk,0.5318,massachusetts
+7th norfolk,0.5502,massachusetts
+8th norfolk,0.5309,massachusetts
+9th norfolk,0.4754,massachusetts
+10th norfolk,0.5242,massachusetts
+11th norfolk,0.5342,massachusetts
+12th norfolk,0.5186,massachusetts
+13th norfolk,0.5149,massachusetts
+14th norfolk,0.5658,massachusetts
+15th norfolk,0.5785,massachusetts
+1st plymouth,0.5129,massachusetts
+2nd plymouth,0.5186,massachusetts
+3rd plymouth,0.5275,massachusetts
+4th plymouth,0.5287,massachusetts
+5th plymouth,0.5086,massachusetts
+6th plymouth,0.5097,massachusetts
+7th plymouth,0.5444,massachusetts
+8th plymouth,0.4953,massachusetts
+9th plymouth,0.5378,massachusetts
+10th plymouth,0.5126,massachusetts
+11th plymouth,0.5387,massachusetts
+12th plymouth,0.5321,massachusetts
+1st suffolk,0.497,massachusetts
+2nd suffolk,0.544,massachusetts
+3rd suffolk,0.514,massachusetts
+4th suffolk,0.5116,massachusetts
+5th suffolk,0.5425,massachusetts
+6th suffolk,0.5542,massachusetts
+7th suffolk,0.5655,massachusetts
+8th suffolk,0.5114,massachusetts
+9th suffolk,0.5134,massachusetts
+10th suffolk,0.5559,massachusetts
+11th suffolk,0.5549,massachusetts
+12th suffolk,0.5304,massachusetts
+13th suffolk,0.4931,massachusetts
+14th suffolk,0.5522,massachusetts
+15th suffolk,0.5405,massachusetts
+16th suffolk,0.5138,massachusetts
+17th suffolk,0.5333,massachusetts
+18th suffolk,0.5298,massachusetts
+19th suffolk,0.5194,massachusetts
+1st worcester,0.5121,massachusetts
+2nd worcester,0.5042,massachusetts
+3rd worcester,0.5072,massachusetts
+4th worcester,0.535,massachusetts
+5th worcester,0.5014,massachusetts
+6th worcester,0.5113,massachusetts
+7th worcester,0.5237,massachusetts
+8th worcester,0.5195,massachusetts
+9th worcester,0.5264,massachusetts
+10th worcester,0.5238,massachusetts
+11th worcester,0.5089,massachusetts
+12th worcester,0.4895,massachusetts
+13th worcester,0.517,massachusetts
+14th worcester,0.509,massachusetts
+15th worcester,0.5006,massachusetts
+16th worcester,0.5323,massachusetts
+17th worcester,0.5019,massachusetts
+1,0.5425,michigan
+2,0.5343,michigan
+3,0.5194,michigan
+4,0.5034,michigan
+5,0.5434,michigan
+6,0.5259,michigan
+7,0.554,michigan
+8,0.5421,michigan
+9,0.5538,michigan
+10,0.5503,michigan
+11,0.5196,michigan
+12,0.5295,michigan
+13,0.5146,michigan
+14,0.5346,michigan
+15,0.5137,michigan
+16,0.544,michigan
+17,0.5119,michigan
+18,0.5293,michigan
+19,0.5204,michigan
+20,0.5213,michigan
+21,0.5151,michigan
+22,0.5267,michigan
+23,0.5104,michigan
+24,0.524,michigan
+25,0.5212,michigan
+26,0.5123,michigan
+27,0.5257,michigan
+28,0.5225,michigan
+29,0.5248,michigan
+30,0.5196,michigan
+31,0.5331,michigan
+32,0.5145,michigan
+33,0.5025,michigan
+34,0.5313,michigan
+35,0.5637,michigan
+36,0.5051,michigan
+37,0.5438,michigan
+38,0.5213,michigan
+39,0.5236,michigan
+40,0.5328,michigan
+41,0.5156,michigan
+42,0.5018,michigan
+43,0.5081,michigan
+44,0.5034,michigan
+45,0.5192,michigan
+46,0.5064,michigan
+47,0.5041,michigan
+48,0.5218,michigan
+49,0.5369,michigan
+50,0.534,michigan
+51,0.5151,michigan
+52,0.5105,michigan
+53,0.5076,michigan
+54,0.5212,michigan
+55,0.5105,michigan
+56,0.5078,michigan
+57,0.4972,michigan
+58,0.4945,michigan
+59,0.5055,michigan
+60,0.5142,michigan
+61,0.5272,michigan
+62,0.5177,michigan
+63,0.5108,michigan
+64,0.5293,michigan
+65,0.4641,michigan
+66,0.5095,michigan
+67,0.5231,michigan
+68,0.5267,michigan
+69,0.5173,michigan
+70,0.4688,michigan
+71,0.5132,michigan
+72,0.5252,michigan
+73,0.5075,michigan
+74,0.5211,michigan
+75,0.5012,michigan
+76,0.534,michigan
+77,0.5142,michigan
+78,0.5109,michigan
+79,0.5261,michigan
+80,0.5096,michigan
+81,0.5023,michigan
+82,0.4959,michigan
+83,0.5162,michigan
+84,0.5049,michigan
+85,0.5082,michigan
+86,0.4913,michigan
+87,0.4987,michigan
+88,0.5176,michigan
+89,0.506,michigan
+90,0.5235,michigan
+91,0.5137,michigan
+92,0.5016,michigan
+93,0.51,michigan
+94,0.5198,michigan
+95,0.5359,michigan
+96,0.5139,michigan
+97,0.5029,michigan
+98,0.5181,michigan
+99,0.5152,michigan
+100,0.5002,michigan
+101,0.5027,michigan
+102,0.4998,michigan
+103,0.5005,michigan
+104,0.5134,michigan
+105,0.5052,michigan
+106,0.5034,michigan
+107,0.4832,michigan
+108,0.5046,michigan
+109,0.4839,michigan
+110,0.4591,michigan
+1a,0.4922,minnesota
+1b,0.499,minnesota
+2a,0.495,minnesota
+2b,0.4887,minnesota
+3a,0.4937,minnesota
+3b,0.4927,minnesota
+4a,0.5189,minnesota
+4b,0.5037,minnesota
+5a,0.51,minnesota
+5b,0.4987,minnesota
+6a,0.5021,minnesota
+6b,0.4934,minnesota
+7a,0.5062,minnesota
+7b,0.5087,minnesota
+8a,0.5093,minnesota
+8b,0.4993,minnesota
+9a,0.4924,minnesota
+9b,0.5008,minnesota
+10a,0.5188,minnesota
+10b,0.4879,minnesota
+11a,0.4787,minnesota
+11b,0.4726,minnesota
+12a,0.5052,minnesota
+12b,0.4998,minnesota
+13a,0.5122,minnesota
+13b,0.5079,minnesota
+14a,0.4964,minnesota
+14b,0.4734,minnesota
+15a,0.4952,minnesota
+15b,0.4839,minnesota
+16a,0.5029,minnesota
+16b,0.5077,minnesota
+17a,0.5019,minnesota
+17b,0.5098,minnesota
+18a,0.4986,minnesota
+18b,0.5042,minnesota
+19a,0.5014,minnesota
+19b,0.5009,minnesota
+20a,0.5067,minnesota
+20b,0.5078,minnesota
+21a,0.5152,minnesota
+21b,0.5017,minnesota
+22a,0.5105,minnesota
+22b,0.5057,minnesota
+23a,0.5038,minnesota
+23b,0.5061,minnesota
+24a,0.5208,minnesota
+24b,0.4665,minnesota
+25a,0.5119,minnesota
+25b,0.5314,minnesota
+26a,0.5171,minnesota
+26b,0.5122,minnesota
+27a,0.5111,minnesota
+27b,0.5034,minnesota
+28a,0.5127,minnesota
+28b,0.5059,minnesota
+29a,0.4942,minnesota
+29b,0.5082,minnesota
+30a,0.5004,minnesota
+30b,0.5016,minnesota
+31a,0.4938,minnesota
+31b,0.4823,minnesota
+32a,0.4825,minnesota
+32b,0.4976,minnesota
+33a,0.5014,minnesota
+33b,0.5041,minnesota
+34a,0.5214,minnesota
+34b,0.5249,minnesota
+35a,0.4969,minnesota
+35b,0.5017,minnesota
+36a,0.5149,minnesota
+36b,0.5193,minnesota
+37a,0.5251,minnesota
+37b,0.5119,minnesota
+38a,0.481,minnesota
+38b,0.5287,minnesota
+39a,0.4886,minnesota
+39b,0.48,minnesota
+40a,0.5277,minnesota
+40b,0.5115,minnesota
+41a,0.5052,minnesota
+41b,0.5213,minnesota
+42a,0.5243,minnesota
+42b,0.5471,minnesota
+43a,0.5313,minnesota
+43b,0.5315,minnesota
+44a,0.5172,minnesota
+44b,0.5342,minnesota
+45a,0.5281,minnesota
+45b,0.5426,minnesota
+46a,0.5217,minnesota
+46b,0.5315,minnesota
+47a,0.5068,minnesota
+47b,0.5109,minnesota
+48a,0.5158,minnesota
+48b,0.5142,minnesota
+49a,0.5357,minnesota
+49b,0.5494,minnesota
+50a,0.5185,minnesota
+50b,0.5169,minnesota
+51a,0.5202,minnesota
+51b,0.5126,minnesota
+52a,0.5327,minnesota
+52b,0.5154,minnesota
+53a,0.52,minnesota
+53b,0.5267,minnesota
+54a,0.5101,minnesota
+54b,0.5018,minnesota
+55a,0.5157,minnesota
+55b,0.4982,minnesota
+56a,0.4928,minnesota
+56b,0.5344,minnesota
+57a,0.5222,minnesota
+57b,0.5133,minnesota
+58a,0.4993,minnesota
+58b,0.5041,minnesota
+59a,0.5207,minnesota
+59b,0.4808,minnesota
+60a,0.5026,minnesota
+60b,0.4995,minnesota
+61a,0.4975,minnesota
+61b,0.521,minnesota
+62a,0.4864,minnesota
+62b,0.4999,minnesota
+63a,0.5107,minnesota
+63b,0.5259,minnesota
+64a,0.5289,minnesota
+64b,0.5402,minnesota
+65a,0.5181,minnesota
+65b,0.5062,minnesota
+66a,0.5341,minnesota
+66b,0.5247,minnesota
+67a,0.4962,minnesota
+67b,0.5116,minnesota
+1,0.5084,missouri
+2,0.4504,missouri
+3,0.5246,missouri
+4,0.5097,missouri
+5,0.5214,missouri
+6,0.5178,missouri
+7,0.5447,missouri
+8,0.5025,missouri
+9,0.5324,missouri
+10,0.4742,missouri
+11,0.5079,missouri
+12,0.5109,missouri
+13,0.5114,missouri
+14,0.5168,missouri
+15,0.5277,missouri
+16,0.5138,missouri
+17,0.5175,missouri
+18,0.525,missouri
+19,0.5083,missouri
+20,0.5201,missouri
+21,0.5457,missouri
+22,0.5301,missouri
+23,0.5534,missouri
+24,0.4455,missouri
+25,0.5181,missouri
+26,0.5511,missouri
+27,0.5608,missouri
+28,0.5276,missouri
+29,0.5307,missouri
+30,0.5294,missouri
+31,0.5306,missouri
+32,0.5179,missouri
+33,0.5234,missouri
+34,0.5126,missouri
+35,0.5454,missouri
+36,0.5501,missouri
+37,0.525,missouri
+38,0.5074,missouri
+39,0.5097,missouri
+40,0.4669,missouri
+41,0.5019,missouri
+42,0.5105,missouri
+43,0.5539,missouri
+44,0.5172,missouri
+45,0.5256,missouri
+46,0.5344,missouri
+47,0.4838,missouri
+48,0.4898,missouri
+49,0.4821,missouri
+50,0.519,missouri
+51,0.5093,missouri
+52,0.5024,missouri
+53,0.5152,missouri
+54,0.4955,missouri
+55,0.5138,missouri
+56,0.5117,missouri
+57,0.506,missouri
+58,0.4868,missouri
+59,0.4599,missouri
+60,0.5341,missouri
+61,0.5097,missouri
+62,0.4904,missouri
+63,0.5005,missouri
+64,0.5312,missouri
+65,0.5144,missouri
+66,0.5795,missouri
+67,0.5663,missouri
+68,0.5522,missouri
+69,0.5458,missouri
+70,0.513,missouri
+71,0.5342,missouri
+72,0.546,missouri
+73,0.5479,missouri
+74,0.5716,missouri
+75,0.5906,missouri
+76,0.5213,missouri
+77,0.5447,missouri
+78,0.5385,missouri
+79,0.524,missouri
+80,0.5238,missouri
+81,0.513,missouri
+82,0.5297,missouri
+83,0.522,missouri
+84,0.523,missouri
+85,0.5477,missouri
+86,0.5479,missouri
+87,0.5123,missouri
+88,0.5405,missouri
+89,0.531,missouri
+90,0.5478,missouri
+91,0.5369,missouri
+92,0.5363,missouri
+93,0.5153,missouri
+94,0.5296,missouri
+95,0.5058,missouri
+96,0.529,missouri
+97,0.5057,missouri
+98,0.5322,missouri
+99,0.5347,missouri
+100,0.5328,missouri
+101,0.5227,missouri
+102,0.5151,missouri
+103,0.5245,missouri
+104,0.5102,missouri
+105,0.5175,missouri
+106,0.5255,missouri
+107,0.5196,missouri
+108,0.4908,missouri
+109,0.5045,missouri
+110,0.4976,missouri
+111,0.4959,missouri
+112,0.5054,missouri
+113,0.513,missouri
+114,0.5155,missouri
+115,0.4415,missouri
+116,0.5111,missouri
+117,0.4578,missouri
+118,0.5122,missouri
+119,0.5027,missouri
+120,0.5135,missouri
+121,0.473,missouri
+122,0.3926,missouri
+123,0.506,missouri
+124,0.5036,missouri
+125,0.5082,missouri
+126,0.5219,missouri
+127,0.5035,missouri
+128,0.5194,missouri
+129,0.5108,missouri
+130,0.5172,missouri
+131,0.5148,missouri
+132,0.5128,missouri
+133,0.5352,missouri
+134,0.5062,missouri
+135,0.5293,missouri
+136,0.5321,missouri
+137,0.4987,missouri
+138,0.5155,missouri
+139,0.5206,missouri
+140,0.5193,missouri
+141,0.498,missouri
+142,0.4966,missouri
+143,0.5086,missouri
+144,0.5038,missouri
+145,0.5083,missouri
+146,0.5124,missouri
+147,0.5308,missouri
+148,0.4919,missouri
+149,0.5429,missouri
+150,0.5315,missouri
+151,0.5138,missouri
+152,0.5372,missouri
+153,0.5051,missouri
+154,0.5212,missouri
+155,0.4992,missouri
+156,0.5292,missouri
+157,0.5096,missouri
+158,0.5051,missouri
+159,0.4934,missouri
+160,0.5121,missouri
+161,0.5272,missouri
+162,0.5182,missouri
+163,0.5306,missouri
+1,0.5077,montana
+2,0.4907,montana
+3,0.4698,montana
+4,0.4979,montana
+5,0.51,montana
+6,0.5051,montana
+7,0.5407,montana
+8,0.5372,montana
+9,0.5158,montana
+10,0.5178,montana
+11,0.4759,montana
+12,0.5195,montana
+13,0.4796,montana
+14,0.4853,montana
+15,0.5105,montana
+16,0.5146,montana
+17,0.5032,montana
+18,0.4662,montana
+19,0.4733,montana
+20,0.492,montana
+21,0.5187,montana
+22,0.5091,montana
+23,0.5409,montana
+24,0.5083,montana
+25,0.5095,montana
+26,0.4522,montana
+27,0.4948,montana
+28,0.4858,montana
+29,0.5001,montana
+30,0.5078,montana
+31,0.5106,montana
+32,0.5187,montana
+33,0.5229,montana
+34,0.4905,montana
+35,0.4802,montana
+36,0.4745,montana
+37,0.4931,montana
+38,0.5133,montana
+39,0.4959,montana
+40,0.4895,montana
+41,0.512,montana
+42,0.5217,montana
+43,0.5189,montana
+44,0.533,montana
+45,0.496,montana
+46,0.5618,montana
+47,0.4908,montana
+48,0.5244,montana
+49,0.5061,montana
+50,0.5268,montana
+51,0.506,montana
+52,0.5055,montana
+53,0.505,montana
+54,0.5474,montana
+55,0.5143,montana
+56,0.4876,montana
+57,0.4929,montana
+58,0.5062,montana
+59,0.515,montana
+60,0.4991,montana
+61,0.5087,montana
+62,0.4795,montana
+63,0.4356,montana
+64,0.4403,montana
+65,0.4595,montana
+66,0.5123,montana
+67,0.537,montana
+68,0.4846,montana
+69,0.499,montana
+70,0.4778,montana
+71,0.4897,montana
+72,0.4971,montana
+73,0.5001,montana
+74,0.4966,montana
+75,0.4842,montana
+76,0.5112,montana
+77,0.48,montana
+78,0.3861,montana
+79,0.5118,montana
+80,0.493,montana
+81,0.5301,montana
+82,0.5008,montana
+83,0.5171,montana
+84,0.5191,montana
+85,0.5302,montana
+86,0.5301,montana
+87,0.4676,montana
+88,0.5117,montana
+89,0.4944,montana
+90,0.5304,montana
+91,0.4703,montana
+92,0.481,montana
+93,0.4997,montana
+94,0.4805,montana
+95,0.5009,montana
+96,0.5151,montana
+97,0.4751,montana
+98,0.5456,montana
+99,0.4948,montana
+100,0.5041,montana
+1,0.5223,nevada
+2,0.5138,nevada
+3,0.5086,nevada
+4,0.5119,nevada
+5,0.5245,nevada
+6,0.517,nevada
+7,0.5219,nevada
+8,0.4654,nevada
+9,0.505,nevada
+10,0.4812,nevada
+11,0.4372,nevada
+12,0.517,nevada
+13,0.5146,nevada
+14,0.5121,nevada
+15,0.4883,nevada
+16,0.4421,nevada
+17,0.5181,nevada
+18,0.5008,nevada
+19,0.4992,nevada
+20,0.4966,nevada
+21,0.4838,nevada
+22,0.5135,nevada
+23,0.5173,nevada
+24,0.4815,nevada
+25,0.5196,nevada
+26,0.4858,nevada
+27,0.5,nevada
+28,0.5066,nevada
+29,0.5143,nevada
+30,0.5187,nevada
+31,0.5042,nevada
+32,0.466,nevada
+33,0.4665,nevada
+34,0.5072,nevada
+35,0.5184,nevada
+36,0.4518,nevada
+37,0.5362,nevada
+38,0.4954,nevada
+39,0.4986,nevada
+40,0.4891,nevada
+41,0.5022,nevada
+42,0.4749,nevada
+1,0.5101,new mexico
+2,0.5086,new mexico
+3,0.5024,new mexico
+4,0.5229,new mexico
+5,0.542,new mexico
+6,0.5082,new mexico
+7,0.5192,new mexico
+8,0.4865,new mexico
+9,0.5199,new mexico
+10,0.495,new mexico
+11,0.5055,new mexico
+12,0.5337,new mexico
+13,0.5102,new mexico
+14,0.5245,new mexico
+15,0.5251,new mexico
+16,0.5275,new mexico
+17,0.5467,new mexico
+18,0.4957,new mexico
+19,0.5025,new mexico
+20,0.5362,new mexico
+21,0.5355,new mexico
+22,0.5211,new mexico
+23,0.5396,new mexico
+24,0.528,new mexico
+25,0.5246,new mexico
+26,0.4698,new mexico
+27,0.5096,new mexico
+28,0.5129,new mexico
+29,0.5067,new mexico
+30,0.5347,new mexico
+31,0.5108,new mexico
+32,0.4978,new mexico
+33,0.5122,new mexico
+34,0.5458,new mexico
+35,0.5194,new mexico
+36,0.5101,new mexico
+37,0.5243,new mexico
+38,0.5162,new mexico
+39,0.476,new mexico
+40,0.4916,new mexico
+41,0.5158,new mexico
+42,0.5149,new mexico
+43,0.4952,new mexico
+44,0.5069,new mexico
+45,0.5546,new mexico
+46,0.5163,new mexico
+47,0.5075,new mexico
+48,0.5294,new mexico
+49,0.4799,new mexico
+50,0.5197,new mexico
+51,0.5102,new mexico
+52,0.523,new mexico
+53,0.4274,new mexico
+54,0.4963,new mexico
+55,0.5002,new mexico
+56,0.5198,new mexico
+57,0.5121,new mexico
+58,0.5032,new mexico
+59,0.5376,new mexico
+60,0.5096,new mexico
+61,0.5118,new mexico
+62,0.4674,new mexico
+63,0.4754,new mexico
+64,0.4914,new mexico
+65,0.525,new mexico
+66,0.5032,new mexico
+67,0.4939,new mexico
+68,0.5164,new mexico
+69,0.5135,new mexico
+70,0.4995,new mexico
+1,0.504,new york
+2,0.5186,new york
+3,0.5173,new york
+4,0.5166,new york
+5,0.5031,new york
+6,0.5164,new york
+7,0.5194,new york
+8,0.5187,new york
+9,0.5281,new york
+10,0.5225,new york
+11,0.5245,new york
+12,0.5131,new york
+13,0.5239,new york
+14,0.5102,new york
+15,0.5151,new york
+16,0.5351,new york
+17,0.5197,new york
+18,0.551,new york
+19,0.5293,new york
+20,0.5296,new york
+21,0.5325,new york
+22,0.5241,new york
+23,0.5221,new york
+24,0.5194,new york
+25,0.5224,new york
+26,0.5334,new york
+27,0.5346,new york
+28,0.5338,new york
+29,0.5504,new york
+30,0.5149,new york
+31,0.5511,new york
+32,0.5545,new york
+33,0.5418,new york
+34,0.4949,new york
+35,0.5195,new york
+36,0.505,new york
+37,0.5135,new york
+38,0.5106,new york
+39,0.5081,new york
+40,0.54,new york
+41,0.5394,new york
+42,0.5635,new york
+43,0.551,new york
+44,0.5182,new york
+45,0.5264,new york
+46,0.5425,new york
+47,0.5385,new york
+48,0.5257,new york
+49,0.5288,new york
+50,0.5078,new york
+51,0.5106,new york
+52,0.5215,new york
+53,0.5242,new york
+54,0.5358,new york
+55,0.5964,new york
+56,0.5561,new york
+57,0.546,new york
+58,0.5866,new york
+59,0.5536,new york
+60,0.5873,new york
+61,0.5243,new york
+62,0.5195,new york
+63,0.5364,new york
+64,0.5275,new york
+65,0.5173,new york
+66,0.508,new york
+67,0.5379,new york
+68,0.5544,new york
+69,0.5638,new york
+70,0.5552,new york
+71,0.532,new york
+72,0.5226,new york
+73,0.5695,new york
+74,0.5468,new york
+75,0.4811,new york
+76,0.5779,new york
+77,0.5762,new york
+78,0.5503,new york
+79,0.5756,new york
+80,0.5414,new york
+81,0.5497,new york
+82,0.5411,new york
+83,0.5659,new york
+84,0.5448,new york
+85,0.5212,new york
+86,0.5686,new york
+87,0.551,new york
+88,0.5309,new york
+89,0.5495,new york
+90,0.5465,new york
+91,0.5279,new york
+92,0.5243,new york
+93,0.5266,new york
+94,0.5203,new york
+95,0.5176,new york
+96,0.5256,new york
+97,0.5218,new york
+98,0.5055,new york
+99,0.498,new york
+100,0.4965,new york
+101,0.4967,new york
+102,0.4975,new york
+103,0.5217,new york
+104,0.523,new york
+105,0.4977,new york
+106,0.5141,new york
+107,0.5107,new york
+108,0.5258,new york
+109,0.5254,new york
+110,0.5157,new york
+111,0.5149,new york
+112,0.5153,new york
+113,0.5141,new york
+114,0.4904,new york
+115,0.4724,new york
+116,0.496,new york
+117,0.4742,new york
+118,0.5083,new york
+119,0.4988,new york
+120,0.5023,new york
+121,0.5194,new york
+122,0.5024,new york
+123,0.5208,new york
+124,0.5109,new york
+125,0.5199,new york
+126,0.499,new york
+127,0.5228,new york
+128,0.5318,new york
+129,0.5315,new york
+130,0.5068,new york
+131,0.5186,new york
+132,0.4971,new york
+133,0.5103,new york
+134,0.5236,new york
+135,0.5294,new york
+136,0.5361,new york
+137,0.5456,new york
+138,0.4947,new york
+139,0.5107,new york
+140,0.5278,new york
+141,0.5561,new york
+142,0.5224,new york
+143,0.5278,new york
+144,0.5002,new york
+145,0.5249,new york
+146,0.5283,new york
+147,0.4786,new york
+148,0.5049,new york
+149,0.5196,new york
+150,0.5109,new york
+1,0.51,north carolina
+2,0.503,north carolina
+3,0.4873,north carolina
+4,0.5098,north carolina
+5,0.513,north carolina
+6,0.5159,north carolina
+7,0.5407,north carolina
+8,0.5308,north carolina
+9,0.5353,north carolina
+10,0.5165,north carolina
+11,0.4931,north carolina
+12,0.5217,north carolina
+13,0.5161,north carolina
+14,0.4835,north carolina
+15,0.3942,north carolina
+16,0.4957,north carolina
+17,0.5235,north carolina
+18,0.5267,north carolina
+19,0.5347,north carolina
+20,0.5215,north carolina
+21,0.5351,north carolina
+22,0.5312,north carolina
+23,0.5472,north carolina
+24,0.5699,north carolina
+25,0.5089,north carolina
+26,0.5188,north carolina
+27,0.5282,north carolina
+28,0.5262,north carolina
+29,0.556,north carolina
+30,0.536,north carolina
+31,0.5749,north carolina
+32,0.5347,north carolina
+33,0.5184,north carolina
+34,0.5311,north carolina
+35,0.5231,north carolina
+36,0.5139,north carolina
+37,0.5297,north carolina
+38,0.5707,north carolina
+39,0.5435,north carolina
+40,0.5231,north carolina
+41,0.5209,north carolina
+42,0.5265,north carolina
+43,0.5344,north carolina
+44,0.533,north carolina
+45,0.4683,north carolina
+46,0.5205,north carolina
+47,0.5302,north carolina
+48,0.5265,north carolina
+49,0.535,north carolina
+50,0.5034,north carolina
+51,0.5152,north carolina
+52,0.5325,north carolina
+53,0.5205,north carolina
+54,0.5246,north carolina
+55,0.5002,north carolina
+56,0.5428,north carolina
+57,0.5513,north carolina
+58,0.5585,north carolina
+59,0.5239,north carolina
+60,0.548,north carolina
+61,0.5301,north carolina
+62,0.5345,north carolina
+63,0.5392,north carolina
+64,0.5369,north carolina
+65,0.5166,north carolina
+66,0.5094,north carolina
+67,0.5129,north carolina
+68,0.5148,north carolina
+69,0.5296,north carolina
+70,0.5193,north carolina
+71,0.5443,north carolina
+72,0.5543,north carolina
+73,0.5019,north carolina
+74,0.5306,north carolina
+75,0.5385,north carolina
+76,0.5197,north carolina
+77,0.5117,north carolina
+78,0.5106,north carolina
+79,0.5296,north carolina
+80,0.5205,north carolina
+81,0.5153,north carolina
+82,0.5312,north carolina
+83,0.5227,north carolina
+84,0.5247,north carolina
+85,0.4984,north carolina
+86,0.5259,north carolina
+87,0.5115,north carolina
+88,0.5414,north carolina
+89,0.5073,north carolina
+90,0.5222,north carolina
+91,0.5243,north carolina
+92,0.5276,north carolina
+93,0.5105,north carolina
+94,0.5184,north carolina
+95,0.5128,north carolina
+96,0.5307,north carolina
+97,0.5108,north carolina
+98,0.52,north carolina
+99,0.5469,north carolina
+100,0.5232,north carolina
+101,0.5348,north carolina
+102,0.544,north carolina
+103,0.5345,north carolina
+104,0.5501,north carolina
+105,0.5471,north carolina
+106,0.5253,north carolina
+107,0.5344,north carolina
+108,0.5353,north carolina
+109,0.5296,north carolina
+110,0.5264,north carolina
+111,0.5201,north carolina
+112,0.5115,north carolina
+113,0.5247,north carolina
+114,0.541,north carolina
+115,0.5116,north carolina
+116,0.5363,north carolina
+117,0.5354,north carolina
+118,0.5151,north carolina
+119,0.5269,north carolina
+120,0.5248,north carolina
+1,0.5126,ohio
+2,0.4946,ohio
+3,0.5149,ohio
+4,0.4964,ohio
+5,0.4987,ohio
+6,0.5227,ohio
+7,0.525,ohio
+8,0.5571,ohio
+9,0.5418,ohio
+10,0.5065,ohio
+11,0.5585,ohio
+12,0.5712,ohio
+13,0.5215,ohio
+14,0.5216,ohio
+15,0.5223,ohio
+16,0.5279,ohio
+17,0.5073,ohio
+18,0.4698,ohio
+19,0.536,ohio
+20,0.5344,ohio
+21,0.5194,ohio
+22,0.524,ohio
+23,0.5292,ohio
+24,0.5226,ohio
+25,0.5302,ohio
+26,0.5492,ohio
+27,0.527,ohio
+28,0.5262,ohio
+29,0.5177,ohio
+30,0.5294,ohio
+31,0.5114,ohio
+32,0.5408,ohio
+33,0.5509,ohio
+34,0.536,ohio
+35,0.5247,ohio
+36,0.5181,ohio
+37,0.5264,ohio
+38,0.5091,ohio
+39,0.5273,ohio
+40,0.522,ohio
+41,0.5329,ohio
+42,0.5245,ohio
+43,0.5307,ohio
+44,0.5256,ohio
+45,0.5245,ohio
+46,0.5206,ohio
+47,0.5223,ohio
+48,0.5273,ohio
+49,0.535,ohio
+50,0.5107,ohio
+51,0.5268,ohio
+52,0.5168,ohio
+53,0.5153,ohio
+54,0.491,ohio
+55,0.5017,ohio
+56,0.533,ohio
+57,0.5082,ohio
+58,0.526,ohio
+59,0.5217,ohio
+60,0.5191,ohio
+61,0.5194,ohio
+62,0.5149,ohio
+63,0.5187,ohio
+64,0.5167,ohio
+65,0.5186,ohio
+66,0.5053,ohio
+67,0.5103,ohio
+68,0.5174,ohio
+69,0.5106,ohio
+70,0.5134,ohio
+71,0.5248,ohio
+72,0.504,ohio
+73,0.5071,ohio
+74,0.494,ohio
+75,0.5194,ohio
+76,0.5124,ohio
+77,0.5194,ohio
+78,0.4973,ohio
+79,0.5239,ohio
+80,0.5093,ohio
+81,0.5081,ohio
+82,0.512,ohio
+83,0.516,ohio
+84,0.5031,ohio
+85,0.5154,ohio
+86,0.4917,ohio
+87,0.5127,ohio
+88,0.5116,ohio
+89,0.5139,ohio
+90,0.515,ohio
+91,0.5128,ohio
+92,0.4675,ohio
+93,0.5159,ohio
+94,0.5063,ohio
+95,0.4762,ohio
+96,0.5193,ohio
+97,0.5205,ohio
+98,0.5135,ohio
+99,0.5006,ohio
+1,0.5072,oklahoma
+2,0.5164,oklahoma
+3,0.514,oklahoma
+4,0.5226,oklahoma
+5,0.5097,oklahoma
+6,0.4918,oklahoma
+7,0.5156,oklahoma
+8,0.511,oklahoma
+9,0.5085,oklahoma
+10,0.5235,oklahoma
+11,0.527,oklahoma
+12,0.516,oklahoma
+13,0.5198,oklahoma
+14,0.5099,oklahoma
+15,0.5126,oklahoma
+16,0.5184,oklahoma
+17,0.5114,oklahoma
+18,0.4917,oklahoma
+19,0.497,oklahoma
+20,0.4583,oklahoma
+21,0.5176,oklahoma
+22,0.5221,oklahoma
+23,0.5067,oklahoma
+24,0.4678,oklahoma
+25,0.5196,oklahoma
+26,0.5344,oklahoma
+27,0.5027,oklahoma
+28,0.5397,oklahoma
+29,0.5032,oklahoma
+30,0.5203,oklahoma
+31,0.5109,oklahoma
+32,0.5117,oklahoma
+33,0.4938,oklahoma
+34,0.495,oklahoma
+35,0.5153,oklahoma
+36,0.487,oklahoma
+37,0.5102,oklahoma
+38,0.5048,oklahoma
+39,0.5216,oklahoma
+40,0.5179,oklahoma
+41,0.5034,oklahoma
+42,0.519,oklahoma
+43,0.5301,oklahoma
+44,0.5121,oklahoma
+45,0.4951,oklahoma
+46,0.5073,oklahoma
+47,0.5111,oklahoma
+48,0.5285,oklahoma
+49,0.5076,oklahoma
+50,0.5159,oklahoma
+51,0.5066,oklahoma
+52,0.488,oklahoma
+53,0.5178,oklahoma
+54,0.5328,oklahoma
+55,0.4811,oklahoma
+56,0.5122,oklahoma
+57,0.5039,oklahoma
+58,0.4514,oklahoma
+59,0.4705,oklahoma
+60,0.4884,oklahoma
+61,0.4996,oklahoma
+62,0.5182,oklahoma
+63,0.4512,oklahoma
+64,0.4968,oklahoma
+65,0.4575,oklahoma
+66,0.5179,oklahoma
+67,0.5227,oklahoma
+68,0.532,oklahoma
+69,0.5254,oklahoma
+70,0.5441,oklahoma
+71,0.5227,oklahoma
+72,0.5317,oklahoma
+73,0.5427,oklahoma
+74,0.5147,oklahoma
+75,0.5373,oklahoma
+76,0.5223,oklahoma
+77,0.5071,oklahoma
+78,0.523,oklahoma
+79,0.5514,oklahoma
+80,0.5242,oklahoma
+81,0.5395,oklahoma
+82,0.5257,oklahoma
+83,0.5422,oklahoma
+84,0.5515,oklahoma
+85,0.5334,oklahoma
+86,0.5108,oklahoma
+87,0.5376,oklahoma
+88,0.5102,oklahoma
+89,0.5272,oklahoma
+90,0.502,oklahoma
+91,0.5062,oklahoma
+92,0.4137,oklahoma
+93,0.5249,oklahoma
+94,0.5197,oklahoma
+95,0.5174,oklahoma
+96,0.5079,oklahoma
+97,0.5348,oklahoma
+98,0.5172,oklahoma
+99,0.5518,oklahoma
+100,0.5476,oklahoma
+101,0.5172,oklahoma
+1,0.5075,oregon
+2,0.5016,oregon
+3,0.5279,oregon
+4,0.5148,oregon
+5,0.5343,oregon
+6,0.5118,oregon
+7,0.5026,oregon
+8,0.5058,oregon
+9,0.5244,oregon
+10,0.5002,oregon
+11,0.5097,oregon
+12,0.5243,oregon
+13,0.5146,oregon
+14,0.5192,oregon
+15,0.5048,oregon
+16,0.501,oregon
+17,0.5264,oregon
+18,0.5062,oregon
+19,0.507,oregon
+20,0.5294,oregon
+21,0.4985,oregon
+22,0.5097,oregon
+23,0.5116,oregon
+24,0.532,oregon
+25,0.5195,oregon
+26,0.5449,oregon
+27,0.5309,oregon
+28,0.507,oregon
+29,0.5239,oregon
+30,0.5086,oregon
+31,0.4981,oregon
+32,0.5004,oregon
+33,0.5097,oregon
+34,0.5081,oregon
+35,0.5285,oregon
+36,0.4931,oregon
+37,0.5198,oregon
+38,0.5329,oregon
+39,0.5079,oregon
+40,0.5152,oregon
+41,0.5168,oregon
+42,0.4996,oregon
+43,0.5224,oregon
+44,0.4944,oregon
+45,0.518,oregon
+46,0.5142,oregon
+47,0.5251,oregon
+48,0.5015,oregon
+49,0.5173,oregon
+50,0.524,oregon
+51,0.5232,oregon
+52,0.5027,oregon
+53,0.5115,oregon
+54,0.5175,oregon
+55,0.5036,oregon
+56,0.5008,oregon
+57,0.476,oregon
+58,0.5032,oregon
+59,0.5038,oregon
+60,0.4736,oregon
+1,0.5181,pennsylvania
+2,0.5155,pennsylvania
+3,0.5289,pennsylvania
+4,0.5098,pennsylvania
+5,0.4935,pennsylvania
+6,0.5271,pennsylvania
+7,0.531,pennsylvania
+8,0.4959,pennsylvania
+9,0.5263,pennsylvania
+10,0.5291,pennsylvania
+11,0.5131,pennsylvania
+12,0.5006,pennsylvania
+13,0.5135,pennsylvania
+14,0.5152,pennsylvania
+15,0.5121,pennsylvania
+16,0.5238,pennsylvania
+17,0.4917,pennsylvania
+18,0.5102,pennsylvania
+19,0.4935,pennsylvania
+20,0.5328,pennsylvania
+21,0.5276,pennsylvania
+22,0.5121,pennsylvania
+23,0.5227,pennsylvania
+24,0.5641,pennsylvania
+25,0.5299,pennsylvania
+26,0.5126,pennsylvania
+27,0.5239,pennsylvania
+28,0.5146,pennsylvania
+29,0.5277,pennsylvania
+30,0.5203,pennsylvania
+31,0.5158,pennsylvania
+32,0.537,pennsylvania
+33,0.5339,pennsylvania
+34,0.5383,pennsylvania
+35,0.5439,pennsylvania
+36,0.4995,pennsylvania
+37,0.5086,pennsylvania
+38,0.535,pennsylvania
+39,0.5189,pennsylvania
+40,0.5212,pennsylvania
+41,0.5265,pennsylvania
+42,0.5236,pennsylvania
+43,0.5225,pennsylvania
+44,0.5099,pennsylvania
+45,0.5273,pennsylvania
+46,0.5152,pennsylvania
+47,0.5015,pennsylvania
+48,0.5259,pennsylvania
+49,0.5226,pennsylvania
+50,0.4784,pennsylvania
+51,0.5154,pennsylvania
+52,0.5254,pennsylvania
+53,0.5166,pennsylvania
+54,0.5181,pennsylvania
+55,0.5122,pennsylvania
+56,0.5157,pennsylvania
+57,0.5223,pennsylvania
+58,0.5117,pennsylvania
+59,0.5081,pennsylvania
+60,0.5127,pennsylvania
+61,0.5339,pennsylvania
+62,0.5043,pennsylvania
+63,0.4705,pennsylvania
+64,0.5096,pennsylvania
+65,0.505,pennsylvania
+66,0.5056,pennsylvania
+67,0.4924,pennsylvania
+68,0.5084,pennsylvania
+69,0.4697,pennsylvania
+70,0.5195,pennsylvania
+71,0.5371,pennsylvania
+72,0.4916,pennsylvania
+73,0.4873,pennsylvania
+74,0.5074,pennsylvania
+75,0.5002,pennsylvania
+76,0.4757,pennsylvania
+77,0.4675,pennsylvania
+78,0.5015,pennsylvania
+79,0.5154,pennsylvania
+80,0.5233,pennsylvania
+81,0.474,pennsylvania
+82,0.5081,pennsylvania
+83,0.5269,pennsylvania
+84,0.466,pennsylvania
+85,0.5008,pennsylvania
+86,0.5079,pennsylvania
+87,0.5265,pennsylvania
+88,0.4974,pennsylvania
+89,0.5209,pennsylvania
+90,0.5205,pennsylvania
+91,0.5185,pennsylvania
+92,0.5073,pennsylvania
+93,0.5134,pennsylvania
+94,0.5166,pennsylvania
+95,0.521,pennsylvania
+96,0.5052,pennsylvania
+97,0.5267,pennsylvania
+98,0.5246,pennsylvania
+99,0.5105,pennsylvania
+100,0.5151,pennsylvania
+101,0.5309,pennsylvania
+102,0.5087,pennsylvania
+103,0.5462,pennsylvania
+104,0.5167,pennsylvania
+105,0.519,pennsylvania
+106,0.5224,pennsylvania
+107,0.4965,pennsylvania
+108,0.512,pennsylvania
+109,0.5269,pennsylvania
+110,0.5038,pennsylvania
+111,0.4772,pennsylvania
+112,0.5308,pennsylvania
+113,0.5221,pennsylvania
+114,0.5294,pennsylvania
+115,0.5169,pennsylvania
+116,0.509,pennsylvania
+117,0.5087,pennsylvania
+118,0.5118,pennsylvania
+119,0.5043,pennsylvania
+120,0.5168,pennsylvania
+121,0.5228,pennsylvania
+122,0.5092,pennsylvania
+123,0.4646,pennsylvania
+124,0.5126,pennsylvania
+125,0.5031,pennsylvania
+126,0.5376,pennsylvania
+127,0.5182,pennsylvania
+128,0.5199,pennsylvania
+129,0.5164,pennsylvania
+130,0.499,pennsylvania
+131,0.5205,pennsylvania
+132,0.5429,pennsylvania
+133,0.5163,pennsylvania
+134,0.5219,pennsylvania
+135,0.5188,pennsylvania
+136,0.5218,pennsylvania
+137,0.5192,pennsylvania
+138,0.5129,pennsylvania
+139,0.4989,pennsylvania
+140,0.5293,pennsylvania
+141,0.5159,pennsylvania
+142,0.5081,pennsylvania
+143,0.5061,pennsylvania
+144,0.5137,pennsylvania
+145,0.5147,pennsylvania
+146,0.5187,pennsylvania
+147,0.5102,pennsylvania
+148,0.5292,pennsylvania
+149,0.5371,pennsylvania
+150,0.4735,pennsylvania
+151,0.5289,pennsylvania
+152,0.5184,pennsylvania
+153,0.5282,pennsylvania
+154,0.5507,pennsylvania
+155,0.5096,pennsylvania
+156,0.5295,pennsylvania
+157,0.5235,pennsylvania
+158,0.506,pennsylvania
+159,0.5381,pennsylvania
+160,0.5117,pennsylvania
+161,0.5266,pennsylvania
+162,0.5218,pennsylvania
+163,0.5332,pennsylvania
+164,0.5543,pennsylvania
+165,0.5171,pennsylvania
+166,0.5264,pennsylvania
+167,0.5353,pennsylvania
+168,0.5248,pennsylvania
+169,0.5202,pennsylvania
+170,0.5355,pennsylvania
+171,0.5058,pennsylvania
+172,0.5484,pennsylvania
+173,0.4958,pennsylvania
+174,0.525,pennsylvania
+175,0.4992,pennsylvania
+176,0.5105,pennsylvania
+177,0.5113,pennsylvania
+178,0.5109,pennsylvania
+179,0.5616,pennsylvania
+180,0.5445,pennsylvania
+181,0.5447,pennsylvania
+182,0.5299,pennsylvania
+183,0.5127,pennsylvania
+184,0.5079,pennsylvania
+185,0.561,pennsylvania
+186,0.5558,pennsylvania
+187,0.523,pennsylvania
+188,0.5344,pennsylvania
+189,0.5013,pennsylvania
+190,0.5839,pennsylvania
+191,0.566,pennsylvania
+192,0.5654,pennsylvania
+193,0.5085,pennsylvania
+194,0.5143,pennsylvania
+195,0.5346,pennsylvania
+196,0.5082,pennsylvania
+197,0.5505,pennsylvania
+198,0.5695,pennsylvania
+199,0.5064,pennsylvania
+200,0.567,pennsylvania
+201,0.5615,pennsylvania
+202,0.5421,pennsylvania
+203,0.5426,pennsylvania
+1,0.518,rhode island
+2,0.5077,rhode island
+3,0.5363,rhode island
+4,0.5169,rhode island
+5,0.5626,rhode island
+6,0.5691,rhode island
+7,0.5165,rhode island
+8,0.4799,rhode island
+9,0.5344,rhode island
+10,0.5273,rhode island
+11,0.4902,rhode island
+12,0.5419,rhode island
+13,0.5497,rhode island
+14,0.5556,rhode island
+15,0.4892,rhode island
+16,0.5551,rhode island
+17,0.5169,rhode island
+18,0.5175,rhode island
+19,0.5259,rhode island
+20,0.4436,rhode island
+21,0.5186,rhode island
+22,0.5247,rhode island
+23,0.5322,rhode island
+24,0.5309,rhode island
+25,0.5276,rhode island
+26,0.5208,rhode island
+27,0.5279,rhode island
+28,0.4943,rhode island
+29,0.551,rhode island
+30,0.5159,rhode island
+31,0.5141,rhode island
+32,0.5039,rhode island
+33,0.5152,rhode island
+34,0.5201,rhode island
+35,0.5453,rhode island
+36,0.5065,rhode island
+37,0.545,rhode island
+38,0.5262,rhode island
+39,0.5071,rhode island
+40,0.5029,rhode island
+41,0.5076,rhode island
+42,0.5726,rhode island
+43,0.5242,rhode island
+44,0.5381,rhode island
+45,0.5146,rhode island
+46,0.5515,rhode island
+47,0.5125,rhode island
+48,0.5441,rhode island
+49,0.5324,rhode island
+50,0.5143,rhode island
+51,0.5371,rhode island
+52,0.5476,rhode island
+53,0.5266,rhode island
+54,0.5465,rhode island
+55,0.5483,rhode island
+56,0.5579,rhode island
+57,0.5342,rhode island
+58,0.4958,rhode island
+59,0.5085,rhode island
+60,0.5083,rhode island
+61,0.5148,rhode island
+62,0.5185,rhode island
+63,0.5499,rhode island
+64,0.5504,rhode island
+65,0.5606,rhode island
+66,0.5278,rhode island
+67,0.5295,rhode island
+68,0.5333,rhode island
+69,0.5146,rhode island
+70,0.5012,rhode island
+71,0.5058,rhode island
+72,0.5342,rhode island
+73,0.4677,rhode island
+74,0.5233,rhode island
+75,0.5472,rhode island
+1,0.4986,south carolina
+2,0.5221,south carolina
+3,0.4938,south carolina
+4,0.5104,south carolina
+5,0.5244,south carolina
+6,0.5246,south carolina
+7,0.5198,south carolina
+8,0.5184,south carolina
+9,0.5428,south carolina
+10,0.5215,south carolina
+11,0.5241,south carolina
+12,0.5241,south carolina
+13,0.5507,south carolina
+14,0.5184,south carolina
+15,0.4805,south carolina
+16,0.5384,south carolina
+17,0.5087,south carolina
+18,0.5155,south carolina
+19,0.5343,south carolina
+20,0.5345,south carolina
+21,0.5349,south carolina
+22,0.5419,south carolina
+23,0.5131,south carolina
+24,0.5409,south carolina
+25,0.5286,south carolina
+26,0.5396,south carolina
+27,0.5242,south carolina
+28,0.5113,south carolina
+29,0.5046,south carolina
+30,0.5327,south carolina
+31,0.5566,south carolina
+32,0.5359,south carolina
+33,0.4839,south carolina
+34,0.5362,south carolina
+35,0.5141,south carolina
+36,0.5341,south carolina
+37,0.5414,south carolina
+38,0.5062,south carolina
+39,0.5384,south carolina
+40,0.5227,south carolina
+41,0.5386,south carolina
+42,0.5303,south carolina
+43,0.5098,south carolina
+44,0.5344,south carolina
+45,0.5217,south carolina
+46,0.5435,south carolina
+47,0.5252,south carolina
+48,0.5094,south carolina
+49,0.5509,south carolina
+50,0.4783,south carolina
+51,0.5629,south carolina
+52,0.5367,south carolina
+53,0.5239,south carolina
+54,0.4799,south carolina
+55,0.5376,south carolina
+56,0.5235,south carolina
+57,0.5588,south carolina
+58,0.5354,south carolina
+59,0.5553,south carolina
+60,0.5158,south carolina
+61,0.5535,south carolina
+62,0.5577,south carolina
+63,0.5488,south carolina
+64,0.5103,south carolina
+65,0.4944,south carolina
+66,0.5402,south carolina
+67,0.517,south carolina
+68,0.5218,south carolina
+69,0.5345,south carolina
+70,0.5088,south carolina
+71,0.512,south carolina
+72,0.5209,south carolina
+73,0.4989,south carolina
+74,0.5281,south carolina
+75,0.4636,south carolina
+76,0.5766,south carolina
+77,0.546,south carolina
+78,0.5024,south carolina
+79,0.5363,south carolina
+80,0.5275,south carolina
+81,0.5366,south carolina
+82,0.4836,south carolina
+83,0.5383,south carolina
+84,0.5026,south carolina
+85,0.5264,south carolina
+86,0.5219,south carolina
+87,0.5094,south carolina
+88,0.5281,south carolina
+89,0.5157,south carolina
+90,0.532,south carolina
+91,0.5089,south carolina
+92,0.5254,south carolina
+93,0.5241,south carolina
+94,0.5069,south carolina
+95,0.5551,south carolina
+96,0.5109,south carolina
+97,0.5154,south carolina
+98,0.5288,south carolina
+99,0.5228,south carolina
+100,0.5166,south carolina
+101,0.5272,south carolina
+102,0.5026,south carolina
+103,0.5413,south carolina
+104,0.5204,south carolina
+105,0.5145,south carolina
+106,0.5328,south carolina
+107,0.5144,south carolina
+108,0.5099,south carolina
+109,0.5226,south carolina
+110,0.5415,south carolina
+111,0.4686,south carolina
+112,0.5305,south carolina
+113,0.5471,south carolina
+114,0.5321,south carolina
+115,0.5159,south carolina
+116,0.5119,south carolina
+117,0.5305,south carolina
+118,0.5515,south carolina
+119,0.5472,south carolina
+120,0.5098,south carolina
+121,0.5434,south carolina
+122,0.49,south carolina
+123,0.5345,south carolina
+124,0.4612,south carolina
+1,0.5237,tennessee
+2,0.5262,tennessee
+3,0.4922,tennessee
+4,0.5183,tennessee
+5,0.5229,tennessee
+6,0.5261,tennessee
+7,0.5149,tennessee
+8,0.5202,tennessee
+9,0.5139,tennessee
+10,0.5207,tennessee
+11,0.5129,tennessee
+12,0.5249,tennessee
+13,0.5401,tennessee
+14,0.5181,tennessee
+15,0.5294,tennessee
+16,0.5307,tennessee
+17,0.5176,tennessee
+18,0.5277,tennessee
+19,0.4972,tennessee
+20,0.5285,tennessee
+21,0.5122,tennessee
+22,0.5144,tennessee
+23,0.5191,tennessee
+24,0.5275,tennessee
+25,0.5172,tennessee
+26,0.5224,tennessee
+27,0.5292,tennessee
+28,0.5562,tennessee
+29,0.5153,tennessee
+30,0.5156,tennessee
+31,0.4945,tennessee
+32,0.5157,tennessee
+33,0.5245,tennessee
+34,0.515,tennessee
+35,0.5136,tennessee
+36,0.5159,tennessee
+37,0.5131,tennessee
+38,0.5152,tennessee
+39,0.5148,tennessee
+40,0.5137,tennessee
+41,0.4841,tennessee
+42,0.5199,tennessee
+43,0.5177,tennessee
+44,0.5248,tennessee
+45,0.521,tennessee
+46,0.5115,tennessee
+47,0.5234,tennessee
+48,0.514,tennessee
+49,0.5201,tennessee
+50,0.5314,tennessee
+51,0.5188,tennessee
+52,0.5388,tennessee
+53,0.5309,tennessee
+54,0.5454,tennessee
+55,0.5436,tennessee
+56,0.5389,tennessee
+57,0.5204,tennessee
+58,0.5488,tennessee
+59,0.4833,tennessee
+60,0.5272,tennessee
+61,0.5312,tennessee
+62,0.5286,tennessee
+63,0.5142,tennessee
+64,0.5241,tennessee
+65,0.5243,tennessee
+66,0.5175,tennessee
+67,0.4993,tennessee
+68,0.5058,tennessee
+69,0.5051,tennessee
+70,0.5216,tennessee
+71,0.4953,tennessee
+72,0.5216,tennessee
+73,0.5253,tennessee
+74,0.4971,tennessee
+75,0.5183,tennessee
+76,0.5212,tennessee
+77,0.5014,tennessee
+78,0.5147,tennessee
+79,0.5347,tennessee
+80,0.5095,tennessee
+81,0.5148,tennessee
+82,0.5088,tennessee
+83,0.4886,tennessee
+84,0.5684,tennessee
+85,0.5735,tennessee
+86,0.5208,tennessee
+87,0.5582,tennessee
+88,0.5401,tennessee
+89,0.5189,tennessee
+90,0.5234,tennessee
+91,0.544,tennessee
+92,0.52,tennessee
+93,0.5444,tennessee
+94,0.5142,tennessee
+95,0.5123,tennessee
+96,0.5509,tennessee
+97,0.5495,tennessee
+98,0.5502,tennessee
+99,0.5241,tennessee
+1,0.512,texas
+2,0.5163,texas
+3,0.5143,texas
+4,0.5173,texas
+5,0.512,texas
+6,0.5339,texas
+7,0.5247,texas
+8,0.4567,texas
+9,0.52,texas
+10,0.517,texas
+11,0.5059,texas
+12,0.525,texas
+13,0.5008,texas
+14,0.5024,texas
+15,0.5108,texas
+16,0.5233,texas
+17,0.4894,texas
+18,0.4679,texas
+19,0.4936,texas
+20,0.5171,texas
+21,0.5105,texas
+22,0.48,texas
+23,0.5178,texas
+24,0.5093,texas
+25,0.4791,texas
+26,0.5018,texas
+27,0.5312,texas
+28,0.5267,texas
+29,0.5158,texas
+30,0.5106,texas
+31,0.4987,texas
+32,0.5104,texas
+33,0.5181,texas
+34,0.5185,texas
+35,0.5228,texas
+36,0.5258,texas
+37,0.5219,texas
+38,0.5165,texas
+39,0.5079,texas
+40,0.5038,texas
+41,0.517,texas
+42,0.5171,texas
+43,0.4817,texas
+44,0.5124,texas
+45,0.5118,texas
+46,0.5062,texas
+47,0.5182,texas
+48,0.5212,texas
+49,0.4984,texas
+50,0.5092,texas
+51,0.4895,texas
+52,0.5142,texas
+53,0.5087,texas
+54,0.5086,texas
+55,0.4994,texas
+56,0.5201,texas
+57,0.4921,texas
+58,0.5095,texas
+59,0.513,texas
+60,0.5112,texas
+61,0.5053,texas
+62,0.5114,texas
+63,0.5135,texas
+64,0.5227,texas
+65,0.5211,texas
+66,0.5303,texas
+67,0.5156,texas
+68,0.5,texas
+69,0.4846,texas
+70,0.5263,texas
+71,0.4923,texas
+72,0.4944,texas
+73,0.5194,texas
+74,0.479,texas
+75,0.5078,texas
+76,0.5056,texas
+77,0.5112,texas
+78,0.5056,texas
+79,0.4913,texas
+80,0.4991,texas
+81,0.5007,texas
+82,0.5011,texas
+83,0.4931,texas
+84,0.5168,texas
+85,0.5145,texas
+86,0.5143,texas
+87,0.4922,texas
+88,0.4928,texas
+89,0.5115,texas
+90,0.518,texas
+91,0.5225,texas
+92,0.518,texas
+93,0.5089,texas
+94,0.5327,texas
+95,0.5298,texas
+96,0.5328,texas
+97,0.5327,texas
+98,0.5184,texas
+99,0.5168,texas
+100,0.5187,texas
+101,0.5224,texas
+102,0.5024,texas
+103,0.4889,texas
+104,0.5223,texas
+105,0.527,texas
+106,0.5124,texas
+107,0.5289,texas
+108,0.5042,texas
+109,0.5443,texas
+110,0.5438,texas
+111,0.5675,texas
+112,0.524,texas
+113,0.5144,texas
+114,0.5248,texas
+115,0.5282,texas
+116,0.5284,texas
+117,0.4911,texas
+118,0.5145,texas
+119,0.5205,texas
+120,0.5257,texas
+121,0.5191,texas
+122,0.5205,texas
+123,0.5033,texas
+124,0.5173,texas
+125,0.5257,texas
+126,0.5143,texas
+127,0.5239,texas
+128,0.5078,texas
+129,0.5093,texas
+130,0.5062,texas
+131,0.5293,texas
+132,0.5216,texas
+133,0.53,texas
+134,0.5168,texas
+135,0.5283,texas
+136,0.519,texas
+137,0.5161,texas
+138,0.5011,texas
+139,0.5256,texas
+140,0.5212,texas
+141,0.5643,texas
+142,0.5087,texas
+143,0.5044,texas
+144,0.5132,texas
+145,0.4812,texas
+146,0.5496,texas
+147,0.4946,texas
+148,0.5102,texas
+149,0.5209,texas
+150,0.5157,texas
+1,0.4941,utah
+2,0.5017,utah
+3,0.4943,utah
+4,0.5203,utah
+5,0.5013,utah
+6,0.4913,utah
+7,0.5024,utah
+8,0.4942,utah
+9,0.4743,utah
+10,0.5089,utah
+11,0.5249,utah
+12,0.4913,utah
+13,0.5206,utah
+14,0.5046,utah
+15,0.5066,utah
+16,0.4835,utah
+17,0.5031,utah
+18,0.4928,utah
+19,0.5244,utah
+20,0.4938,utah
+21,0.5006,utah
+22,0.5311,utah
+23,0.4877,utah
+24,0.4558,utah
+25,0.4748,utah
+26,0.5032,utah
+27,0.5,utah
+28,0.5087,utah
+29,0.508,utah
+30,0.5054,utah
+31,0.5034,utah
+32,0.5036,utah
+33,0.5061,utah
+34,0.5217,utah
+35,0.4855,utah
+36,0.5032,utah
+37,0.5348,utah
+38,0.5196,utah
+39,0.5104,utah
+40,0.5155,utah
+41,0.4959,utah
+42,0.5057,utah
+43,0.4941,utah
+44,0.5165,utah
+45,0.5003,utah
+46,0.5104,utah
+47,0.4858,utah
+48,0.5267,utah
+49,0.5125,utah
+50,0.5018,utah
+51,0.469,utah
+52,0.5154,utah
+53,0.4905,utah
+54,0.4897,utah
+55,0.4935,utah
+56,0.4947,utah
+57,0.5219,utah
+58,0.4766,utah
+59,0.5067,utah
+60,0.501,utah
+61,0.4829,utah
+62,0.5041,utah
+63,0.5046,utah
+64,0.4946,utah
+65,0.5048,utah
+66,0.4962,utah
+67,0.4995,utah
+68,0.4923,utah
+69,0.5115,utah
+70,0.4898,utah
+71,0.5059,utah
+72,0.5023,utah
+73,0.5043,utah
+74,0.5263,utah
+75,0.5159,utah
+addison-2,0.4791,vermont
+addison-5,0.4996,vermont
+addison-rutland,0.5107,vermont
+bennington-1,0.5058,vermont
+bennington-3,0.5007,vermont
+bennington-rutland,0.5393,vermont
+chittenden-1,0.4984,vermont
+chittenden-4-1,0.4884,vermont
+chittenden-4-2,0.4832,vermont
+chittenden-5-1,0.5945,vermont
+chittenden-5-2,0.517,vermont
+chittenden-6-2,0.5224,vermont
+chittenden-6-6,0.4595,vermont
+chittenden-7-1,0.5336,vermont
+chittenden-7-2,0.524,vermont
+chittenden-7-3,0.5527,vermont
+chittenden-7-4,0.5296,vermont
+chittenden-8-3,0.5148,vermont
+caledonia-1,0.4951,vermont
+caledonia-2,0.5049,vermont
+caledonia-washington,0.53,vermont
+essex-caledonia,0.5028,vermont
+essex-caledonia-orleans,0.4922,vermont
+franklin-1,0.4681,vermont
+franklin-2,0.518,vermont
+franklin-6,0.4991,vermont
+franklin-7,0.5188,vermont
+franklin-3-2,0.4577,vermont
+lamoille-1,0.5424,vermont
+lamoille-3,0.4797,vermont
+orange-caledonia,0.5202,vermont
+orleans-lamoille,0.4975,vermont
+orange-2,0.5117,vermont
+rutland-1,0.5253,vermont
+rutland-4,0.5106,vermont
+rutland-bennington,0.5083,vermont
+rutland-windsor-1,0.4863,vermont
+rutland-5-1,0.5437,vermont
+rutland-5-2,0.5349,vermont
+rutland-5-3,0.4975,vermont
+rutland-5-4,0.5142,vermont
+rutland-windsor-2,0.4868,vermont
+windham-1,0.5295,vermont
+windham-5,0.515,vermont
+windham-6,0.513,vermont
+windham-2-1,0.5306,vermont
+windham-2-2,0.5454,vermont
+windham-2-3,0.4799,vermont
+washington-5,0.5286,vermont
+washington-6,0.4955,vermont
+windham-bennington-windsor,0.5052,vermont
+windham-bennington,0.4847,vermont
+windsor-2,0.5121,vermont
+windsor-5,0.5172,vermont
+windsor-rutland,0.5098,vermont
+windsor-3-1,0.4932,vermont
+windsor-4-1,0.4959,vermont
+windsor-orange-1,0.5373,vermont
+2,0.5214,west virginia
+5,0.5113,west virginia
+6,0.4804,west virginia
+7,0.4916,west virginia
+8,0.5009,west virginia
+9,0.5101,west virginia
+11,0.5181,west virginia
+12,0.5095,west virginia
+14,0.5137,west virginia
+15,0.5046,west virginia
+18,0.5149,west virginia
+20,0.514,west virginia
+21,0.5075,west virginia
+23,0.5174,west virginia
+25,0.505,west virginia
+26,0.4986,west virginia
+29,0.5289,west virginia
+30,0.5315,west virginia
+31,0.4997,west virginia
+33,0.4956,west virginia
+34,0.4567,west virginia
+37,0.5305,west virginia
+38,0.5087,west virginia
+39,0.5032,west virginia
+40,0.5179,west virginia
+41,0.5214,west virginia
+44,0.5113,west virginia
+45,0.5019,west virginia
+46,0.5014,west virginia
+47,0.5232,west virginia
+49,0.4907,west virginia
+52,0.4647,west virginia
+53,0.5084,west virginia
+54,0.5086,west virginia
+55,0.5037,west virginia
+56,0.4984,west virginia
+57,0.5084,west virginia
+58,0.4902,west virginia
+59,0.5034,west virginia
+60,0.4942,west virginia
+61,0.5493,west virginia
+62,0.4969,west virginia
+63,0.505,west virginia
+64,0.5095,west virginia
+65,0.5296,west virginia
+66,0.5008,west virginia
+67,0.5118,west virginia
+1,0.4984,wisconsin
+2,0.5083,wisconsin
+3,0.5069,wisconsin
+4,0.5025,wisconsin
+5,0.5004,wisconsin
+6,0.507,wisconsin
+7,0.5155,wisconsin
+8,0.5222,wisconsin
+9,0.5308,wisconsin
+10,0.5412,wisconsin
+11,0.5719,wisconsin
+12,0.5709,wisconsin
+13,0.5304,wisconsin
+14,0.5269,wisconsin
+15,0.5254,wisconsin
+16,0.5181,wisconsin
+17,0.566,wisconsin
+18,0.5555,wisconsin
+19,0.4817,wisconsin
+20,0.5059,wisconsin
+21,0.5135,wisconsin
+22,0.5115,wisconsin
+23,0.5276,wisconsin
+24,0.5256,wisconsin
+25,0.5121,wisconsin
+26,0.5011,wisconsin
+27,0.5093,wisconsin
+28,0.5,wisconsin
+29,0.5077,wisconsin
+30,0.5133,wisconsin
+31,0.5177,wisconsin
+32,0.5037,wisconsin
+33,0.5154,wisconsin
+34,0.4993,wisconsin
+35,0.498,wisconsin
+36,0.4936,wisconsin
+37,0.5058,wisconsin
+38,0.4988,wisconsin
+39,0.4951,wisconsin
+40,0.4798,wisconsin
+41,0.4984,wisconsin
+42,0.4781,wisconsin
+43,0.4941,wisconsin
+44,0.5216,wisconsin
+45,0.5226,wisconsin
+46,0.5313,wisconsin
+47,0.5038,wisconsin
+48,0.5214,wisconsin
+49,0.48,wisconsin
+50,0.4854,wisconsin
+51,0.5071,wisconsin
+52,0.5249,wisconsin
+53,0.441,wisconsin
+54,0.5237,wisconsin
+55,0.5072,wisconsin
+56,0.5147,wisconsin
+57,0.5141,wisconsin
+58,0.5173,wisconsin
+59,0.4793,wisconsin
+60,0.5022,wisconsin
+61,0.5012,wisconsin
+62,0.5097,wisconsin
+63,0.5076,wisconsin
+64,0.5239,wisconsin
+65,0.5175,wisconsin
+66,0.5138,wisconsin
+67,0.4926,wisconsin
+68,0.4782,wisconsin
+69,0.5071,wisconsin
+70,0.4908,wisconsin
+71,0.5078,wisconsin
+72,0.5036,wisconsin
+73,0.503,wisconsin
+74,0.4956,wisconsin
+75,0.5021,wisconsin
+76,0.4957,wisconsin
+77,0.5176,wisconsin
+78,0.5214,wisconsin
+79,0.519,wisconsin
+80,0.4993,wisconsin
+81,0.4973,wisconsin
+82,0.5108,wisconsin
+83,0.504,wisconsin
+84,0.5168,wisconsin
+85,0.5207,wisconsin
+86,0.4912,wisconsin
+87,0.4915,wisconsin
+88,0.5198,wisconsin
+89,0.5037,wisconsin
+90,0.5084,wisconsin
+91,0.5251,wisconsin
+92,0.4844,wisconsin
+93,0.4967,wisconsin
+94,0.5098,wisconsin
+95,0.5267,wisconsin
+96,0.4939,wisconsin
+97,0.5136,wisconsin
+98,0.5289,wisconsin
+99,0.5054,wisconsin
+1,0.4786,wyoming
+2,0.5041,wyoming
+3,0.4697,wyoming
+4,0.4876,wyoming
+5,0.4805,wyoming
+6,0.5051,wyoming
+7,0.5061,wyoming
+8,0.5285,wyoming
+9,0.5069,wyoming
+10,0.4671,wyoming
+11,0.5077,wyoming
+12,0.4615,wyoming
+13,0.4839,wyoming
+14,0.4988,wyoming
+15,0.4825,wyoming
+16,0.4119,wyoming
+17,0.4523,wyoming
+18,0.4512,wyoming
+19,0.4664,wyoming
+20,0.4628,wyoming
+21,0.4932,wyoming
+22,0.498,wyoming
+23,0.5176,wyoming
+24,0.5222,wyoming
+25,0.5113,wyoming
+26,0.4721,wyoming
+27,0.5104,wyoming
+28,0.4991,wyoming
+29,0.5253,wyoming
+30,0.4997,wyoming
+31,0.4815,wyoming
+32,0.5059,wyoming
+33,0.5168,wyoming
+34,0.4891,wyoming
+35,0.5008,wyoming
+36,0.5066,wyoming
+37,0.4619,wyoming
+38,0.5209,wyoming
+39,0.4989,wyoming
+40,0.4838,wyoming
+41,0.5343,wyoming
+42,0.4495,wyoming
+43,0.4987,wyoming
+44,0.4756,wyoming
+45,0.4659,wyoming
+46,0.4925,wyoming
+47,0.4238,wyoming
+48,0.4893,wyoming
+49,0.5475,wyoming
+50,0.4968,wyoming
+51,0.5052,wyoming
+52,0.4845,wyoming
+53,0.4744,wyoming
+54,0.525,wyoming
+55,0.4888,wyoming
+56,0.4685,wyoming
+57,0.5205,wyoming
+58,0.4612,wyoming
+59,0.5261,wyoming
+60,0.5021,wyoming

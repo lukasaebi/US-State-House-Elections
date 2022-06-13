@@ -1,0 +1,82 @@
+Variable Description of DataFrame for US State House Elections USA in 2016
+
+--- All the values of a variable apply for the respective voting district! ---
+
+district = Voting Districts for the respective state. Most of it numbered, but some with text.
+
+state
+
+percent households receiving food stamps
+
+household language not english = percent of households where no english is spoken
+
+percent uninsured 
+
+non-white = percent of people which are at least partially non-white (or fully non-white --> blacks included)
+
+black/afroamerican = percent of people which are black/afroamerican
+
+percent female
+
+under 20 = percent of population per district which is under 20 years old
+
+20 to 34 = percent of population per district which is between 20 and 34 years old
+
+35 to 49 = percent of population per district which is between 35 and 49 years old
+
+50 to 64 = percent of population per district which is between 50 and 64 years old
+
+65 and over = percent of population per district which is 65 years old or older
+
+median age = median age of the population in the respective voting district
+
+monthly housing costs:
+- $499 or lower
+- $500 - 999
+- $1000 - 1999
+- $2000 or higher
+- median
+
+percent owner-occupied housing units = how many percent of housing units are owned by private persons (-> not rented)
+
+average family size
+
+native = born in USA
+
+foreign born = not born in USA
+
+percent of tot. population in poverty
+
+earnings:
+- $1 - $24'999
+- $25'000 - $49'999
+- $50'000 - $74'999
+- $75'000 or more
+
+median earnings
+
+management, business, science and arts occupations
+
+service occupations 
+
+sales and office occupations
+
+blue collar occupations
+
+less than highschool = percent of people with educational attainment of less than highschool
+
+highschool = percent of people with educational attainment of highschool
+
+college or associate = percent of people with educational attainment of college or associate
+
+bachelor or higher = percent of people with educational attainment of bachelor or higher
+
+democrat = number of votes for democrat candidate per district
+
+republican = number of votes for republican candidate per district
+
+other = number of votes for independent candidate per district
+
+year
+
+target = 0: republican winner, 1: democrat winner, 2: independent winner of district

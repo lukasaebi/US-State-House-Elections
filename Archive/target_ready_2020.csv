@@ -1,0 +1,3918 @@
+state,district,office,year,target
+alaska,001,state house,2020,0
+alaska,002,state house,2020,0
+alaska,003,state house,2020,0
+alaska,004,state house,2020,1
+alaska,005,state house,2020,1
+alaska,006,state house,2020,0
+alaska,007,state house,2020,0
+alaska,008,state house,2020,0
+alaska,009,state house,2020,0
+alaska,010,state house,2020,0
+alaska,011,state house,2020,0
+alaska,012,state house,2020,0
+alaska,013,state house,2020,0
+alaska,014,state house,2020,0
+alaska,015,state house,2020,0
+alaska,016,state house,2020,1
+alaska,017,state house,2020,1
+alaska,018,state house,2020,1
+alaska,019,state house,2020,1
+alaska,020,state house,2020,1
+alaska,021,state house,2020,1
+alaska,022,state house,2020,0
+alaska,023,state house,2020,1
+alaska,024,state house,2020,0
+alaska,025,state house,2020,1
+alaska,026,state house,2020,0
+alaska,027,state house,2020,1
+alaska,028,state house,2020,0
+alaska,029,state house,2020,0
+alaska,030,state house,2020,0
+alaska,031,state house,2020,0
+alaska,032,state house,2020,0
+alaska,033,state house,2020,1
+alaska,034,state house,2020,1
+alaska,035,state house,2020,1
+alaska,036,state house,2020,2
+alaska,037,state house,2020,1
+alaska,038,state house,2020,1
+alaska,039,state house,2020,1
+alaska,040,state house,2020,2
+arkansas,001,state house,2020,0
+arkansas,002,state house,2020,0
+arkansas,003,state house,2020,0
+arkansas,004,state house,2020,0
+arkansas,005,state house,2020,1
+arkansas,006,state house,2020,0
+arkansas,007,state house,2020,0
+arkansas,008,state house,2020,0
+arkansas,009,state house,2020,0
+arkansas,010,state house,2020,0
+arkansas,011,state house,2020,0
+arkansas,013,state house,2020,0
+arkansas,014,state house,2020,0
+arkansas,015,state house,2020,0
+arkansas,016,state house,2020,1
+arkansas,017,state house,2020,1
+arkansas,018,state house,2020,0
+arkansas,019,state house,2020,0
+arkansas,020,state house,2020,0
+arkansas,021,state house,2020,0
+arkansas,022,state house,2020,0
+arkansas,023,state house,2020,0
+arkansas,024,state house,2020,0
+arkansas,025,state house,2020,0
+arkansas,026,state house,2020,0
+arkansas,027,state house,2020,0
+arkansas,028,state house,2020,0
+arkansas,029,state house,2020,1
+arkansas,030,state house,2020,1
+arkansas,031,state house,2020,0
+arkansas,032,state house,2020,1
+arkansas,033,state house,2020,1
+arkansas,034,state house,2020,1
+arkansas,035,state house,2020,1
+arkansas,036,state house,2020,1
+arkansas,037,state house,2020,1
+arkansas,038,state house,2020,0
+arkansas,039,state house,2020,0
+arkansas,040,state house,2020,0
+arkansas,041,state house,2020,0
+arkansas,042,state house,2020,1
+arkansas,043,state house,2020,0
+arkansas,044,state house,2020,0
+arkansas,047,state house,2020,0
+arkansas,048,state house,2020,1
+arkansas,049,state house,2020,0
+arkansas,050,state house,2020,1
+arkansas,051,state house,2020,1
+arkansas,052,state house,2020,0
+arkansas,053,state house,2020,0
+arkansas,054,state house,2020,0
+arkansas,055,state house,2020,1
+arkansas,056,state house,2020,0
+arkansas,057,state house,2020,0
+arkansas,058,state house,2020,0
+arkansas,059,state house,2020,0
+arkansas,060,state house,2020,0
+arkansas,061,state house,2020,0
+arkansas,062,state house,2020,0
+arkansas,063,state house,2020,0
+arkansas,064,state house,2020,0
+arkansas,065,state house,2020,0
+arkansas,066,state house,2020,0
+arkansas,067,state house,2020,0
+arkansas,068,state house,2020,0
+arkansas,069,state house,2020,0
+arkansas,070,state house,2020,0
+arkansas,071,state house,2020,0
+arkansas,072,state house,2020,1
+arkansas,073,state house,2020,0
+arkansas,074,state house,2020,0
+arkansas,075,state house,2020,0
+arkansas,076,state house,2020,0
+arkansas,077,state house,2020,0
+arkansas,078,state house,2020,1
+arkansas,079,state house,2020,0
+arkansas,080,state house,2020,0
+arkansas,081,state house,2020,0
+arkansas,082,state house,2020,0
+arkansas,083,state house,2020,0
+arkansas,084,state house,2020,1
+arkansas,085,state house,2020,1
+arkansas,086,state house,2020,1
+arkansas,087,state house,2020,0
+arkansas,088,state house,2020,0
+arkansas,089,state house,2020,1
+arkansas,090,state house,2020,0
+arkansas,091,state house,2020,0
+arkansas,092,state house,2020,0
+arkansas,093,state house,2020,0
+arkansas,094,state house,2020,0
+arkansas,095,state house,2020,0
+arkansas,096,state house,2020,0
+arkansas,097,state house,2020,0
+arkansas,098,state house,2020,0
+arkansas,099,state house,2020,0
+arkansas,100,state house,2020,0
+california,001,state house,2020,0
+california,002,state house,2020,1
+california,003,state house,2020,0
+california,004,state house,2020,1
+california,005,state house,2020,0
+california,006,state house,2020,0
+california,007,state house,2020,1
+california,008,state house,2020,1
+california,009,state house,2020,1
+california,010,state house,2020,1
+california,011,state house,2020,1
+california,012,state house,2020,0
+california,013,state house,2020,1
+california,014,state house,2020,1
+california,015,state house,2020,1
+california,016,state house,2020,1
+california,017,state house,2020,1
+california,018,state house,2020,1
+california,019,state house,2020,1
+california,020,state house,2020,1
+california,021,state house,2020,1
+california,022,state house,2020,1
+california,023,state house,2020,0
+california,024,state house,2020,1
+california,025,state house,2020,1
+california,026,state house,2020,0
+california,027,state house,2020,1
+california,028,state house,2020,1
+california,029,state house,2020,1
+california,030,state house,2020,1
+california,031,state house,2020,1
+california,032,state house,2020,1
+california,033,state house,2020,0
+california,034,state house,2020,0
+california,035,state house,2020,0
+california,036,state house,2020,0
+california,037,state house,2020,1
+california,038,state house,2020,0
+california,039,state house,2020,1
+california,040,state house,2020,1
+california,041,state house,2020,1
+california,042,state house,2020,2
+california,043,state house,2020,1
+california,044,state house,2020,1
+california,045,state house,2020,1
+california,046,state house,2020,1
+california,047,state house,2020,1
+california,048,state house,2020,1
+california,049,state house,2020,1
+california,050,state house,2020,1
+california,051,state house,2020,1
+california,052,state house,2020,1
+california,053,state house,2020,1
+california,054,state house,2020,1
+california,055,state house,2020,0
+california,056,state house,2020,1
+california,057,state house,2020,1
+california,058,state house,2020,1
+california,059,state house,2020,1
+california,060,state house,2020,1
+california,061,state house,2020,1
+california,062,state house,2020,1
+california,063,state house,2020,1
+california,064,state house,2020,1
+california,065,state house,2020,1
+california,066,state house,2020,1
+california,067,state house,2020,0
+california,068,state house,2020,0
+california,069,state house,2020,1
+california,070,state house,2020,1
+california,071,state house,2020,0
+california,072,state house,2020,0
+california,073,state house,2020,0
+california,074,state house,2020,1
+california,075,state house,2020,0
+california,076,state house,2020,1
+california,077,state house,2020,1
+california,078,state house,2020,1
+california,079,state house,2020,1
+california,080,state house,2020,1
+colorado,001,state house,2020,1
+colorado,002,state house,2020,1
+colorado,003,state house,2020,1
+colorado,004,state house,2020,1
+colorado,005,state house,2020,1
+colorado,006,state house,2020,1
+colorado,007,state house,2020,1
+colorado,008,state house,2020,1
+colorado,009,state house,2020,1
+colorado,010,state house,2020,1
+colorado,011,state house,2020,1
+colorado,012,state house,2020,1
+colorado,013,state house,2020,1
+colorado,014,state house,2020,0
+colorado,015,state house,2020,0
+colorado,016,state house,2020,0
+colorado,017,state house,2020,1
+colorado,018,state house,2020,1
+colorado,019,state house,2020,0
+colorado,020,state house,2020,0
+colorado,021,state house,2020,0
+colorado,022,state house,2020,0
+colorado,023,state house,2020,1
+colorado,024,state house,2020,1
+colorado,025,state house,2020,1
+colorado,026,state house,2020,1
+colorado,027,state house,2020,1
+colorado,028,state house,2020,1
+colorado,029,state house,2020,1
+colorado,030,state house,2020,1
+colorado,031,state house,2020,1
+colorado,032,state house,2020,1
+colorado,033,state house,2020,1
+colorado,034,state house,2020,1
+colorado,035,state house,2020,1
+colorado,036,state house,2020,1
+colorado,037,state house,2020,1
+colorado,038,state house,2020,1
+colorado,039,state house,2020,0
+colorado,040,state house,2020,1
+colorado,041,state house,2020,1
+colorado,042,state house,2020,1
+colorado,043,state house,2020,0
+colorado,044,state house,2020,0
+colorado,045,state house,2020,0
+colorado,046,state house,2020,1
+colorado,047,state house,2020,0
+colorado,048,state house,2020,0
+colorado,049,state house,2020,0
+colorado,050,state house,2020,1
+colorado,051,state house,2020,0
+colorado,052,state house,2020,1
+colorado,053,state house,2020,1
+colorado,054,state house,2020,0
+colorado,055,state house,2020,0
+colorado,056,state house,2020,0
+colorado,057,state house,2020,0
+colorado,058,state house,2020,0
+colorado,059,state house,2020,1
+colorado,060,state house,2020,0
+colorado,061,state house,2020,1
+colorado,062,state house,2020,1
+colorado,063,state house,2020,0
+colorado,064,state house,2020,0
+colorado,065,state house,2020,0
+connecticut,001,state house,2020,1
+connecticut,002,state house,2020,1
+connecticut,003,state house,2020,1
+connecticut,004,state house,2020,1
+connecticut,005,state house,2020,1
+connecticut,006,state house,2020,1
+connecticut,007,state house,2020,1
+connecticut,008,state house,2020,0
+connecticut,009,state house,2020,1
+connecticut,010,state house,2020,1
+connecticut,011,state house,2020,1
+connecticut,012,state house,2020,1
+connecticut,013,state house,2020,1
+connecticut,014,state house,2020,0
+connecticut,015,state house,2020,1
+connecticut,016,state house,2020,1
+connecticut,017,state house,2020,1
+connecticut,018,state house,2020,1
+connecticut,019,state house,2020,1
+connecticut,020,state house,2020,1
+connecticut,021,state house,2020,1
+connecticut,022,state house,2020,0
+connecticut,023,state house,2020,0
+connecticut,024,state house,2020,1
+connecticut,025,state house,2020,1
+connecticut,026,state house,2020,1
+connecticut,027,state house,2020,1
+connecticut,028,state house,2020,1
+connecticut,029,state house,2020,1
+connecticut,030,state house,2020,0
+connecticut,031,state house,2020,1
+connecticut,032,state house,2020,0
+connecticut,033,state house,2020,1
+connecticut,034,state house,2020,0
+connecticut,035,state house,2020,0
+connecticut,036,state house,2020,1
+connecticut,037,state house,2020,0
+connecticut,038,state house,2020,1
+connecticut,039,state house,2020,1
+connecticut,040,state house,2020,1
+connecticut,041,state house,2020,1
+connecticut,042,state house,2020,0
+connecticut,043,state house,2020,1
+connecticut,044,state house,2020,0
+connecticut,045,state house,2020,0
+connecticut,046,state house,2020,1
+connecticut,047,state house,2020,0
+connecticut,048,state house,2020,1
+connecticut,049,state house,2020,1
+connecticut,050,state house,2020,1
+connecticut,051,state house,2020,0
+connecticut,052,state house,2020,0
+connecticut,053,state house,2020,0
+connecticut,054,state house,2020,1
+connecticut,055,state house,2020,0
+connecticut,056,state house,2020,1
+connecticut,057,state house,2020,0
+connecticut,058,state house,2020,1
+connecticut,059,state house,2020,0
+connecticut,060,state house,2020,1
+connecticut,061,state house,2020,0
+connecticut,062,state house,2020,0
+connecticut,063,state house,2020,0
+connecticut,064,state house,2020,1
+connecticut,065,state house,2020,1
+connecticut,066,state house,2020,0
+connecticut,067,state house,2020,0
+connecticut,068,state house,2020,0
+connecticut,069,state house,2020,0
+connecticut,070,state house,2020,0
+connecticut,071,state house,2020,0
+connecticut,072,state house,2020,1
+connecticut,073,state house,2020,1
+connecticut,074,state house,2020,1
+connecticut,075,state house,2020,1
+connecticut,076,state house,2020,0
+connecticut,077,state house,2020,0
+connecticut,078,state house,2020,0
+connecticut,079,state house,2020,1
+connecticut,080,state house,2020,0
+connecticut,081,state house,2020,0
+connecticut,082,state house,2020,1
+connecticut,083,state house,2020,1
+connecticut,084,state house,2020,1
+connecticut,085,state house,2020,1
+connecticut,086,state house,2020,0
+connecticut,087,state house,2020,0
+connecticut,088,state house,2020,1
+connecticut,089,state house,2020,0
+connecticut,090,state house,2020,0
+connecticut,091,state house,2020,1
+connecticut,092,state house,2020,1
+connecticut,093,state house,2020,1
+connecticut,094,state house,2020,1
+connecticut,095,state house,2020,1
+connecticut,096,state house,2020,1
+connecticut,097,state house,2020,1
+connecticut,098,state house,2020,1
+connecticut,099,state house,2020,0
+connecticut,100,state house,2020,1
+connecticut,101,state house,2020,1
+connecticut,102,state house,2020,1
+connecticut,103,state house,2020,1
+connecticut,104,state house,2020,1
+connecticut,105,state house,2020,0
+connecticut,106,state house,2020,0
+connecticut,107,state house,2020,0
+connecticut,108,state house,2020,0
+connecticut,109,state house,2020,1
+connecticut,110,state house,2020,1
+connecticut,111,state house,2020,1
+connecticut,112,state house,2020,0
+connecticut,113,state house,2020,0
+connecticut,114,state house,2020,1
+connecticut,115,state house,2020,1
+connecticut,116,state house,2020,1
+connecticut,117,state house,2020,0
+connecticut,118,state house,2020,1
+connecticut,119,state house,2020,0
+connecticut,120,state house,2020,1
+connecticut,121,state house,2020,1
+connecticut,122,state house,2020,0
+connecticut,123,state house,2020,0
+connecticut,124,state house,2020,1
+connecticut,125,state house,2020,0
+connecticut,126,state house,2020,1
+connecticut,127,state house,2020,1
+connecticut,128,state house,2020,1
+connecticut,129,state house,2020,1
+connecticut,130,state house,2020,1
+connecticut,131,state house,2020,0
+connecticut,132,state house,2020,1
+connecticut,133,state house,2020,1
+connecticut,134,state house,2020,0
+connecticut,135,state house,2020,1
+connecticut,136,state house,2020,1
+connecticut,137,state house,2020,1
+connecticut,138,state house,2020,1
+connecticut,139,state house,2020,1
+connecticut,140,state house,2020,1
+connecticut,141,state house,2020,0
+connecticut,142,state house,2020,1
+connecticut,143,state house,2020,1
+connecticut,144,state house,2020,1
+connecticut,145,state house,2020,1
+connecticut,146,state house,2020,1
+connecticut,147,state house,2020,1
+connecticut,148,state house,2020,1
+connecticut,149,state house,2020,0
+connecticut,150,state house,2020,1
+connecticut,151,state house,2020,0
+delaware,001,state house,2020,1
+delaware,002,state house,2020,1
+delaware,003,state house,2020,1
+delaware,004,state house,2020,1
+delaware,005,state house,2020,1
+delaware,006,state house,2020,1
+delaware,007,state house,2020,1
+delaware,008,state house,2020,1
+delaware,009,state house,2020,0
+delaware,010,state house,2020,1
+delaware,011,state house,2020,0
+delaware,012,state house,2020,1
+delaware,013,state house,2020,1
+delaware,014,state house,2020,1
+delaware,015,state house,2020,1
+delaware,016,state house,2020,1
+delaware,017,state house,2020,1
+delaware,018,state house,2020,1
+delaware,019,state house,2020,1
+delaware,020,state house,2020,0
+delaware,021,state house,2020,0
+delaware,022,state house,2020,0
+delaware,023,state house,2020,1
+delaware,024,state house,2020,1
+delaware,025,state house,2020,1
+delaware,026,state house,2020,1
+delaware,027,state house,2020,1
+delaware,028,state house,2020,1
+delaware,029,state house,2020,1
+delaware,030,state house,2020,0
+delaware,031,state house,2020,1
+delaware,032,state house,2020,1
+delaware,033,state house,2020,0
+delaware,034,state house,2020,0
+delaware,035,state house,2020,0
+delaware,036,state house,2020,0
+delaware,037,state house,2020,0
+delaware,038,state house,2020,0
+delaware,039,state house,2020,0
+delaware,040,state house,2020,0
+delaware,041,state house,2020,0
+florida,001,state house,2020,0
+florida,002,state house,2020,0
+florida,003,state house,2020,0
+florida,004,state house,2020,0
+florida,006,state house,2020,0
+florida,007,state house,2020,0
+florida,009,state house,2020,1
+florida,010,state house,2020,0
+florida,011,state house,2020,0
+florida,012,state house,2020,0
+florida,015,state house,2020,0
+florida,016,state house,2020,0
+florida,017,state house,2020,0
+florida,018,state house,2020,0
+florida,019,state house,2020,0
+florida,021,state house,2020,0
+florida,022,state house,2020,0
+florida,023,state house,2020,0
+florida,024,state house,2020,0
+florida,025,state house,2020,0
+florida,026,state house,2020,0
+florida,027,state house,2020,0
+florida,028,state house,2020,0
+florida,029,state house,2020,0
+florida,030,state house,2020,1
+florida,031,state house,2020,0
+florida,032,state house,2020,0
+florida,033,state house,2020,0
+florida,034,state house,2020,0
+florida,035,state house,2020,0
+florida,036,state house,2020,0
+florida,037,state house,2020,0
+florida,038,state house,2020,0
+florida,039,state house,2020,0
+florida,040,state house,2020,0
+florida,041,state house,2020,0
+florida,042,state house,2020,0
+florida,044,state house,2020,1
+florida,047,state house,2020,1
+florida,048,state house,2020,1
+florida,049,state house,2020,1
+florida,050,state house,2020,0
+florida,051,state house,2020,0
+florida,052,state house,2020,0
+florida,053,state house,2020,0
+florida,054,state house,2020,0
+florida,055,state house,2020,0
+florida,056,state house,2020,0
+florida,057,state house,2020,0
+florida,058,state house,2020,0
+florida,059,state house,2020,1
+florida,060,state house,2020,0
+florida,062,state house,2020,1
+florida,064,state house,2020,0
+florida,065,state house,2020,0
+florida,066,state house,2020,0
+florida,067,state house,2020,0
+florida,068,state house,2020,1
+florida,069,state house,2020,0
+florida,071,state house,2020,0
+florida,072,state house,2020,0
+florida,073,state house,2020,0
+florida,074,state house,2020,0
+florida,075,state house,2020,0
+florida,076,state house,2020,0
+florida,077,state house,2020,0
+florida,078,state house,2020,0
+florida,079,state house,2020,0
+florida,080,state house,2020,0
+florida,081,state house,2020,1
+florida,082,state house,2020,0
+florida,083,state house,2020,0
+florida,084,state house,2020,0
+florida,085,state house,2020,0
+florida,086,state house,2020,1
+florida,087,state house,2020,1
+florida,088,state house,2020,1
+florida,089,state house,2020,0
+florida,090,state house,2020,1
+florida,091,state house,2020,1
+florida,092,state house,2020,1
+florida,093,state house,2020,0
+florida,101,state house,2020,1
+florida,103,state house,2020,0
+florida,104,state house,2020,1
+florida,105,state house,2020,0
+florida,106,state house,2020,0
+florida,110,state house,2020,0
+florida,111,state house,2020,0
+florida,112,state house,2020,1
+florida,114,state house,2020,0
+florida,115,state house,2020,0
+florida,116,state house,2020,0
+florida,118,state house,2020,0
+florida,119,state house,2020,0
+florida,120,state house,2020,0
+georgia,001,state house,2020,0
+georgia,002,state house,2020,0
+georgia,003,state house,2020,0
+georgia,004,state house,2020,0
+georgia,005,state house,2020,0
+georgia,006,state house,2020,0
+georgia,007,state house,2020,0
+georgia,008,state house,2020,0
+georgia,009,state house,2020,0
+georgia,010,state house,2020,0
+georgia,011,state house,2020,0
+georgia,012,state house,2020,0
+georgia,013,state house,2020,0
+georgia,014,state house,2020,0
+georgia,015,state house,2020,0
+georgia,016,state house,2020,0
+georgia,017,state house,2020,0
+georgia,018,state house,2020,0
+georgia,019,state house,2020,0
+georgia,020,state house,2020,0
+georgia,021,state house,2020,0
+georgia,022,state house,2020,0
+georgia,023,state house,2020,0
+georgia,024,state house,2020,0
+georgia,025,state house,2020,0
+georgia,026,state house,2020,0
+georgia,027,state house,2020,0
+georgia,028,state house,2020,0
+georgia,029,state house,2020,0
+georgia,030,state house,2020,0
+georgia,031,state house,2020,0
+georgia,032,state house,2020,0
+georgia,033,state house,2020,0
+georgia,034,state house,2020,0
+georgia,035,state house,2020,0
+georgia,036,state house,2020,0
+georgia,037,state house,2020,1
+georgia,038,state house,2020,1
+georgia,039,state house,2020,1
+georgia,040,state house,2020,1
+georgia,041,state house,2020,1
+georgia,042,state house,2020,1
+georgia,043,state house,2020,0
+georgia,044,state house,2020,0
+georgia,045,state house,2020,0
+georgia,046,state house,2020,0
+georgia,047,state house,2020,0
+georgia,048,state house,2020,1
+georgia,049,state house,2020,0
+georgia,050,state house,2020,1
+georgia,051,state house,2020,1
+georgia,052,state house,2020,1
+georgia,053,state house,2020,1
+georgia,054,state house,2020,1
+georgia,055,state house,2020,1
+georgia,056,state house,2020,1
+georgia,057,state house,2020,1
+georgia,058,state house,2020,1
+georgia,059,state house,2020,1
+georgia,060,state house,2020,1
+georgia,061,state house,2020,1
+georgia,062,state house,2020,1
+georgia,063,state house,2020,1
+georgia,064,state house,2020,1
+georgia,065,state house,2020,1
+georgia,066,state house,2020,1
+georgia,067,state house,2020,0
+georgia,068,state house,2020,0
+georgia,069,state house,2020,0
+georgia,070,state house,2020,0
+georgia,071,state house,2020,0
+georgia,072,state house,2020,0
+georgia,073,state house,2020,0
+georgia,074,state house,2020,1
+georgia,075,state house,2020,1
+georgia,076,state house,2020,1
+georgia,077,state house,2020,1
+georgia,078,state house,2020,1
+georgia,079,state house,2020,1
+georgia,080,state house,2020,1
+georgia,081,state house,2020,1
+georgia,082,state house,2020,1
+georgia,083,state house,2020,1
+georgia,084,state house,2020,1
+georgia,085,state house,2020,1
+georgia,086,state house,2020,1
+georgia,087,state house,2020,1
+georgia,088,state house,2020,1
+georgia,089,state house,2020,1
+georgia,090,state house,2020,1
+georgia,091,state house,2020,1
+georgia,092,state house,2020,1
+georgia,093,state house,2020,1
+georgia,094,state house,2020,1
+georgia,095,state house,2020,1
+georgia,096,state house,2020,1
+georgia,097,state house,2020,0
+georgia,098,state house,2020,0
+georgia,099,state house,2020,1
+georgia,100,state house,2020,1
+georgia,101,state house,2020,1
+georgia,102,state house,2020,1
+georgia,103,state house,2020,0
+georgia,104,state house,2020,0
+georgia,105,state house,2020,1
+georgia,106,state house,2020,1
+georgia,107,state house,2020,1
+georgia,108,state house,2020,1
+georgia,109,state house,2020,1
+georgia,110,state house,2020,0
+georgia,111,state house,2020,1
+georgia,112,state house,2020,0
+georgia,113,state house,2020,1
+georgia,114,state house,2020,0
+georgia,115,state house,2020,0
+georgia,116,state house,2020,0
+georgia,117,state house,2020,0
+georgia,118,state house,2020,1
+georgia,119,state house,2020,0
+georgia,120,state house,2020,0
+georgia,121,state house,2020,0
+georgia,122,state house,2020,0
+georgia,123,state house,2020,0
+georgia,124,state house,2020,1
+georgia,125,state house,2020,1
+georgia,126,state house,2020,1
+georgia,127,state house,2020,1
+georgia,128,state house,2020,1
+georgia,129,state house,2020,0
+georgia,130,state house,2020,0
+georgia,131,state house,2020,0
+georgia,132,state house,2020,0
+georgia,133,state house,2020,0
+georgia,134,state house,2020,0
+georgia,135,state house,2020,1
+georgia,136,state house,2020,1
+georgia,137,state house,2020,1
+georgia,138,state house,2020,0
+georgia,139,state house,2020,1
+georgia,140,state house,2020,0
+georgia,141,state house,2020,0
+georgia,142,state house,2020,1
+georgia,143,state house,2020,1
+georgia,144,state house,2020,0
+georgia,145,state house,2020,0
+georgia,146,state house,2020,0
+georgia,147,state house,2020,0
+georgia,148,state house,2020,0
+georgia,149,state house,2020,0
+georgia,150,state house,2020,0
+georgia,151,state house,2020,0
+georgia,152,state house,2020,0
+georgia,153,state house,2020,1
+georgia,154,state house,2020,1
+georgia,155,state house,2020,0
+georgia,156,state house,2020,0
+georgia,157,state house,2020,0
+georgia,158,state house,2020,0
+georgia,159,state house,2020,0
+georgia,160,state house,2020,0
+georgia,161,state house,2020,0
+georgia,162,state house,2020,1
+georgia,163,state house,2020,1
+georgia,164,state house,2020,0
+georgia,165,state house,2020,1
+georgia,166,state house,2020,0
+georgia,167,state house,2020,0
+georgia,168,state house,2020,1
+georgia,169,state house,2020,0
+georgia,170,state house,2020,0
+georgia,171,state house,2020,0
+georgia,172,state house,2020,0
+georgia,173,state house,2020,0
+georgia,174,state house,2020,0
+georgia,175,state house,2020,0
+georgia,176,state house,2020,0
+georgia,177,state house,2020,1
+georgia,178,state house,2020,0
+georgia,179,state house,2020,0
+georgia,180,state house,2020,0
+hawaii,001,state house,2020,1
+hawaii,002,state house,2020,1
+hawaii,003,state house,2020,1
+hawaii,004,state house,2020,1
+hawaii,005,state house,2020,1
+hawaii,009,state house,2020,1
+hawaii,010,state house,2020,1
+hawaii,011,state house,2020,1
+hawaii,013,state house,2020,1
+hawaii,014,state house,2020,1
+hawaii,015,state house,2020,1
+hawaii,016,state house,2020,1
+hawaii,017,state house,2020,0
+hawaii,018,state house,2020,1
+hawaii,019,state house,2020,1
+hawaii,020,state house,2020,1
+hawaii,022,state house,2020,1
+hawaii,024,state house,2020,1
+hawaii,030,state house,2020,1
+hawaii,033,state house,2020,1
+hawaii,034,state house,2020,1
+hawaii,035,state house,2020,1
+hawaii,036,state house,2020,0
+hawaii,037,state house,2020,1
+hawaii,039,state house,2020,1
+hawaii,040,state house,2020,0
+hawaii,041,state house,2020,1
+hawaii,043,state house,2020,1
+hawaii,044,state house,2020,1
+hawaii,045,state house,2020,0
+hawaii,047,state house,2020,1
+hawaii,049,state house,2020,1
+hawaii,050,state house,2020,1
+hawaii,051,state house,2020,1
+idaho,"001, seat a",state house,2020,0
+idaho,"001, seat b",state house,2020,0
+idaho,"002, seat a",state house,2020,0
+idaho,"002, seat b",state house,2020,0
+idaho,"003, seat a",state house,2020,0
+idaho,"003, seat b",state house,2020,0
+idaho,"004, seat a",state house,2020,0
+idaho,"004, seat b",state house,2020,0
+idaho,"005, seat a",state house,2020,0
+idaho,"005, seat b",state house,2020,0
+idaho,"006, seat a",state house,2020,0
+idaho,"006, seat b",state house,2020,0
+idaho,"007, seat a",state house,2020,0
+idaho,"007, seat b",state house,2020,0
+idaho,"008, seat a",state house,2020,0
+idaho,"008, seat b",state house,2020,0
+idaho,"009, seat a",state house,2020,0
+idaho,"009, seat b",state house,2020,0
+idaho,"010, seat a",state house,2020,0
+idaho,"010, seat b",state house,2020,0
+idaho,"011, seat a",state house,2020,0
+idaho,"011, seat b",state house,2020,0
+idaho,"012, seat a",state house,2020,0
+idaho,"012, seat b",state house,2020,0
+idaho,"013, seat a",state house,2020,0
+idaho,"013, seat b",state house,2020,0
+idaho,"014, seat a",state house,2020,0
+idaho,"014, seat b",state house,2020,0
+idaho,"015, seat a",state house,2020,1
+idaho,"015, seat b",state house,2020,0
+idaho,"016, seat a",state house,2020,1
+idaho,"016, seat b",state house,2020,1
+idaho,"017, seat a",state house,2020,1
+idaho,"017, seat b",state house,2020,1
+idaho,"018, seat a",state house,2020,1
+idaho,"018, seat b",state house,2020,1
+idaho,"019, seat a",state house,2020,1
+idaho,"019, seat b",state house,2020,1
+idaho,"020, seat a",state house,2020,0
+idaho,"020, seat b",state house,2020,0
+idaho,"021, seat a",state house,2020,0
+idaho,"021, seat b",state house,2020,0
+idaho,"022, seat a",state house,2020,0
+idaho,"022, seat b",state house,2020,0
+idaho,"023, seat a",state house,2020,0
+idaho,"023, seat b",state house,2020,0
+idaho,"024, seat a",state house,2020,0
+idaho,"024, seat b",state house,2020,0
+idaho,"025, seat a",state house,2020,0
+idaho,"025, seat b",state house,2020,0
+idaho,"026, seat a",state house,2020,1
+idaho,"026, seat b",state house,2020,1
+idaho,"027, seat a",state house,2020,0
+idaho,"027, seat b",state house,2020,0
+idaho,"028, seat a",state house,2020,0
+idaho,"028, seat b",state house,2020,0
+idaho,"029, seat a",state house,2020,0
+idaho,"029, seat b",state house,2020,1
+idaho,"030, seat a",state house,2020,0
+idaho,"030, seat b",state house,2020,0
+idaho,"031, seat a",state house,2020,0
+idaho,"031, seat b",state house,2020,0
+idaho,"032, seat a",state house,2020,0
+idaho,"032, seat b",state house,2020,0
+idaho,"033, seat a",state house,2020,0
+idaho,"033, seat b",state house,2020,0
+idaho,"034, seat a",state house,2020,0
+idaho,"034, seat b",state house,2020,0
+idaho,"035, seat a",state house,2020,0
+idaho,"035, seat b",state house,2020,0
+illinois,001,state house,2020,1
+illinois,002,state house,2020,1
+illinois,003,state house,2020,1
+illinois,004,state house,2020,1
+illinois,005,state house,2020,1
+illinois,006,state house,2020,1
+illinois,007,state house,2020,1
+illinois,008,state house,2020,1
+illinois,009,state house,2020,1
+illinois,010,state house,2020,1
+illinois,011,state house,2020,1
+illinois,012,state house,2020,1
+illinois,013,state house,2020,1
+illinois,014,state house,2020,1
+illinois,015,state house,2020,1
+illinois,016,state house,2020,1
+illinois,017,state house,2020,1
+illinois,018,state house,2020,1
+illinois,019,state house,2020,1
+illinois,020,state house,2020,0
+illinois,021,state house,2020,1
+illinois,022,state house,2020,1
+illinois,023,state house,2020,1
+illinois,024,state house,2020,1
+illinois,025,state house,2020,1
+illinois,026,state house,2020,1
+illinois,027,state house,2020,1
+illinois,028,state house,2020,1
+illinois,029,state house,2020,1
+illinois,030,state house,2020,1
+illinois,031,state house,2020,1
+illinois,032,state house,2020,1
+illinois,033,state house,2020,1
+illinois,034,state house,2020,1
+illinois,035,state house,2020,1
+illinois,036,state house,2020,1
+illinois,037,state house,2020,0
+illinois,038,state house,2020,1
+illinois,039,state house,2020,1
+illinois,040,state house,2020,1
+illinois,041,state house,2020,1
+illinois,042,state house,2020,0
+illinois,043,state house,2020,1
+illinois,044,state house,2020,1
+illinois,045,state house,2020,0
+illinois,046,state house,2020,1
+illinois,047,state house,2020,0
+illinois,048,state house,2020,1
+illinois,049,state house,2020,1
+illinois,050,state house,2020,0
+illinois,051,state house,2020,0
+illinois,052,state house,2020,0
+illinois,053,state house,2020,1
+illinois,054,state house,2020,0
+illinois,055,state house,2020,1
+illinois,056,state house,2020,1
+illinois,057,state house,2020,1
+illinois,058,state house,2020,1
+illinois,059,state house,2020,1
+illinois,060,state house,2020,1
+illinois,061,state house,2020,1
+illinois,062,state house,2020,1
+illinois,063,state house,2020,0
+illinois,064,state house,2020,0
+illinois,065,state house,2020,0
+illinois,066,state house,2020,1
+illinois,067,state house,2020,1
+illinois,068,state house,2020,1
+illinois,069,state house,2020,0
+illinois,070,state house,2020,0
+illinois,071,state house,2020,0
+illinois,072,state house,2020,1
+illinois,073,state house,2020,0
+illinois,074,state house,2020,0
+illinois,075,state house,2020,0
+illinois,076,state house,2020,1
+illinois,077,state house,2020,1
+illinois,078,state house,2020,1
+illinois,079,state house,2020,0
+illinois,080,state house,2020,1
+illinois,081,state house,2020,1
+illinois,082,state house,2020,0
+illinois,083,state house,2020,1
+illinois,084,state house,2020,1
+illinois,085,state house,2020,1
+illinois,086,state house,2020,1
+illinois,087,state house,2020,0
+illinois,088,state house,2020,0
+illinois,089,state house,2020,0
+illinois,090,state house,2020,0
+illinois,091,state house,2020,0
+illinois,092,state house,2020,1
+illinois,093,state house,2020,0
+illinois,094,state house,2020,0
+illinois,095,state house,2020,0
+illinois,096,state house,2020,1
+illinois,097,state house,2020,0
+illinois,098,state house,2020,1
+illinois,099,state house,2020,0
+illinois,100,state house,2020,0
+illinois,101,state house,2020,0
+illinois,102,state house,2020,0
+illinois,103,state house,2020,1
+illinois,104,state house,2020,0
+illinois,105,state house,2020,0
+illinois,106,state house,2020,0
+illinois,107,state house,2020,0
+illinois,108,state house,2020,0
+illinois,109,state house,2020,0
+illinois,110,state house,2020,0
+illinois,111,state house,2020,0
+illinois,112,state house,2020,1
+illinois,113,state house,2020,1
+illinois,114,state house,2020,1
+illinois,115,state house,2020,0
+illinois,116,state house,2020,0
+illinois,117,state house,2020,0
+illinois,118,state house,2020,0
+indiana,1,state house,2020,1
+indiana,2,state house,2020,1
+indiana,3,state house,2020,1
+indiana,4,state house,2020,0
+indiana,5,state house,2020,0
+indiana,6,state house,2020,1
+indiana,7,state house,2020,0
+indiana,8,state house,2020,1
+indiana,9,state house,2020,1
+indiana,10,state house,2020,1
+indiana,11,state house,2020,0
+indiana,12,state house,2020,1
+indiana,13,state house,2020,0
+indiana,14,state house,2020,1
+indiana,15,state house,2020,0
+indiana,16,state house,2020,0
+indiana,17,state house,2020,0
+indiana,18,state house,2020,0
+indiana,19,state house,2020,0
+indiana,20,state house,2020,0
+indiana,21,state house,2020,0
+indiana,22,state house,2020,0
+indiana,23,state house,2020,0
+indiana,24,state house,2020,0
+indiana,25,state house,2020,0
+indiana,26,state house,2020,1
+indiana,27,state house,2020,1
+indiana,28,state house,2020,0
+indiana,29,state house,2020,0
+indiana,30,state house,2020,0
+indiana,31,state house,2020,0
+indiana,32,state house,2020,0
+indiana,33,state house,2020,0
+indiana,34,state house,2020,1
+indiana,35,state house,2020,0
+indiana,36,state house,2020,1
+indiana,37,state house,2020,0
+indiana,38,state house,2020,0
+indiana,39,state house,2020,0
+indiana,40,state house,2020,0
+indiana,41,state house,2020,0
+indiana,42,state house,2020,0
+indiana,43,state house,2020,1
+indiana,44,state house,2020,0
+indiana,45,state house,2020,0
+indiana,46,state house,2020,0
+indiana,47,state house,2020,0
+indiana,48,state house,2020,0
+indiana,49,state house,2020,0
+indiana,50,state house,2020,0
+indiana,51,state house,2020,0
+indiana,52,state house,2020,0
+indiana,53,state house,2020,0
+indiana,54,state house,2020,0
+indiana,55,state house,2020,0
+indiana,56,state house,2020,0
+indiana,57,state house,2020,0
+indiana,58,state house,2020,0
+indiana,59,state house,2020,0
+indiana,60,state house,2020,0
+indiana,61,state house,2020,1
+indiana,62,state house,2020,0
+indiana,63,state house,2020,0
+indiana,64,state house,2020,0
+indiana,65,state house,2020,0
+indiana,66,state house,2020,0
+indiana,67,state house,2020,0
+indiana,68,state house,2020,0
+indiana,69,state house,2020,0
+indiana,70,state house,2020,0
+indiana,71,state house,2020,1
+indiana,72,state house,2020,0
+indiana,73,state house,2020,0
+indiana,74,state house,2020,0
+indiana,75,state house,2020,0
+indiana,76,state house,2020,0
+indiana,77,state house,2020,1
+indiana,78,state house,2020,0
+indiana,79,state house,2020,0
+indiana,80,state house,2020,1
+indiana,81,state house,2020,0
+indiana,82,state house,2020,0
+indiana,83,state house,2020,0
+indiana,84,state house,2020,0
+indiana,85,state house,2020,0
+indiana,86,state house,2020,1
+indiana,87,state house,2020,1
+indiana,88,state house,2020,0
+indiana,89,state house,2020,1
+indiana,90,state house,2020,0
+indiana,91,state house,2020,0
+indiana,92,state house,2020,1
+indiana,93,state house,2020,0
+indiana,94,state house,2020,1
+indiana,95,state house,2020,1
+indiana,96,state house,2020,1
+indiana,97,state house,2020,1
+indiana,98,state house,2020,1
+indiana,99,state house,2020,1
+indiana,100,state house,2020,1
+iowa,001,state house,2020,0
+iowa,002,state house,2020,0
+iowa,003,state house,2020,0
+iowa,004,state house,2020,0
+iowa,005,state house,2020,0
+iowa,006,state house,2020,0
+iowa,007,state house,2020,0
+iowa,008,state house,2020,0
+iowa,009,state house,2020,0
+iowa,010,state house,2020,0
+iowa,011,state house,2020,0
+iowa,012,state house,2020,0
+iowa,013,state house,2020,1
+iowa,014,state house,2020,1
+iowa,015,state house,2020,1
+iowa,016,state house,2020,0
+iowa,017,state house,2020,0
+iowa,018,state house,2020,0
+iowa,019,state house,2020,0
+iowa,020,state house,2020,0
+iowa,021,state house,2020,0
+iowa,022,state house,2020,0
+iowa,023,state house,2020,0
+iowa,024,state house,2020,0
+iowa,025,state house,2020,0
+iowa,026,state house,2020,0
+iowa,027,state house,2020,0
+iowa,028,state house,2020,0
+iowa,029,state house,2020,1
+iowa,030,state house,2020,0
+iowa,031,state house,2020,1
+iowa,032,state house,2020,1
+iowa,033,state house,2020,1
+iowa,034,state house,2020,1
+iowa,035,state house,2020,1
+iowa,036,state house,2020,1
+iowa,037,state house,2020,0
+iowa,038,state house,2020,0
+iowa,039,state house,2020,0
+iowa,040,state house,2020,1
+iowa,041,state house,2020,1
+iowa,042,state house,2020,1
+iowa,043,state house,2020,1
+iowa,044,state house,2020,1
+iowa,045,state house,2020,1
+iowa,046,state house,2020,1
+iowa,047,state house,2020,0
+iowa,048,state house,2020,0
+iowa,049,state house,2020,0
+iowa,050,state house,2020,0
+iowa,051,state house,2020,0
+iowa,052,state house,2020,1
+iowa,053,state house,2020,1
+iowa,054,state house,2020,0
+iowa,055,state house,2020,0
+iowa,056,state house,2020,0
+iowa,057,state house,2020,0
+iowa,058,state house,2020,0
+iowa,059,state house,2020,1
+iowa,060,state house,2020,1
+iowa,061,state house,2020,1
+iowa,062,state house,2020,1
+iowa,063,state house,2020,0
+iowa,064,state house,2020,0
+iowa,065,state house,2020,1
+iowa,066,state house,2020,1
+iowa,067,state house,2020,1
+iowa,068,state house,2020,1
+iowa,069,state house,2020,1
+iowa,070,state house,2020,1
+iowa,071,state house,2020,1
+iowa,072,state house,2020,0
+iowa,073,state house,2020,0
+iowa,074,state house,2020,1
+iowa,075,state house,2020,0
+iowa,076,state house,2020,0
+iowa,077,state house,2020,1
+iowa,078,state house,2020,0
+iowa,079,state house,2020,0
+iowa,080,state house,2020,0
+iowa,081,state house,2020,0
+iowa,082,state house,2020,0
+iowa,083,state house,2020,0
+iowa,084,state house,2020,0
+iowa,085,state house,2020,1
+iowa,086,state house,2020,1
+iowa,087,state house,2020,1
+iowa,088,state house,2020,0
+iowa,089,state house,2020,1
+iowa,090,state house,2020,1
+iowa,091,state house,2020,0
+iowa,092,state house,2020,0
+iowa,093,state house,2020,1
+iowa,094,state house,2020,0
+iowa,095,state house,2020,0
+iowa,096,state house,2020,0
+iowa,097,state house,2020,0
+iowa,098,state house,2020,1
+iowa,099,state house,2020,1
+iowa,100,state house,2020,1
+kansas,001,state house,2020,0
+kansas,002,state house,2020,0
+kansas,003,state house,2020,0
+kansas,004,state house,2020,0
+kansas,005,state house,2020,0
+kansas,006,state house,2020,0
+kansas,007,state house,2020,0
+kansas,008,state house,2020,0
+kansas,009,state house,2020,0
+kansas,010,state house,2020,1
+kansas,011,state house,2020,0
+kansas,012,state house,2020,0
+kansas,013,state house,2020,0
+kansas,014,state house,2020,0
+kansas,015,state house,2020,0
+kansas,016,state house,2020,1
+kansas,017,state house,2020,1
+kansas,018,state house,2020,1
+kansas,019,state house,2020,1
+kansas,020,state house,2020,1
+kansas,021,state house,2020,1
+kansas,022,state house,2020,1
+kansas,023,state house,2020,1
+kansas,024,state house,2020,1
+kansas,025,state house,2020,1
+kansas,026,state house,2020,0
+kansas,027,state house,2020,0
+kansas,028,state house,2020,0
+kansas,029,state house,2020,1
+kansas,030,state house,2020,1
+kansas,031,state house,2020,1
+kansas,032,state house,2020,1
+kansas,033,state house,2020,1
+kansas,034,state house,2020,1
+kansas,035,state house,2020,1
+kansas,036,state house,2020,1
+kansas,037,state house,2020,1
+kansas,038,state house,2020,0
+kansas,039,state house,2020,0
+kansas,040,state house,2020,0
+kansas,041,state house,2020,0
+kansas,042,state house,2020,0
+kansas,043,state house,2020,0
+kansas,044,state house,2020,1
+kansas,045,state house,2020,1
+kansas,046,state house,2020,1
+kansas,047,state house,2020,0
+kansas,048,state house,2020,1
+kansas,049,state house,2020,0
+kansas,050,state house,2020,0
+kansas,051,state house,2020,0
+kansas,052,state house,2020,0
+kansas,053,state house,2020,1
+kansas,054,state house,2020,0
+kansas,055,state house,2020,1
+kansas,056,state house,2020,1
+kansas,057,state house,2020,1
+kansas,058,state house,2020,1
+kansas,059,state house,2020,0
+kansas,060,state house,2020,0
+kansas,061,state house,2020,0
+kansas,062,state house,2020,0
+kansas,063,state house,2020,0
+kansas,064,state house,2020,0
+kansas,065,state house,2020,0
+kansas,066,state house,2020,1
+kansas,067,state house,2020,0
+kansas,068,state house,2020,0
+kansas,069,state house,2020,0
+kansas,070,state house,2020,0
+kansas,071,state house,2020,0
+kansas,072,state house,2020,0
+kansas,073,state house,2020,0
+kansas,074,state house,2020,0
+kansas,075,state house,2020,0
+kansas,076,state house,2020,0
+kansas,077,state house,2020,0
+kansas,078,state house,2020,0
+kansas,079,state house,2020,0
+kansas,080,state house,2020,0
+kansas,081,state house,2020,0
+kansas,082,state house,2020,0
+kansas,083,state house,2020,1
+kansas,084,state house,2020,1
+kansas,085,state house,2020,0
+kansas,086,state house,2020,1
+kansas,087,state house,2020,0
+kansas,088,state house,2020,1
+kansas,089,state house,2020,1
+kansas,090,state house,2020,0
+kansas,091,state house,2020,0
+kansas,092,state house,2020,1
+kansas,093,state house,2020,0
+kansas,094,state house,2020,0
+kansas,095,state house,2020,1
+kansas,096,state house,2020,0
+kansas,097,state house,2020,0
+kansas,098,state house,2020,0
+kansas,099,state house,2020,0
+kansas,100,state house,2020,0
+kansas,101,state house,2020,0
+kansas,102,state house,2020,1
+kansas,103,state house,2020,1
+kansas,104,state house,2020,0
+kansas,105,state house,2020,0
+kansas,106,state house,2020,0
+kansas,107,state house,2020,0
+kansas,108,state house,2020,0
+kansas,109,state house,2020,0
+kansas,110,state house,2020,0
+kansas,111,state house,2020,0
+kansas,112,state house,2020,0
+kansas,113,state house,2020,0
+kansas,114,state house,2020,0
+kansas,115,state house,2020,0
+kansas,116,state house,2020,0
+kansas,117,state house,2020,0
+kansas,118,state house,2020,0
+kansas,119,state house,2020,0
+kansas,120,state house,2020,0
+kansas,121,state house,2020,0
+kansas,122,state house,2020,0
+kansas,123,state house,2020,0
+kansas,124,state house,2020,0
+kansas,125,state house,2020,0
+kentucky,001,state house,2020,0
+kentucky,002,state house,2020,0
+kentucky,003,state house,2020,0
+kentucky,004,state house,2020,0
+kentucky,005,state house,2020,0
+kentucky,006,state house,2020,0
+kentucky,007,state house,2020,0
+kentucky,008,state house,2020,0
+kentucky,009,state house,2020,0
+kentucky,010,state house,2020,0
+kentucky,011,state house,2020,0
+kentucky,012,state house,2020,0
+kentucky,013,state house,2020,0
+kentucky,014,state house,2020,0
+kentucky,015,state house,2020,0
+kentucky,016,state house,2020,0
+kentucky,017,state house,2020,0
+kentucky,018,state house,2020,0
+kentucky,019,state house,2020,0
+kentucky,020,state house,2020,1
+kentucky,021,state house,2020,0
+kentucky,022,state house,2020,0
+kentucky,023,state house,2020,0
+kentucky,024,state house,2020,0
+kentucky,025,state house,2020,0
+kentucky,026,state house,2020,0
+kentucky,027,state house,2020,0
+kentucky,028,state house,2020,1
+kentucky,029,state house,2020,0
+kentucky,030,state house,2020,1
+kentucky,031,state house,2020,1
+kentucky,032,state house,2020,1
+kentucky,033,state house,2020,0
+kentucky,034,state house,2020,1
+kentucky,035,state house,2020,1
+kentucky,036,state house,2020,0
+kentucky,037,state house,2020,1
+kentucky,038,state house,2020,1
+kentucky,039,state house,2020,0
+kentucky,040,state house,2020,1
+kentucky,041,state house,2020,1
+kentucky,042,state house,2020,1
+kentucky,043,state house,2020,1
+kentucky,044,state house,2020,1
+kentucky,045,state house,2020,0
+kentucky,046,state house,2020,1
+kentucky,047,state house,2020,0
+kentucky,048,state house,2020,0
+kentucky,049,state house,2020,0
+kentucky,050,state house,2020,0
+kentucky,051,state house,2020,0
+kentucky,052,state house,2020,0
+kentucky,053,state house,2020,0
+kentucky,054,state house,2020,0
+kentucky,055,state house,2020,0
+kentucky,056,state house,2020,0
+kentucky,057,state house,2020,1
+kentucky,058,state house,2020,0
+kentucky,059,state house,2020,0
+kentucky,060,state house,2020,0
+kentucky,061,state house,2020,0
+kentucky,062,state house,2020,0
+kentucky,063,state house,2020,0
+kentucky,064,state house,2020,0
+kentucky,065,state house,2020,1
+kentucky,066,state house,2020,0
+kentucky,067,state house,2020,1
+kentucky,068,state house,2020,0
+kentucky,069,state house,2020,0
+kentucky,070,state house,2020,0
+kentucky,071,state house,2020,0
+kentucky,072,state house,2020,0
+kentucky,073,state house,2020,0
+kentucky,074,state house,2020,0
+kentucky,075,state house,2020,1
+kentucky,076,state house,2020,1
+kentucky,077,state house,2020,1
+kentucky,078,state house,2020,0
+kentucky,079,state house,2020,1
+kentucky,080,state house,2020,0
+kentucky,081,state house,2020,0
+kentucky,082,state house,2020,0
+kentucky,083,state house,2020,0
+kentucky,084,state house,2020,0
+kentucky,085,state house,2020,0
+kentucky,086,state house,2020,0
+kentucky,087,state house,2020,0
+kentucky,088,state house,2020,1
+kentucky,089,state house,2020,0
+kentucky,090,state house,2020,0
+kentucky,091,state house,2020,0
+kentucky,092,state house,2020,0
+kentucky,093,state house,2020,0
+kentucky,094,state house,2020,1
+kentucky,095,state house,2020,1
+kentucky,096,state house,2020,0
+kentucky,097,state house,2020,0
+kentucky,098,state house,2020,0
+kentucky,099,state house,2020,0
+kentucky,100,state house,2020,0
+maine,001,state house,2020,1
+maine,002,state house,2020,1
+maine,003,state house,2020,1
+maine,004,state house,2020,1
+maine,005,state house,2020,0
+maine,006,state house,2020,1
+maine,007,state house,2020,0
+maine,008,state house,2020,1
+maine,009,state house,2020,1
+maine,010,state house,2020,0
+maine,011,state house,2020,1
+maine,012,state house,2020,1
+maine,013,state house,2020,1
+maine,014,state house,2020,1
+maine,015,state house,2020,1
+maine,016,state house,2020,0
+maine,017,state house,2020,0
+maine,018,state house,2020,1
+maine,019,state house,2020,0
+maine,020,state house,2020,0
+maine,021,state house,2020,0
+maine,022,state house,2020,0
+maine,023,state house,2020,0
+maine,024,state house,2020,1
+maine,025,state house,2020,0
+maine,026,state house,2020,1
+maine,027,state house,2020,1
+maine,028,state house,2020,1
+maine,029,state house,2020,2
+maine,030,state house,2020,1
+maine,031,state house,2020,1
+maine,032,state house,2020,1
+maine,033,state house,2020,1
+maine,034,state house,2020,1
+maine,035,state house,2020,1
+maine,036,state house,2020,1
+maine,037,state house,2020,1
+maine,038,state house,2020,1
+maine,039,state house,2020,1
+maine,040,state house,2020,1
+maine,041,state house,2020,1
+maine,042,state house,2020,1
+maine,043,state house,2020,1
+maine,044,state house,2020,1
+maine,045,state house,2020,1
+maine,046,state house,2020,1
+maine,047,state house,2020,1
+maine,048,state house,2020,1
+maine,049,state house,2020,1
+maine,050,state house,2020,1
+maine,051,state house,2020,1
+maine,052,state house,2020,1
+maine,053,state house,2020,1
+maine,054,state house,2020,1
+maine,055,state house,2020,1
+maine,056,state house,2020,0
+maine,057,state house,2020,0
+maine,058,state house,2020,0
+maine,059,state house,2020,1
+maine,060,state house,2020,1
+maine,061,state house,2020,1
+maine,062,state house,2020,1
+maine,063,state house,2020,0
+maine,064,state house,2020,0
+maine,065,state house,2020,0
+maine,066,state house,2020,1
+maine,067,state house,2020,0
+maine,068,state house,2020,0
+maine,069,state house,2020,2
+maine,070,state house,2020,0
+maine,071,state house,2020,0
+maine,072,state house,2020,0
+maine,073,state house,2020,0
+maine,074,state house,2020,0
+maine,075,state house,2020,0
+maine,076,state house,2020,0
+maine,077,state house,2020,0
+maine,078,state house,2020,0
+maine,079,state house,2020,0
+maine,080,state house,2020,0
+maine,081,state house,2020,1
+maine,082,state house,2020,0
+maine,083,state house,2020,1
+maine,084,state house,2020,1
+maine,085,state house,2020,1
+maine,086,state house,2020,0
+maine,087,state house,2020,0
+maine,088,state house,2020,0
+maine,089,state house,2020,1
+maine,090,state house,2020,1
+maine,091,state house,2020,2
+maine,092,state house,2020,1
+maine,093,state house,2020,1
+maine,094,state house,2020,1
+maine,095,state house,2020,2
+maine,096,state house,2020,1
+maine,097,state house,2020,1
+maine,098,state house,2020,1
+maine,099,state house,2020,0
+maine,100,state house,2020,0
+maine,101,state house,2020,0
+maine,102,state house,2020,0
+maine,103,state house,2020,0
+maine,104,state house,2020,0
+maine,105,state house,2020,0
+maine,106,state house,2020,0
+maine,107,state house,2020,0
+maine,108,state house,2020,0
+maine,109,state house,2020,1
+maine,110,state house,2020,1
+maine,111,state house,2020,0
+maine,112,state house,2020,0
+maine,113,state house,2020,1
+maine,114,state house,2020,0
+maine,115,state house,2020,0
+maine,116,state house,2020,0
+maine,117,state house,2020,0
+maine,118,state house,2020,0
+maine,119,state house,2020,0
+maine,120,state house,2020,1
+maine,121,state house,2020,0
+maine,122,state house,2020,1
+maine,123,state house,2020,1
+maine,124,state house,2020,1
+maine,125,state house,2020,1
+maine,126,state house,2020,1
+maine,127,state house,2020,1
+maine,128,state house,2020,1
+maine,129,state house,2020,0
+maine,130,state house,2020,0
+maine,131,state house,2020,0
+maine,132,state house,2020,1
+maine,133,state house,2020,1
+maine,134,state house,2020,1
+maine,135,state house,2020,1
+maine,136,state house,2020,0
+maine,137,state house,2020,0
+maine,138,state house,2020,1
+maine,139,state house,2020,0
+maine,140,state house,2020,1
+maine,141,state house,2020,0
+maine,142,state house,2020,0
+maine,143,state house,2020,0
+maine,144,state house,2020,0
+maine,145,state house,2020,0
+maine,146,state house,2020,0
+maine,147,state house,2020,0
+maine,148,state house,2020,1
+maine,149,state house,2020,0
+maine,150,state house,2020,1
+maine,151,state house,2020,1
+massachusetts,10th bristol,state house,2020,1
+massachusetts,10th essex,state house,2020,1
+massachusetts,10th hampden,state house,2020,1
+massachusetts,10th middlesex,state house,2020,1
+massachusetts,10th norfolk,state house,2020,1
+massachusetts,10th plymouth,state house,2020,1
+massachusetts,10th suffolk,state house,2020,1
+massachusetts,10th worcester,state house,2020,1
+massachusetts,11th bristol,state house,2020,1
+massachusetts,11th essex,state house,2020,1
+massachusetts,11th hampden,state house,2020,1
+massachusetts,11th middlesex,state house,2020,1
+massachusetts,11th norfolk,state house,2020,1
+massachusetts,11th plymouth,state house,2020,1
+massachusetts,11th suffolk,state house,2020,1
+massachusetts,11th worcester,state house,2020,0
+massachusetts,12th bristol,state house,2020,0
+massachusetts,12th essex,state house,2020,1
+massachusetts,12th hampden,state house,2020,1
+massachusetts,12th middlesex,state house,2020,1
+massachusetts,12th norfolk,state house,2020,1
+massachusetts,12th plymouth,state house,2020,1
+massachusetts,12th suffolk,state house,2020,1
+massachusetts,12th worcester,state house,2020,1
+massachusetts,13th bristol,state house,2020,1
+massachusetts,13th essex,state house,2020,1
+massachusetts,13th middlesex,state house,2020,1
+massachusetts,13th norfolk,state house,2020,1
+massachusetts,13th suffolk,state house,2020,1
+massachusetts,13th worcester,state house,2020,1
+massachusetts,14th bristol,state house,2020,1
+massachusetts,14th essex,state house,2020,1
+massachusetts,14th middlesex,state house,2020,1
+massachusetts,14th norfolk,state house,2020,1
+massachusetts,14th suffolk,state house,2020,1
+massachusetts,14th worcester,state house,2020,1
+massachusetts,15th essex,state house,2020,1
+massachusetts,15th middlesex,state house,2020,1
+massachusetts,15th norfolk,state house,2020,1
+massachusetts,15th suffolk,state house,2020,1
+massachusetts,15th worcester,state house,2020,1
+massachusetts,16th essex,state house,2020,1
+massachusetts,16th middlesex,state house,2020,1
+massachusetts,16th suffolk,state house,2020,1
+massachusetts,16th worcester,state house,2020,1
+massachusetts,17th essex,state house,2020,1
+massachusetts,17th middlesex,state house,2020,1
+massachusetts,17th suffolk,state house,2020,1
+massachusetts,17th worcester,state house,2020,1
+massachusetts,18th essex,state house,2020,1
+massachusetts,18th middlesex,state house,2020,1
+massachusetts,18th suffolk,state house,2020,1
+massachusetts,18th worcester,state house,2020,0
+massachusetts,19th middlesex,state house,2020,1
+massachusetts,19th suffolk,state house,2020,1
+massachusetts,1st barnstable,state house,2020,0
+massachusetts,1st berkshire,state house,2020,1
+massachusetts,1st bristol,state house,2020,0
+massachusetts,1st essex,state house,2020,0
+massachusetts,1st franklin,state house,2020,1
+massachusetts,1st hampden,state house,2020,0
+massachusetts,1st hampshire,state house,2020,1
+massachusetts,1st middlesex,state house,2020,0
+massachusetts,1st norfolk,state house,2020,1
+massachusetts,1st plymouth,state house,2020,0
+massachusetts,1st suffolk,state house,2020,1
+massachusetts,1st worcester,state house,2020,0
+massachusetts,20th middlesex,state house,2020,0
+massachusetts,21st middlesex,state house,2020,1
+massachusetts,22nd middlesex,state house,2020,0
+massachusetts,23rd middlesex,state house,2020,1
+massachusetts,24th middlesex,state house,2020,1
+massachusetts,25th middlesex,state house,2020,1
+massachusetts,26th middlesex,state house,2020,1
+massachusetts,27th middlesex,state house,2020,1
+massachusetts,28th middlesex,state house,2020,1
+massachusetts,29th middlesex,state house,2020,1
+massachusetts,2nd barnstable,state house,2020,1
+massachusetts,2nd berkshire,state house,2020,1
+massachusetts,2nd bristol,state house,2020,1
+massachusetts,2nd essex,state house,2020,0
+massachusetts,2nd franklin,state house,2020,2
+massachusetts,2nd hampden,state house,2020,1
+massachusetts,2nd hampshire,state house,2020,1
+massachusetts,2nd middlesex,state house,2020,1
+massachusetts,2nd norfolk,state house,2020,1
+massachusetts,2nd plymouth,state house,2020,0
+massachusetts,2nd suffolk,state house,2020,1
+massachusetts,2nd worcester,state house,2020,1
+massachusetts,30th middlesex,state house,2020,1
+massachusetts,31st middlesex,state house,2020,1
+massachusetts,32nd middlesex,state house,2020,1
+massachusetts,33rd middlesex,state house,2020,1
+massachusetts,34th middlesex,state house,2020,1
+massachusetts,35th middlesex,state house,2020,1
+massachusetts,36th middlesex,state house,2020,1
+massachusetts,37th middlesex,state house,2020,1
+massachusetts,3rd barnstable,state house,2020,0
+massachusetts,3rd berkshire,state house,2020,1
+massachusetts,3rd bristol,state house,2020,1
+massachusetts,3rd essex,state house,2020,1
+massachusetts,3rd hampden,state house,2020,0
+massachusetts,3rd hampshire,state house,2020,1
+massachusetts,3rd middlesex,state house,2020,1
+massachusetts,3rd norfolk,state house,2020,1
+massachusetts,3rd plymouth,state house,2020,1
+massachusetts,3rd suffolk,state house,2020,1
+massachusetts,3rd worcester,state house,2020,1
+massachusetts,4th barnstable,state house,2020,1
+massachusetts,4th berkshire,state house,2020,1
+massachusetts,4th bristol,state house,2020,0
+massachusetts,4th essex,state house,2020,0
+massachusetts,4th hampden,state house,2020,0
+massachusetts,4th middlesex,state house,2020,1
+massachusetts,4th norfolk,state house,2020,1
+massachusetts,4th plymouth,state house,2020,1
+massachusetts,4th suffolk,state house,2020,1
+massachusetts,4th worcester,state house,2020,1
+massachusetts,5th barnstable,state house,2020,0
+massachusetts,5th bristol,state house,2020,1
+massachusetts,5th essex,state house,2020,1
+massachusetts,5th hampden,state house,2020,1
+massachusetts,5th middlesex,state house,2020,1
+massachusetts,5th norfolk,state house,2020,1
+massachusetts,5th plymouth,state house,2020,0
+massachusetts,5th suffolk,state house,2020,1
+massachusetts,5th worcester,state house,2020,0
+massachusetts,6th bristol,state house,2020,1
+massachusetts,6th essex,state house,2020,1
+massachusetts,6th hampden,state house,2020,1
+massachusetts,6th middlesex,state house,2020,1
+massachusetts,6th norfolk,state house,2020,1
+massachusetts,6th plymouth,state house,2020,1
+massachusetts,6th suffolk,state house,2020,1
+massachusetts,6th worcester,state house,2020,0
+massachusetts,7th bristol,state house,2020,1
+massachusetts,7th essex,state house,2020,1
+massachusetts,7th hampden,state house,2020,1
+massachusetts,7th middlesex,state house,2020,1
+massachusetts,7th norfolk,state house,2020,1
+massachusetts,7th plymouth,state house,2020,0
+massachusetts,7th suffolk,state house,2020,1
+massachusetts,7th worcester,state house,2020,0
+massachusetts,8th bristol,state house,2020,1
+massachusetts,8th essex,state house,2020,1
+massachusetts,8th hampden,state house,2020,1
+massachusetts,8th middlesex,state house,2020,1
+massachusetts,8th norfolk,state house,2020,1
+massachusetts,8th plymouth,state house,2020,0
+massachusetts,8th suffolk,state house,2020,1
+massachusetts,8th worcester,state house,2020,0
+massachusetts,9th bristol,state house,2020,1
+massachusetts,9th essex,state house,2020,0
+massachusetts,9th hampden,state house,2020,1
+massachusetts,9th middlesex,state house,2020,1
+massachusetts,9th norfolk,state house,2020,0
+massachusetts,9th plymouth,state house,2020,1
+massachusetts,9th suffolk,state house,2020,1
+massachusetts,9th worcester,state house,2020,0
+massachusetts,"barnstable, dukes, and nantucket",state house,2020,1
+michigan,001,state house,2020,1
+michigan,002,state house,2020,1
+michigan,003,state house,2020,1
+michigan,004,state house,2020,1
+michigan,005,state house,2020,1
+michigan,006,state house,2020,1
+michigan,007,state house,2020,1
+michigan,008,state house,2020,1
+michigan,009,state house,2020,1
+michigan,010,state house,2020,1
+michigan,011,state house,2020,1
+michigan,012,state house,2020,1
+michigan,013,state house,2020,1
+michigan,014,state house,2020,1
+michigan,015,state house,2020,1
+michigan,016,state house,2020,1
+michigan,017,state house,2020,0
+michigan,018,state house,2020,1
+michigan,019,state house,2020,1
+michigan,020,state house,2020,1
+michigan,021,state house,2020,1
+michigan,022,state house,2020,1
+michigan,023,state house,2020,1
+michigan,024,state house,2020,0
+michigan,025,state house,2020,1
+michigan,026,state house,2020,1
+michigan,027,state house,2020,1
+michigan,028,state house,2020,1
+michigan,029,state house,2020,1
+michigan,030,state house,2020,0
+michigan,031,state house,2020,1
+michigan,032,state house,2020,0
+michigan,033,state house,2020,0
+michigan,034,state house,2020,1
+michigan,035,state house,2020,1
+michigan,036,state house,2020,0
+michigan,037,state house,2020,1
+michigan,038,state house,2020,1
+michigan,039,state house,2020,0
+michigan,040,state house,2020,1
+michigan,041,state house,2020,1
+michigan,042,state house,2020,0
+michigan,043,state house,2020,0
+michigan,044,state house,2020,0
+michigan,045,state house,2020,0
+michigan,046,state house,2020,0
+michigan,047,state house,2020,0
+michigan,048,state house,2020,0
+michigan,049,state house,2020,1
+michigan,050,state house,2020,1
+michigan,051,state house,2020,0
+michigan,052,state house,2020,1
+michigan,053,state house,2020,1
+michigan,054,state house,2020,1
+michigan,055,state house,2020,1
+michigan,056,state house,2020,0
+michigan,057,state house,2020,0
+michigan,058,state house,2020,0
+michigan,059,state house,2020,0
+michigan,060,state house,2020,1
+michigan,061,state house,2020,1
+michigan,062,state house,2020,1
+michigan,063,state house,2020,0
+michigan,064,state house,2020,0
+michigan,065,state house,2020,0
+michigan,066,state house,2020,0
+michigan,067,state house,2020,1
+michigan,068,state house,2020,1
+michigan,069,state house,2020,1
+michigan,070,state house,2020,0
+michigan,071,state house,2020,1
+michigan,072,state house,2020,0
+michigan,073,state house,2020,0
+michigan,074,state house,2020,0
+michigan,075,state house,2020,1
+michigan,076,state house,2020,1
+michigan,077,state house,2020,0
+michigan,078,state house,2020,0
+michigan,079,state house,2020,0
+michigan,080,state house,2020,0
+michigan,081,state house,2020,0
+michigan,082,state house,2020,0
+michigan,083,state house,2020,0
+michigan,084,state house,2020,0
+michigan,085,state house,2020,0
+michigan,086,state house,2020,0
+michigan,087,state house,2020,0
+michigan,088,state house,2020,0
+michigan,089,state house,2020,0
+michigan,090,state house,2020,0
+michigan,091,state house,2020,0
+michigan,092,state house,2020,1
+michigan,093,state house,2020,0
+michigan,094,state house,2020,0
+michigan,095,state house,2020,1
+michigan,096,state house,2020,0
+michigan,097,state house,2020,0
+michigan,098,state house,2020,0
+michigan,099,state house,2020,0
+michigan,100,state house,2020,0
+michigan,101,state house,2020,0
+michigan,102,state house,2020,0
+michigan,103,state house,2020,0
+michigan,104,state house,2020,0
+michigan,105,state house,2020,0
+michigan,106,state house,2020,0
+michigan,107,state house,2020,0
+michigan,108,state house,2020,0
+michigan,109,state house,2020,1
+michigan,110,state house,2020,0
+minnesota,01a,state house,2020,0
+minnesota,01b,state house,2020,0
+minnesota,02a,state house,2020,0
+minnesota,02b,state house,2020,0
+minnesota,03a,state house,2020,1
+minnesota,03b,state house,2020,1
+minnesota,04a,state house,2020,1
+minnesota,04b,state house,2020,1
+minnesota,05a,state house,2020,0
+minnesota,05b,state house,2020,0
+minnesota,06a,state house,2020,1
+minnesota,06b,state house,2020,1
+minnesota,07a,state house,2020,1
+minnesota,07b,state house,2020,1
+minnesota,08a,state house,2020,0
+minnesota,08b,state house,2020,0
+minnesota,09a,state house,2020,0
+minnesota,09b,state house,2020,0
+minnesota,10a,state house,2020,0
+minnesota,10b,state house,2020,0
+minnesota,11a,state house,2020,1
+minnesota,11b,state house,2020,0
+minnesota,12a,state house,2020,0
+minnesota,12b,state house,2020,0
+minnesota,13a,state house,2020,0
+minnesota,13b,state house,2020,0
+minnesota,14a,state house,2020,0
+minnesota,14b,state house,2020,1
+minnesota,15a,state house,2020,0
+minnesota,15b,state house,2020,0
+minnesota,16a,state house,2020,0
+minnesota,16b,state house,2020,0
+minnesota,17a,state house,2020,0
+minnesota,17b,state house,2020,0
+minnesota,18a,state house,2020,0
+minnesota,18b,state house,2020,0
+minnesota,19a,state house,2020,0
+minnesota,19b,state house,2020,1
+minnesota,20a,state house,2020,0
+minnesota,20b,state house,2020,1
+minnesota,21a,state house,2020,0
+minnesota,21b,state house,2020,0
+minnesota,22a,state house,2020,0
+minnesota,22b,state house,2020,0
+minnesota,23a,state house,2020,0
+minnesota,23b,state house,2020,0
+minnesota,24a,state house,2020,0
+minnesota,24b,state house,2020,0
+minnesota,25a,state house,2020,0
+minnesota,25b,state house,2020,1
+minnesota,26a,state house,2020,1
+minnesota,26b,state house,2020,0
+minnesota,27a,state house,2020,0
+minnesota,27b,state house,2020,0
+minnesota,28a,state house,2020,1
+minnesota,28b,state house,2020,0
+minnesota,29a,state house,2020,0
+minnesota,29b,state house,2020,0
+minnesota,30a,state house,2020,0
+minnesota,30b,state house,2020,0
+minnesota,31a,state house,2020,0
+minnesota,31b,state house,2020,0
+minnesota,32a,state house,2020,0
+minnesota,32b,state house,2020,0
+minnesota,33a,state house,2020,0
+minnesota,33b,state house,2020,1
+minnesota,34a,state house,2020,0
+minnesota,34b,state house,2020,1
+minnesota,35a,state house,2020,0
+minnesota,35b,state house,2020,0
+minnesota,36a,state house,2020,1
+minnesota,36b,state house,2020,1
+minnesota,37a,state house,2020,1
+minnesota,37b,state house,2020,0
+minnesota,38a,state house,2020,0
+minnesota,38b,state house,2020,1
+minnesota,39a,state house,2020,0
+minnesota,39b,state house,2020,1
+minnesota,40a,state house,2020,1
+minnesota,40b,state house,2020,1
+minnesota,41a,state house,2020,1
+minnesota,41b,state house,2020,1
+minnesota,42a,state house,2020,1
+minnesota,42b,state house,2020,1
+minnesota,43a,state house,2020,1
+minnesota,43b,state house,2020,1
+minnesota,44a,state house,2020,1
+minnesota,44b,state house,2020,1
+minnesota,45a,state house,2020,1
+minnesota,45b,state house,2020,1
+minnesota,46a,state house,2020,1
+minnesota,46b,state house,2020,1
+minnesota,47a,state house,2020,0
+minnesota,47b,state house,2020,0
+minnesota,48a,state house,2020,1
+minnesota,48b,state house,2020,1
+minnesota,49a,state house,2020,1
+minnesota,49b,state house,2020,1
+minnesota,50a,state house,2020,1
+minnesota,50b,state house,2020,1
+minnesota,51a,state house,2020,1
+minnesota,51b,state house,2020,1
+minnesota,52a,state house,2020,1
+minnesota,52b,state house,2020,1
+minnesota,53a,state house,2020,1
+minnesota,53b,state house,2020,1
+minnesota,54a,state house,2020,0
+minnesota,54b,state house,2020,0
+minnesota,55a,state house,2020,0
+minnesota,55b,state house,2020,0
+minnesota,56a,state house,2020,1
+minnesota,56b,state house,2020,1
+minnesota,57a,state house,2020,1
+minnesota,57b,state house,2020,1
+minnesota,58a,state house,2020,0
+minnesota,58b,state house,2020,0
+minnesota,59a,state house,2020,1
+minnesota,59b,state house,2020,1
+minnesota,60a,state house,2020,1
+minnesota,60b,state house,2020,1
+minnesota,61a,state house,2020,1
+minnesota,61b,state house,2020,1
+minnesota,62a,state house,2020,1
+minnesota,62b,state house,2020,1
+minnesota,63a,state house,2020,1
+minnesota,63b,state house,2020,1
+minnesota,64a,state house,2020,1
+minnesota,64b,state house,2020,1
+minnesota,65a,state house,2020,1
+minnesota,65b,state house,2020,1
+minnesota,66a,state house,2020,1
+minnesota,66b,state house,2020,1
+minnesota,67a,state house,2020,1
+minnesota,67b,state house,2020,1
+missouri,001,state house,2020,0
+missouri,002,state house,2020,0
+missouri,003,state house,2020,0
+missouri,004,state house,2020,0
+missouri,005,state house,2020,0
+missouri,006,state house,2020,0
+missouri,007,state house,2020,0
+missouri,008,state house,2020,0
+missouri,009,state house,2020,0
+missouri,010,state house,2020,0
+missouri,011,state house,2020,0
+missouri,012,state house,2020,0
+missouri,013,state house,2020,0
+missouri,014,state house,2020,1
+missouri,015,state house,2020,1
+missouri,016,state house,2020,0
+missouri,017,state house,2020,1
+missouri,018,state house,2020,1
+missouri,019,state house,2020,1
+missouri,020,state house,2020,0
+missouri,021,state house,2020,1
+missouri,022,state house,2020,1
+missouri,023,state house,2020,1
+missouri,024,state house,2020,1
+missouri,025,state house,2020,1
+missouri,026,state house,2020,1
+missouri,027,state house,2020,1
+missouri,028,state house,2020,1
+missouri,029,state house,2020,1
+missouri,030,state house,2020,0
+missouri,031,state house,2020,0
+missouri,032,state house,2020,0
+missouri,033,state house,2020,0
+missouri,034,state house,2020,0
+missouri,035,state house,2020,1
+missouri,036,state house,2020,1
+missouri,037,state house,2020,1
+missouri,038,state house,2020,0
+missouri,039,state house,2020,0
+missouri,040,state house,2020,0
+missouri,041,state house,2020,0
+missouri,042,state house,2020,0
+missouri,043,state house,2020,0
+missouri,044,state house,2020,0
+missouri,045,state house,2020,1
+missouri,046,state house,2020,1
+missouri,047,state house,2020,0
+missouri,048,state house,2020,0
+missouri,049,state house,2020,0
+missouri,050,state house,2020,0
+missouri,051,state house,2020,0
+missouri,052,state house,2020,0
+missouri,053,state house,2020,0
+missouri,054,state house,2020,0
+missouri,055,state house,2020,0
+missouri,056,state house,2020,0
+missouri,057,state house,2020,0
+missouri,058,state house,2020,0
+missouri,059,state house,2020,0
+missouri,060,state house,2020,0
+missouri,061,state house,2020,0
+missouri,062,state house,2020,0
+missouri,063,state house,2020,0
+missouri,064,state house,2020,0
+missouri,065,state house,2020,0
+missouri,066,state house,2020,1
+missouri,067,state house,2020,1
+missouri,068,state house,2020,1
+missouri,069,state house,2020,1
+missouri,070,state house,2020,1
+missouri,071,state house,2020,1
+missouri,072,state house,2020,1
+missouri,073,state house,2020,1
+missouri,074,state house,2020,1
+missouri,075,state house,2020,1
+missouri,076,state house,2020,1
+missouri,077,state house,2020,1
+missouri,078,state house,2020,1
+missouri,079,state house,2020,1
+missouri,080,state house,2020,1
+missouri,081,state house,2020,1
+missouri,082,state house,2020,1
+missouri,083,state house,2020,1
+missouri,084,state house,2020,1
+missouri,085,state house,2020,1
+missouri,086,state house,2020,1
+missouri,087,state house,2020,1
+missouri,088,state house,2020,1
+missouri,089,state house,2020,0
+missouri,090,state house,2020,1
+missouri,091,state house,2020,1
+missouri,092,state house,2020,1
+missouri,093,state house,2020,1
+missouri,094,state house,2020,0
+missouri,095,state house,2020,0
+missouri,096,state house,2020,0
+missouri,097,state house,2020,0
+missouri,098,state house,2020,0
+missouri,099,state house,2020,1
+missouri,100,state house,2020,0
+missouri,101,state house,2020,0
+missouri,102,state house,2020,0
+missouri,103,state house,2020,0
+missouri,104,state house,2020,0
+missouri,105,state house,2020,0
+missouri,106,state house,2020,0
+missouri,107,state house,2020,0
+missouri,108,state house,2020,0
+missouri,109,state house,2020,0
+missouri,110,state house,2020,0
+missouri,111,state house,2020,0
+missouri,112,state house,2020,0
+missouri,113,state house,2020,0
+missouri,114,state house,2020,0
+missouri,115,state house,2020,0
+missouri,116,state house,2020,0
+missouri,117,state house,2020,0
+missouri,118,state house,2020,0
+missouri,119,state house,2020,0
+missouri,120,state house,2020,0
+missouri,121,state house,2020,0
+missouri,122,state house,2020,0
+missouri,123,state house,2020,0
+missouri,124,state house,2020,0
+missouri,125,state house,2020,0
+missouri,126,state house,2020,0
+missouri,127,state house,2020,0
+missouri,128,state house,2020,0
+missouri,129,state house,2020,0
+missouri,130,state house,2020,0
+missouri,131,state house,2020,0
+missouri,132,state house,2020,1
+missouri,133,state house,2020,0
+missouri,134,state house,2020,0
+missouri,135,state house,2020,1
+missouri,136,state house,2020,0
+missouri,137,state house,2020,0
+missouri,138,state house,2020,0
+missouri,139,state house,2020,0
+missouri,140,state house,2020,0
+missouri,141,state house,2020,0
+missouri,142,state house,2020,0
+missouri,143,state house,2020,0
+missouri,144,state house,2020,0
+missouri,145,state house,2020,0
+missouri,146,state house,2020,0
+missouri,147,state house,2020,0
+missouri,148,state house,2020,0
+missouri,149,state house,2020,0
+missouri,150,state house,2020,0
+missouri,151,state house,2020,0
+missouri,152,state house,2020,0
+missouri,153,state house,2020,0
+missouri,154,state house,2020,0
+missouri,155,state house,2020,0
+missouri,156,state house,2020,0
+missouri,157,state house,2020,0
+missouri,158,state house,2020,0
+missouri,159,state house,2020,0
+missouri,160,state house,2020,0
+missouri,161,state house,2020,0
+missouri,162,state house,2020,0
+missouri,163,state house,2020,0
+montana,001,state house,2020,0
+montana,002,state house,2020,0
+montana,003,state house,2020,0
+montana,004,state house,2020,0
+montana,005,state house,2020,1
+montana,006,state house,2020,0
+montana,007,state house,2020,0
+montana,008,state house,2020,0
+montana,009,state house,2020,0
+montana,010,state house,2020,0
+montana,011,state house,2020,0
+montana,012,state house,2020,0
+montana,013,state house,2020,0
+montana,014,state house,2020,0
+montana,015,state house,2020,1
+montana,016,state house,2020,1
+montana,017,state house,2020,0
+montana,018,state house,2020,0
+montana,019,state house,2020,0
+montana,020,state house,2020,0
+montana,021,state house,2020,0
+montana,022,state house,2020,0
+montana,023,state house,2020,0
+montana,024,state house,2020,0
+montana,025,state house,2020,0
+montana,026,state house,2020,0
+montana,027,state house,2020,0
+montana,028,state house,2020,0
+montana,029,state house,2020,0
+montana,030,state house,2020,0
+montana,031,state house,2020,1
+montana,032,state house,2020,1
+montana,033,state house,2020,0
+montana,034,state house,2020,0
+montana,035,state house,2020,0
+montana,036,state house,2020,0
+montana,037,state house,2020,0
+montana,038,state house,2020,0
+montana,039,state house,2020,0
+montana,040,state house,2020,0
+montana,041,state house,2020,1
+montana,042,state house,2020,1
+montana,043,state house,2020,0
+montana,044,state house,2020,0
+montana,045,state house,2020,0
+montana,046,state house,2020,0
+montana,047,state house,2020,1
+montana,048,state house,2020,1
+montana,049,state house,2020,1
+montana,050,state house,2020,0
+montana,051,state house,2020,0
+montana,052,state house,2020,0
+montana,053,state house,2020,0
+montana,054,state house,2020,0
+montana,055,state house,2020,0
+montana,056,state house,2020,0
+montana,057,state house,2020,0
+montana,058,state house,2020,0
+montana,059,state house,2020,0
+montana,060,state house,2020,1
+montana,061,state house,2020,1
+montana,062,state house,2020,1
+montana,063,state house,2020,1
+montana,064,state house,2020,0
+montana,065,state house,2020,1
+montana,066,state house,2020,1
+montana,067,state house,2020,0
+montana,068,state house,2020,0
+montana,069,state house,2020,0
+montana,070,state house,2020,0
+montana,071,state house,2020,0
+montana,072,state house,2020,0
+montana,073,state house,2020,1
+montana,074,state house,2020,1
+montana,075,state house,2020,0
+montana,076,state house,2020,1
+montana,077,state house,2020,1
+montana,078,state house,2020,0
+montana,079,state house,2020,1
+montana,080,state house,2020,0
+montana,081,state house,2020,1
+montana,082,state house,2020,1
+montana,083,state house,2020,1
+montana,084,state house,2020,1
+montana,085,state house,2020,0
+montana,086,state house,2020,0
+montana,087,state house,2020,0
+montana,088,state house,2020,0
+montana,089,state house,2020,1
+montana,090,state house,2020,1
+montana,091,state house,2020,1
+montana,092,state house,2020,0
+montana,093,state house,2020,0
+montana,094,state house,2020,1
+montana,095,state house,2020,1
+montana,096,state house,2020,0
+montana,097,state house,2020,0
+montana,098,state house,2020,1
+montana,099,state house,2020,1
+montana,100,state house,2020,1
+nevada,001,state house,2020,1
+nevada,002,state house,2020,0
+nevada,003,state house,2020,1
+nevada,004,state house,2020,0
+nevada,005,state house,2020,1
+nevada,006,state house,2020,1
+nevada,007,state house,2020,1
+nevada,008,state house,2020,1
+nevada,009,state house,2020,1
+nevada,010,state house,2020,1
+nevada,011,state house,2020,1
+nevada,012,state house,2020,1
+nevada,013,state house,2020,0
+nevada,014,state house,2020,1
+nevada,015,state house,2020,1
+nevada,016,state house,2020,1
+nevada,017,state house,2020,1
+nevada,018,state house,2020,1
+nevada,019,state house,2020,0
+nevada,020,state house,2020,1
+nevada,021,state house,2020,1
+nevada,022,state house,2020,0
+nevada,023,state house,2020,0
+nevada,024,state house,2020,1
+nevada,025,state house,2020,0
+nevada,026,state house,2020,0
+nevada,027,state house,2020,1
+nevada,028,state house,2020,1
+nevada,029,state house,2020,1
+nevada,030,state house,2020,1
+nevada,031,state house,2020,0
+nevada,032,state house,2020,0
+nevada,033,state house,2020,0
+nevada,034,state house,2020,1
+nevada,035,state house,2020,1
+nevada,036,state house,2020,2
+nevada,037,state house,2020,0
+nevada,038,state house,2020,0
+nevada,039,state house,2020,0
+nevada,040,state house,2020,0
+nevada,041,state house,2020,1
+nevada,042,state house,2020,1
+new hampshire,001,state house,2020,0
+new hampshire,002,state house,2020,0
+new hampshire,003,state house,2020,1
+new hampshire,004,state house,2020,1
+new hampshire,005,state house,2020,1
+new hampshire,006,state house,2020,1
+new hampshire,007,state house,2020,0
+new hampshire,008,state house,2020,1
+new hampshire,009,state house,2020,0
+new hampshire,010,state house,2020,0
+new hampshire,011,state house,2020,1
+new hampshire,012,state house,2020,0
+new hampshire,013,state house,2020,1
+new hampshire,014,state house,2020,1
+new hampshire,015,state house,2020,1
+new hampshire,016,state house,2020,1
+new hampshire,017,state house,2020,1
+new hampshire,018,state house,2020,1
+new hampshire,019,state house,2020,1
+new hampshire,022,state house,2020,0
+new hampshire,023,state house,2020,1
+new hampshire,025,state house,2020,1
+new hampshire,026,state house,2020,1
+new hampshire,027,state house,2020,1
+new hampshire,028,state house,2020,1
+new hampshire,029,state house,2020,1
+new hampshire,07f,state house,2020,0
+new hampshire,08f,state house,2020,0
+new hampshire,09f,state house,2020,0
+new hampshire,10f,state house,2020,1
+new hampshire,11f,state house,2020,0
+new hampshire,14f,state house,2020,0
+new hampshire,15f,state house,2020,0
+new hampshire,16f,state house,2020,0
+new hampshire,17f,state house,2020,1
+new hampshire,19f,state house,2020,1
+new hampshire,20f,state house,2020,1
+new hampshire,21f,state house,2020,1
+new hampshire,22f,state house,2020,0
+new hampshire,23f,state house,2020,0
+new hampshire,24f,state house,2020,0
+new hampshire,25f,state house,2020,1
+new hampshire,26f,state house,2020,0
+new hampshire,28f,state house,2020,1
+new hampshire,29f,state house,2020,0
+new hampshire,30f,state house,2020,1
+new hampshire,31f,state house,2020,1
+new hampshire,32f,state house,2020,0
+new hampshire,33f,state house,2020,0
+new hampshire,34f,state house,2020,0
+new hampshire,35f,state house,2020,0
+new hampshire,36f,state house,2020,1
+new hampshire,37f,state house,2020,0
+new hampshire,39f,state house,2020,0
+new hampshire,40f,state house,2020,0
+new hampshire,41f,state house,2020,0
+new jersey,025,state house,2020,0
+new mexico,001,state house,2020,0
+new mexico,002,state house,2020,0
+new mexico,003,state house,2020,0
+new mexico,004,state house,2020,1
+new mexico,005,state house,2020,1
+new mexico,006,state house,2020,1
+new mexico,007,state house,2020,0
+new mexico,008,state house,2020,0
+new mexico,009,state house,2020,1
+new mexico,010,state house,2020,1
+new mexico,011,state house,2020,1
+new mexico,012,state house,2020,2
+new mexico,013,state house,2020,1
+new mexico,014,state house,2020,1
+new mexico,015,state house,2020,1
+new mexico,016,state house,2020,1
+new mexico,017,state house,2020,1
+new mexico,018,state house,2020,1
+new mexico,019,state house,2020,1
+new mexico,020,state house,2020,1
+new mexico,021,state house,2020,1
+new mexico,022,state house,2020,0
+new mexico,023,state house,2020,1
+new mexico,024,state house,2020,1
+new mexico,025,state house,2020,1
+new york,001,state house,2020,1
+new york,002,state house,2020,0
+new york,003,state house,2020,0
+new york,004,state house,2020,1
+new york,005,state house,2020,0
+new york,006,state house,2020,1
+new york,007,state house,2020,0
+new york,008,state house,2020,0
+new york,009,state house,2020,0
+new york,010,state house,2020,1
+new york,011,state house,2020,1
+new york,012,state house,2020,1
+new york,013,state house,2020,1
+new york,014,state house,2020,0
+new york,015,state house,2020,0
+new york,016,state house,2020,1
+new york,017,state house,2020,0
+new york,018,state house,2020,1
+new york,019,state house,2020,0
+new york,020,state house,2020,0
+new york,021,state house,2020,1
+new york,022,state house,2020,1
+new york,023,state house,2020,1
+new york,024,state house,2020,1
+new york,025,state house,2020,1
+new york,026,state house,2020,1
+new york,027,state house,2020,1
+new york,028,state house,2020,1
+new york,029,state house,2020,1
+new york,030,state house,2020,1
+new york,031,state house,2020,1
+new york,032,state house,2020,1
+new york,033,state house,2020,1
+new york,034,state house,2020,1
+new york,035,state house,2020,1
+new york,036,state house,2020,1
+new york,037,state house,2020,1
+new york,038,state house,2020,1
+new york,039,state house,2020,1
+new york,040,state house,2020,1
+new york,041,state house,2020,1
+new york,042,state house,2020,1
+new york,043,state house,2020,1
+new york,044,state house,2020,1
+new york,045,state house,2020,1
+new york,046,state house,2020,1
+new york,047,state house,2020,1
+new york,048,state house,2020,1
+new york,049,state house,2020,1
+new york,050,state house,2020,1
+new york,051,state house,2020,1
+new york,052,state house,2020,1
+new york,053,state house,2020,1
+new york,054,state house,2020,1
+new york,055,state house,2020,1
+new york,056,state house,2020,1
+new york,057,state house,2020,1
+new york,058,state house,2020,1
+new york,059,state house,2020,1
+new york,060,state house,2020,1
+new york,061,state house,2020,1
+new york,062,state house,2020,0
+new york,063,state house,2020,1
+new york,064,state house,2020,0
+new york,065,state house,2020,1
+new york,066,state house,2020,1
+new york,067,state house,2020,1
+new york,068,state house,2020,1
+new york,069,state house,2020,1
+new york,070,state house,2020,1
+new york,071,state house,2020,1
+new york,072,state house,2020,1
+new york,073,state house,2020,1
+new york,074,state house,2020,1
+new york,075,state house,2020,1
+new york,076,state house,2020,1
+new york,077,state house,2020,1
+new york,078,state house,2020,1
+new york,079,state house,2020,1
+new york,080,state house,2020,1
+new york,081,state house,2020,1
+new york,082,state house,2020,1
+new york,083,state house,2020,1
+new york,084,state house,2020,1
+new york,085,state house,2020,1
+new york,086,state house,2020,1
+new york,087,state house,2020,1
+new york,088,state house,2020,1
+new york,089,state house,2020,1
+new york,090,state house,2020,1
+new york,091,state house,2020,1
+new york,092,state house,2020,1
+new york,093,state house,2020,1
+new york,094,state house,2020,0
+new york,095,state house,2020,1
+new york,096,state house,2020,1
+new york,097,state house,2020,1
+new york,098,state house,2020,0
+new york,099,state house,2020,0
+new york,100,state house,2020,1
+new york,101,state house,2020,0
+new york,102,state house,2020,0
+new york,103,state house,2020,1
+new york,104,state house,2020,1
+new york,105,state house,2020,0
+new york,106,state house,2020,1
+new york,107,state house,2020,0
+new york,108,state house,2020,1
+new york,109,state house,2020,1
+new york,110,state house,2020,1
+new york,111,state house,2020,1
+new york,112,state house,2020,0
+new york,113,state house,2020,1
+new york,114,state house,2020,0
+new york,115,state house,2020,1
+new york,116,state house,2020,0
+new york,117,state house,2020,0
+new york,118,state house,2020,0
+new york,119,state house,2020,1
+new york,120,state house,2020,0
+new york,121,state house,2020,0
+new york,122,state house,2020,0
+new york,123,state house,2020,1
+new york,124,state house,2020,0
+new york,125,state house,2020,1
+new york,126,state house,2020,0
+new york,127,state house,2020,1
+new york,128,state house,2020,1
+new york,129,state house,2020,1
+new york,130,state house,2020,0
+new york,131,state house,2020,0
+new york,132,state house,2020,0
+new york,133,state house,2020,0
+new york,134,state house,2020,0
+new york,135,state house,2020,1
+new york,136,state house,2020,1
+new york,137,state house,2020,1
+new york,138,state house,2020,1
+new york,139,state house,2020,0
+new york,140,state house,2020,1
+new york,141,state house,2020,1
+new york,142,state house,2020,1
+new york,143,state house,2020,1
+new york,144,state house,2020,0
+new york,145,state house,2020,0
+new york,146,state house,2020,1
+new york,147,state house,2020,0
+new york,148,state house,2020,0
+new york,149,state house,2020,1
+new york,150,state house,2020,0
+north carolina,001,state house,2020,0
+north carolina,002,state house,2020,0
+north carolina,003,state house,2020,0
+north carolina,004,state house,2020,0
+north carolina,005,state house,2020,1
+north carolina,006,state house,2020,0
+north carolina,007,state house,2020,0
+north carolina,008,state house,2020,1
+north carolina,009,state house,2020,1
+north carolina,010,state house,2020,0
+north carolina,011,state house,2020,1
+north carolina,012,state house,2020,0
+north carolina,013,state house,2020,0
+north carolina,014,state house,2020,0
+north carolina,015,state house,2020,0
+north carolina,016,state house,2020,0
+north carolina,017,state house,2020,0
+north carolina,018,state house,2020,1
+north carolina,019,state house,2020,0
+north carolina,020,state house,2020,0
+north carolina,021,state house,2020,1
+north carolina,022,state house,2020,0
+north carolina,023,state house,2020,1
+north carolina,024,state house,2020,1
+north carolina,025,state house,2020,1
+north carolina,026,state house,2020,0
+north carolina,027,state house,2020,1
+north carolina,028,state house,2020,0
+north carolina,029,state house,2020,1
+north carolina,030,state house,2020,1
+north carolina,031,state house,2020,1
+north carolina,032,state house,2020,1
+north carolina,033,state house,2020,1
+north carolina,034,state house,2020,1
+north carolina,035,state house,2020,1
+north carolina,036,state house,2020,1
+north carolina,037,state house,2020,0
+north carolina,038,state house,2020,1
+north carolina,039,state house,2020,1
+north carolina,040,state house,2020,1
+north carolina,041,state house,2020,1
+north carolina,042,state house,2020,1
+north carolina,043,state house,2020,0
+north carolina,044,state house,2020,1
+north carolina,045,state house,2020,0
+north carolina,046,state house,2020,0
+north carolina,047,state house,2020,1
+north carolina,048,state house,2020,1
+north carolina,049,state house,2020,1
+north carolina,050,state house,2020,1
+north carolina,051,state house,2020,0
+north carolina,052,state house,2020,0
+north carolina,053,state house,2020,0
+north carolina,054,state house,2020,1
+north carolina,055,state house,2020,0
+north carolina,056,state house,2020,1
+north carolina,057,state house,2020,1
+north carolina,058,state house,2020,1
+north carolina,059,state house,2020,0
+north carolina,060,state house,2020,1
+north carolina,061,state house,2020,1
+north carolina,062,state house,2020,0
+north carolina,063,state house,2020,1
+north carolina,064,state house,2020,0
+north carolina,065,state house,2020,0
+north carolina,066,state house,2020,0
+north carolina,067,state house,2020,0
+north carolina,068,state house,2020,0
+north carolina,069,state house,2020,0
+north carolina,070,state house,2020,0
+north carolina,071,state house,2020,1
+north carolina,072,state house,2020,1
+north carolina,073,state house,2020,0
+north carolina,074,state house,2020,0
+north carolina,075,state house,2020,0
+north carolina,076,state house,2020,0
+north carolina,077,state house,2020,0
+north carolina,078,state house,2020,0
+north carolina,079,state house,2020,0
+north carolina,080,state house,2020,0
+north carolina,081,state house,2020,0
+north carolina,082,state house,2020,0
+north carolina,083,state house,2020,0
+north carolina,084,state house,2020,0
+north carolina,085,state house,2020,0
+north carolina,086,state house,2020,0
+north carolina,087,state house,2020,0
+north carolina,088,state house,2020,1
+north carolina,089,state house,2020,0
+north carolina,090,state house,2020,0
+north carolina,091,state house,2020,0
+north carolina,092,state house,2020,1
+north carolina,093,state house,2020,0
+north carolina,094,state house,2020,0
+north carolina,095,state house,2020,0
+north carolina,096,state house,2020,0
+north carolina,097,state house,2020,0
+north carolina,098,state house,2020,0
+north carolina,099,state house,2020,1
+north carolina,100,state house,2020,1
+north carolina,101,state house,2020,1
+north carolina,102,state house,2020,1
+north carolina,103,state house,2020,1
+north carolina,104,state house,2020,1
+north carolina,105,state house,2020,1
+north carolina,106,state house,2020,1
+north carolina,107,state house,2020,1
+north carolina,108,state house,2020,0
+north carolina,109,state house,2020,0
+north carolina,110,state house,2020,0
+north carolina,111,state house,2020,0
+north carolina,112,state house,2020,0
+north carolina,113,state house,2020,0
+north carolina,114,state house,2020,1
+north carolina,115,state house,2020,1
+north carolina,116,state house,2020,1
+north carolina,117,state house,2020,0
+north carolina,118,state house,2020,0
+north carolina,119,state house,2020,0
+north carolina,120,state house,2020,0
+ohio,001,state house,2020,0
+ohio,002,state house,2020,0
+ohio,003,state house,2020,0
+ohio,004,state house,2020,0
+ohio,005,state house,2020,0
+ohio,006,state house,2020,1
+ohio,007,state house,2020,0
+ohio,008,state house,2020,1
+ohio,009,state house,2020,1
+ohio,010,state house,2020,1
+ohio,011,state house,2020,1
+ohio,012,state house,2020,1
+ohio,013,state house,2020,1
+ohio,014,state house,2020,1
+ohio,015,state house,2020,1
+ohio,016,state house,2020,1
+ohio,017,state house,2020,1
+ohio,018,state house,2020,1
+ohio,019,state house,2020,1
+ohio,020,state house,2020,1
+ohio,021,state house,2020,1
+ohio,022,state house,2020,1
+ohio,023,state house,2020,0
+ohio,024,state house,2020,1
+ohio,025,state house,2020,1
+ohio,026,state house,2020,1
+ohio,027,state house,2020,0
+ohio,028,state house,2020,1
+ohio,029,state house,2020,0
+ohio,030,state house,2020,0
+ohio,031,state house,2020,1
+ohio,032,state house,2020,1
+ohio,033,state house,2020,1
+ohio,034,state house,2020,1
+ohio,035,state house,2020,1
+ohio,036,state house,2020,0
+ohio,037,state house,2020,1
+ohio,038,state house,2020,0
+ohio,039,state house,2020,1
+ohio,040,state house,2020,0
+ohio,041,state house,2020,0
+ohio,042,state house,2020,0
+ohio,043,state house,2020,0
+ohio,044,state house,2020,1
+ohio,045,state house,2020,1
+ohio,046,state house,2020,1
+ohio,047,state house,2020,0
+ohio,048,state house,2020,0
+ohio,049,state house,2020,1
+ohio,050,state house,2020,0
+ohio,051,state house,2020,0
+ohio,052,state house,2020,0
+ohio,053,state house,2020,0
+ohio,054,state house,2020,0
+ohio,055,state house,2020,0
+ohio,056,state house,2020,1
+ohio,057,state house,2020,0
+ohio,058,state house,2020,1
+ohio,059,state house,2020,0
+ohio,060,state house,2020,1
+ohio,061,state house,2020,0
+ohio,062,state house,2020,0
+ohio,063,state house,2020,0
+ohio,064,state house,2020,1
+ohio,065,state house,2020,0
+ohio,066,state house,2020,0
+ohio,067,state house,2020,0
+ohio,068,state house,2020,0
+ohio,069,state house,2020,0
+ohio,070,state house,2020,0
+ohio,071,state house,2020,0
+ohio,072,state house,2020,0
+ohio,073,state house,2020,0
+ohio,074,state house,2020,0
+ohio,075,state house,2020,0
+ohio,076,state house,2020,0
+ohio,077,state house,2020,0
+ohio,078,state house,2020,0
+ohio,079,state house,2020,0
+ohio,080,state house,2020,0
+ohio,081,state house,2020,0
+ohio,082,state house,2020,0
+ohio,083,state house,2020,0
+ohio,084,state house,2020,0
+ohio,085,state house,2020,0
+ohio,086,state house,2020,0
+ohio,087,state house,2020,0
+ohio,088,state house,2020,0
+ohio,089,state house,2020,0
+ohio,090,state house,2020,0
+ohio,091,state house,2020,0
+ohio,092,state house,2020,0
+ohio,093,state house,2020,0
+ohio,094,state house,2020,0
+ohio,095,state house,2020,0
+ohio,096,state house,2020,0
+ohio,097,state house,2020,0
+ohio,098,state house,2020,0
+ohio,099,state house,2020,0
+oklahoma,003,state house,2020,0
+oklahoma,004,state house,2020,0
+oklahoma,011,state house,2020,0
+oklahoma,023,state house,2020,0
+oklahoma,024,state house,2020,0
+oklahoma,026,state house,2020,0
+oklahoma,028,state house,2020,0
+oklahoma,029,state house,2020,0
+oklahoma,030,state house,2020,0
+oklahoma,034,state house,2020,1
+oklahoma,043,state house,2020,0
+oklahoma,045,state house,2020,1
+oklahoma,046,state house,2020,1
+oklahoma,055,state house,2020,0
+oklahoma,056,state house,2020,0
+oklahoma,057,state house,2020,0
+oklahoma,062,state house,2020,0
+oklahoma,064,state house,2020,0
+oklahoma,065,state house,2020,0
+oklahoma,066,state house,2020,0
+oklahoma,068,state house,2020,0
+oklahoma,071,state house,2020,1
+oklahoma,078,state house,2020,1
+oklahoma,079,state house,2020,1
+oklahoma,081,state house,2020,0
+oklahoma,083,state house,2020,0
+oklahoma,085,state house,2020,1
+oklahoma,087,state house,2020,1
+oklahoma,088,state house,2020,1
+oklahoma,089,state house,2020,1
+oklahoma,090,state house,2020,0
+oklahoma,093,state house,2020,1
+oklahoma,094,state house,2020,1
+oklahoma,095,state house,2020,0
+oklahoma,097,state house,2020,1
+oklahoma,100,state house,2020,0
+oklahoma,101,state house,2020,0
+oregon,1,state house,2020,0
+oregon,2,state house,2020,0
+oregon,3,state house,2020,0
+oregon,4,state house,2020,0
+oregon,5,state house,2020,1
+oregon,6,state house,2020,0
+oregon,7,state house,2020,0
+oregon,8,state house,2020,1
+oregon,9,state house,2020,0
+oregon,10,state house,2020,1
+oregon,11,state house,2020,1
+oregon,12,state house,2020,1
+oregon,13,state house,2020,1
+oregon,14,state house,2020,1
+oregon,15,state house,2020,0
+oregon,16,state house,2020,1
+oregon,17,state house,2020,0
+oregon,18,state house,2020,0
+oregon,19,state house,2020,0
+oregon,20,state house,2020,1
+oregon,21,state house,2020,1
+oregon,22,state house,2020,1
+oregon,23,state house,2020,0
+oregon,24,state house,2020,0
+oregon,25,state house,2020,0
+oregon,26,state house,2020,1
+oregon,27,state house,2020,1
+oregon,28,state house,2020,1
+oregon,29,state house,2020,1
+oregon,30,state house,2020,1
+oregon,31,state house,2020,1
+oregon,32,state house,2020,0
+oregon,33,state house,2020,1
+oregon,34,state house,2020,1
+oregon,35,state house,2020,1
+oregon,36,state house,2020,1
+oregon,37,state house,2020,1
+oregon,38,state house,2020,1
+oregon,39,state house,2020,0
+oregon,40,state house,2020,1
+oregon,41,state house,2020,1
+oregon,42,state house,2020,1
+oregon,43,state house,2020,1
+oregon,44,state house,2020,1
+oregon,45,state house,2020,1
+oregon,46,state house,2020,1
+oregon,47,state house,2020,1
+oregon,48,state house,2020,1
+oregon,49,state house,2020,1
+oregon,50,state house,2020,1
+oregon,51,state house,2020,1
+oregon,52,state house,2020,1
+oregon,53,state house,2020,0
+oregon,54,state house,2020,1
+oregon,55,state house,2020,0
+oregon,56,state house,2020,0
+oregon,57,state house,2020,0
+oregon,58,state house,2020,0
+oregon,59,state house,2020,0
+oregon,60,state house,2020,0
+pennsylvania,001,state house,2020,1
+pennsylvania,002,state house,2020,1
+pennsylvania,003,state house,2020,1
+pennsylvania,004,state house,2020,0
+pennsylvania,005,state house,2020,0
+pennsylvania,006,state house,2020,0
+pennsylvania,007,state house,2020,1
+pennsylvania,008,state house,2020,0
+pennsylvania,009,state house,2020,1
+pennsylvania,010,state house,2020,0
+pennsylvania,011,state house,2020,0
+pennsylvania,012,state house,2020,0
+pennsylvania,013,state house,2020,0
+pennsylvania,014,state house,2020,0
+pennsylvania,015,state house,2020,0
+pennsylvania,016,state house,2020,1
+pennsylvania,017,state house,2020,0
+pennsylvania,018,state house,2020,0
+pennsylvania,019,state house,2020,1
+pennsylvania,020,state house,2020,1
+pennsylvania,021,state house,2020,1
+pennsylvania,022,state house,2020,1
+pennsylvania,023,state house,2020,1
+pennsylvania,024,state house,2020,1
+pennsylvania,025,state house,2020,1
+pennsylvania,026,state house,2020,0
+pennsylvania,027,state house,2020,1
+pennsylvania,028,state house,2020,0
+pennsylvania,029,state house,2020,0
+pennsylvania,030,state house,2020,0
+pennsylvania,031,state house,2020,1
+pennsylvania,032,state house,2020,1
+pennsylvania,033,state house,2020,0
+pennsylvania,034,state house,2020,1
+pennsylvania,035,state house,2020,1
+pennsylvania,036,state house,2020,1
+pennsylvania,037,state house,2020,0
+pennsylvania,038,state house,2020,1
+pennsylvania,039,state house,2020,0
+pennsylvania,040,state house,2020,0
+pennsylvania,041,state house,2020,0
+pennsylvania,042,state house,2020,1
+pennsylvania,043,state house,2020,0
+pennsylvania,044,state house,2020,0
+pennsylvania,045,state house,2020,1
+pennsylvania,046,state house,2020,0
+pennsylvania,047,state house,2020,0
+pennsylvania,048,state house,2020,0
+pennsylvania,049,state house,2020,0
+pennsylvania,050,state house,2020,1
+pennsylvania,051,state house,2020,0
+pennsylvania,052,state house,2020,0
+pennsylvania,053,state house,2020,1
+pennsylvania,054,state house,2020,0
+pennsylvania,055,state house,2020,0
+pennsylvania,056,state house,2020,0
+pennsylvania,057,state house,2020,0
+pennsylvania,058,state house,2020,0
+pennsylvania,059,state house,2020,0
+pennsylvania,060,state house,2020,0
+pennsylvania,061,state house,2020,1
+pennsylvania,062,state house,2020,0
+pennsylvania,063,state house,2020,0
+pennsylvania,064,state house,2020,0
+pennsylvania,065,state house,2020,0
+pennsylvania,066,state house,2020,0
+pennsylvania,067,state house,2020,0
+pennsylvania,068,state house,2020,0
+pennsylvania,069,state house,2020,0
+pennsylvania,070,state house,2020,1
+pennsylvania,071,state house,2020,0
+pennsylvania,072,state house,2020,1
+pennsylvania,073,state house,2020,0
+pennsylvania,074,state house,2020,1
+pennsylvania,075,state house,2020,0
+pennsylvania,076,state house,2020,0
+pennsylvania,077,state house,2020,1
+pennsylvania,078,state house,2020,0
+pennsylvania,079,state house,2020,0
+pennsylvania,080,state house,2020,0
+pennsylvania,081,state house,2020,0
+pennsylvania,082,state house,2020,0
+pennsylvania,083,state house,2020,0
+pennsylvania,084,state house,2020,0
+pennsylvania,085,state house,2020,0
+pennsylvania,086,state house,2020,0
+pennsylvania,087,state house,2020,0
+pennsylvania,088,state house,2020,0
+pennsylvania,089,state house,2020,0
+pennsylvania,090,state house,2020,0
+pennsylvania,091,state house,2020,0
+pennsylvania,092,state house,2020,0
+pennsylvania,093,state house,2020,0
+pennsylvania,094,state house,2020,0
+pennsylvania,095,state house,2020,1
+pennsylvania,096,state house,2020,1
+pennsylvania,097,state house,2020,0
+pennsylvania,098,state house,2020,0
+pennsylvania,099,state house,2020,0
+pennsylvania,100,state house,2020,0
+pennsylvania,101,state house,2020,0
+pennsylvania,102,state house,2020,0
+pennsylvania,103,state house,2020,1
+pennsylvania,104,state house,2020,0
+pennsylvania,105,state house,2020,0
+pennsylvania,106,state house,2020,0
+pennsylvania,107,state house,2020,0
+pennsylvania,108,state house,2020,0
+pennsylvania,109,state house,2020,0
+pennsylvania,110,state house,2020,0
+pennsylvania,111,state house,2020,0
+pennsylvania,112,state house,2020,1
+pennsylvania,113,state house,2020,1
+pennsylvania,114,state house,2020,1
+pennsylvania,115,state house,2020,1
+pennsylvania,116,state house,2020,0
+pennsylvania,117,state house,2020,0
+pennsylvania,118,state house,2020,1
+pennsylvania,119,state house,2020,1
+pennsylvania,120,state house,2020,0
+pennsylvania,121,state house,2020,1
+pennsylvania,122,state house,2020,0
+pennsylvania,123,state house,2020,0
+pennsylvania,124,state house,2020,0
+pennsylvania,125,state house,2020,0
+pennsylvania,126,state house,2020,1
+pennsylvania,127,state house,2020,1
+pennsylvania,128,state house,2020,0
+pennsylvania,129,state house,2020,0
+pennsylvania,130,state house,2020,0
+pennsylvania,131,state house,2020,0
+pennsylvania,132,state house,2020,1
+pennsylvania,133,state house,2020,1
+pennsylvania,134,state house,2020,0
+pennsylvania,135,state house,2020,1
+pennsylvania,136,state house,2020,1
+pennsylvania,137,state house,2020,0
+pennsylvania,138,state house,2020,0
+pennsylvania,139,state house,2020,0
+pennsylvania,140,state house,2020,1
+pennsylvania,141,state house,2020,1
+pennsylvania,142,state house,2020,0
+pennsylvania,143,state house,2020,0
+pennsylvania,144,state house,2020,0
+pennsylvania,145,state house,2020,0
+pennsylvania,146,state house,2020,1
+pennsylvania,147,state house,2020,0
+pennsylvania,148,state house,2020,1
+pennsylvania,149,state house,2020,1
+pennsylvania,150,state house,2020,1
+pennsylvania,151,state house,2020,0
+pennsylvania,152,state house,2020,1
+pennsylvania,153,state house,2020,1
+pennsylvania,154,state house,2020,1
+pennsylvania,155,state house,2020,1
+pennsylvania,156,state house,2020,1
+pennsylvania,157,state house,2020,1
+pennsylvania,158,state house,2020,1
+pennsylvania,159,state house,2020,1
+pennsylvania,160,state house,2020,0
+pennsylvania,161,state house,2020,1
+pennsylvania,162,state house,2020,1
+pennsylvania,163,state house,2020,1
+pennsylvania,164,state house,2020,1
+pennsylvania,165,state house,2020,1
+pennsylvania,166,state house,2020,1
+pennsylvania,167,state house,2020,1
+pennsylvania,168,state house,2020,0
+pennsylvania,169,state house,2020,0
+pennsylvania,170,state house,2020,0
+pennsylvania,171,state house,2020,0
+pennsylvania,172,state house,2020,1
+pennsylvania,173,state house,2020,1
+pennsylvania,174,state house,2020,1
+pennsylvania,175,state house,2020,1
+pennsylvania,176,state house,2020,0
+pennsylvania,177,state house,2020,1
+pennsylvania,178,state house,2020,0
+pennsylvania,179,state house,2020,1
+pennsylvania,180,state house,2020,1
+pennsylvania,181,state house,2020,1
+pennsylvania,182,state house,2020,1
+pennsylvania,183,state house,2020,0
+pennsylvania,184,state house,2020,1
+pennsylvania,185,state house,2020,1
+pennsylvania,186,state house,2020,1
+pennsylvania,187,state house,2020,0
+pennsylvania,188,state house,2020,1
+pennsylvania,189,state house,2020,0
+pennsylvania,190,state house,2020,1
+pennsylvania,191,state house,2020,1
+pennsylvania,192,state house,2020,1
+pennsylvania,193,state house,2020,0
+pennsylvania,194,state house,2020,1
+pennsylvania,195,state house,2020,1
+pennsylvania,196,state house,2020,0
+pennsylvania,197,state house,2020,1
+pennsylvania,198,state house,2020,1
+pennsylvania,199,state house,2020,0
+pennsylvania,200,state house,2020,1
+pennsylvania,201,state house,2020,1
+pennsylvania,202,state house,2020,1
+pennsylvania,203,state house,2020,1
+rhode island,001,state house,2020,1
+rhode island,002,state house,2020,1
+rhode island,003,state house,2020,1
+rhode island,004,state house,2020,1
+rhode island,005,state house,2020,1
+rhode island,006,state house,2020,1
+rhode island,007,state house,2020,1
+rhode island,008,state house,2020,1
+rhode island,009,state house,2020,1
+rhode island,010,state house,2020,1
+rhode island,011,state house,2020,1
+rhode island,012,state house,2020,1
+rhode island,013,state house,2020,1
+rhode island,014,state house,2020,1
+rhode island,015,state house,2020,0
+rhode island,016,state house,2020,1
+rhode island,017,state house,2020,1
+rhode island,018,state house,2020,1
+rhode island,019,state house,2020,1
+rhode island,020,state house,2020,1
+rhode island,021,state house,2020,1
+rhode island,022,state house,2020,1
+rhode island,023,state house,2020,1
+rhode island,024,state house,2020,1
+rhode island,025,state house,2020,1
+rhode island,026,state house,2020,0
+rhode island,027,state house,2020,1
+rhode island,028,state house,2020,0
+rhode island,029,state house,2020,0
+rhode island,030,state house,2020,1
+rhode island,031,state house,2020,1
+rhode island,032,state house,2020,1
+rhode island,033,state house,2020,1
+rhode island,034,state house,2020,1
+rhode island,035,state house,2020,1
+rhode island,036,state house,2020,0
+rhode island,037,state house,2020,1
+rhode island,038,state house,2020,1
+rhode island,039,state house,2020,0
+rhode island,040,state house,2020,0
+rhode island,041,state house,2020,0
+rhode island,042,state house,2020,1
+rhode island,043,state house,2020,1
+rhode island,044,state house,2020,1
+rhode island,045,state house,2020,1
+rhode island,046,state house,2020,1
+rhode island,047,state house,2020,0
+rhode island,048,state house,2020,0
+rhode island,049,state house,2020,1
+rhode island,050,state house,2020,1
+rhode island,051,state house,2020,1
+rhode island,052,state house,2020,1
+rhode island,053,state house,2020,1
+rhode island,054,state house,2020,1
+rhode island,055,state house,2020,1
+rhode island,056,state house,2020,1
+rhode island,057,state house,2020,1
+rhode island,058,state house,2020,1
+rhode island,059,state house,2020,1
+rhode island,060,state house,2020,1
+rhode island,061,state house,2020,1
+rhode island,062,state house,2020,1
+rhode island,063,state house,2020,1
+rhode island,064,state house,2020,1
+rhode island,065,state house,2020,1
+rhode island,066,state house,2020,1
+rhode island,067,state house,2020,1
+rhode island,068,state house,2020,1
+rhode island,069,state house,2020,1
+rhode island,070,state house,2020,1
+rhode island,071,state house,2020,1
+rhode island,072,state house,2020,1
+rhode island,073,state house,2020,1
+rhode island,074,state house,2020,1
+rhode island,075,state house,2020,1
+south carolina,001,state house,2020,0
+south carolina,002,state house,2020,0
+south carolina,003,state house,2020,0
+south carolina,004,state house,2020,0
+south carolina,005,state house,2020,0
+south carolina,006,state house,2020,0
+south carolina,007,state house,2020,0
+south carolina,008,state house,2020,0
+south carolina,009,state house,2020,0
+south carolina,010,state house,2020,0
+south carolina,011,state house,2020,0
+south carolina,012,state house,2020,1
+south carolina,013,state house,2020,0
+south carolina,014,state house,2020,0
+south carolina,015,state house,2020,1
+south carolina,016,state house,2020,0
+south carolina,017,state house,2020,0
+south carolina,018,state house,2020,0
+south carolina,019,state house,2020,0
+south carolina,020,state house,2020,0
+south carolina,021,state house,2020,0
+south carolina,022,state house,2020,0
+south carolina,023,state house,2020,1
+south carolina,024,state house,2020,0
+south carolina,025,state house,2020,1
+south carolina,026,state house,2020,0
+south carolina,027,state house,2020,0
+south carolina,028,state house,2020,0
+south carolina,029,state house,2020,0
+south carolina,030,state house,2020,0
+south carolina,031,state house,2020,1
+south carolina,032,state house,2020,0
+south carolina,033,state house,2020,0
+south carolina,034,state house,2020,0
+south carolina,035,state house,2020,0
+south carolina,036,state house,2020,0
+south carolina,037,state house,2020,0
+south carolina,038,state house,2020,0
+south carolina,039,state house,2020,0
+south carolina,040,state house,2020,0
+south carolina,041,state house,2020,1
+south carolina,042,state house,2020,0
+south carolina,043,state house,2020,0
+south carolina,044,state house,2020,0
+south carolina,045,state house,2020,0
+south carolina,046,state house,2020,0
+south carolina,047,state house,2020,0
+south carolina,048,state house,2020,0
+south carolina,049,state house,2020,1
+south carolina,050,state house,2020,1
+south carolina,051,state house,2020,1
+south carolina,052,state house,2020,0
+south carolina,053,state house,2020,0
+south carolina,054,state house,2020,1
+south carolina,055,state house,2020,1
+south carolina,056,state house,2020,0
+south carolina,057,state house,2020,1
+south carolina,058,state house,2020,0
+south carolina,059,state house,2020,1
+south carolina,060,state house,2020,0
+south carolina,061,state house,2020,1
+south carolina,062,state house,2020,1
+south carolina,063,state house,2020,0
+south carolina,064,state house,2020,1
+south carolina,065,state house,2020,0
+south carolina,066,state house,2020,1
+south carolina,067,state house,2020,0
+south carolina,068,state house,2020,0
+south carolina,069,state house,2020,0
+south carolina,070,state house,2020,1
+south carolina,071,state house,2020,0
+south carolina,072,state house,2020,1
+south carolina,073,state house,2020,1
+south carolina,074,state house,2020,1
+south carolina,075,state house,2020,0
+south carolina,076,state house,2020,1
+south carolina,077,state house,2020,1
+south carolina,078,state house,2020,1
+south carolina,079,state house,2020,1
+south carolina,080,state house,2020,1
+south carolina,081,state house,2020,0
+south carolina,082,state house,2020,1
+south carolina,083,state house,2020,0
+south carolina,084,state house,2020,0
+south carolina,085,state house,2020,0
+south carolina,086,state house,2020,0
+south carolina,087,state house,2020,0
+south carolina,088,state house,2020,0
+south carolina,089,state house,2020,0
+south carolina,090,state house,2020,1
+south carolina,091,state house,2020,1
+south carolina,092,state house,2020,0
+south carolina,093,state house,2020,1
+south carolina,094,state house,2020,0
+south carolina,095,state house,2020,1
+south carolina,096,state house,2020,0
+south carolina,097,state house,2020,0
+south carolina,098,state house,2020,0
+south carolina,099,state house,2020,0
+south carolina,100,state house,2020,0
+south carolina,101,state house,2020,1
+south carolina,102,state house,2020,1
+south carolina,103,state house,2020,1
+south carolina,104,state house,2020,0
+south carolina,105,state house,2020,0
+south carolina,106,state house,2020,0
+south carolina,107,state house,2020,0
+south carolina,108,state house,2020,0
+south carolina,109,state house,2020,1
+south carolina,110,state house,2020,0
+south carolina,111,state house,2020,1
+south carolina,112,state house,2020,0
+south carolina,113,state house,2020,1
+south carolina,114,state house,2020,0
+south carolina,115,state house,2020,1
+south carolina,116,state house,2020,1
+south carolina,117,state house,2020,1
+south carolina,118,state house,2020,0
+south carolina,119,state house,2020,1
+south carolina,120,state house,2020,0
+south carolina,121,state house,2020,1
+south carolina,122,state house,2020,1
+south carolina,123,state house,2020,0
+south carolina,124,state house,2020,0
+south dakota,26a,state house,2020,1
+south dakota,26b,state house,2020,0
+south dakota,28a,state house,2020,1
+south dakota,28b,state house,2020,0
+tennessee,001,state house,2020,0
+tennessee,002,state house,2020,0
+tennessee,003,state house,2020,0
+tennessee,004,state house,2020,0
+tennessee,005,state house,2020,0
+tennessee,006,state house,2020,0
+tennessee,007,state house,2020,0
+tennessee,008,state house,2020,0
+tennessee,009,state house,2020,0
+tennessee,010,state house,2020,0
+tennessee,011,state house,2020,0
+tennessee,012,state house,2020,0
+tennessee,013,state house,2020,1
+tennessee,014,state house,2020,0
+tennessee,015,state house,2020,1
+tennessee,016,state house,2020,0
+tennessee,017,state house,2020,0
+tennessee,018,state house,2020,0
+tennessee,019,state house,2020,0
+tennessee,020,state house,2020,0
+tennessee,021,state house,2020,0
+tennessee,022,state house,2020,0
+tennessee,023,state house,2020,0
+tennessee,024,state house,2020,0
+tennessee,025,state house,2020,0
+tennessee,026,state house,2020,0
+tennessee,027,state house,2020,0
+tennessee,028,state house,2020,1
+tennessee,029,state house,2020,0
+tennessee,030,state house,2020,0
+tennessee,031,state house,2020,0
+tennessee,032,state house,2020,0
+tennessee,033,state house,2020,0
+tennessee,034,state house,2020,0
+tennessee,035,state house,2020,0
+tennessee,036,state house,2020,0
+tennessee,037,state house,2020,0
+tennessee,038,state house,2020,0
+tennessee,039,state house,2020,0
+tennessee,040,state house,2020,0
+tennessee,041,state house,2020,1
+tennessee,042,state house,2020,0
+tennessee,043,state house,2020,0
+tennessee,044,state house,2020,0
+tennessee,045,state house,2020,0
+tennessee,046,state house,2020,0
+tennessee,047,state house,2020,0
+tennessee,048,state house,2020,0
+tennessee,049,state house,2020,0
+tennessee,050,state house,2020,1
+tennessee,051,state house,2020,1
+tennessee,052,state house,2020,1
+tennessee,053,state house,2020,1
+tennessee,054,state house,2020,1
+tennessee,055,state house,2020,1
+tennessee,056,state house,2020,1
+tennessee,057,state house,2020,0
+tennessee,058,state house,2020,1
+tennessee,059,state house,2020,1
+tennessee,060,state house,2020,1
+tennessee,061,state house,2020,0
+tennessee,062,state house,2020,0
+tennessee,063,state house,2020,0
+tennessee,064,state house,2020,0
+tennessee,065,state house,2020,0
+tennessee,066,state house,2020,0
+tennessee,067,state house,2020,1
+tennessee,068,state house,2020,0
+tennessee,069,state house,2020,0
+tennessee,070,state house,2020,0
+tennessee,071,state house,2020,0
+tennessee,072,state house,2020,0
+tennessee,073,state house,2020,0
+tennessee,074,state house,2020,0
+tennessee,075,state house,2020,0
+tennessee,076,state house,2020,0
+tennessee,077,state house,2020,0
+tennessee,078,state house,2020,0
+tennessee,079,state house,2020,0
+tennessee,080,state house,2020,1
+tennessee,081,state house,2020,0
+tennessee,082,state house,2020,0
+tennessee,083,state house,2020,0
+tennessee,084,state house,2020,1
+tennessee,085,state house,2020,1
+tennessee,086,state house,2020,1
+tennessee,087,state house,2020,1
+tennessee,088,state house,2020,1
+tennessee,089,state house,2020,0
+tennessee,090,state house,2020,1
+tennessee,091,state house,2020,1
+tennessee,092,state house,2020,0
+tennessee,093,state house,2020,1
+tennessee,094,state house,2020,0
+tennessee,095,state house,2020,0
+tennessee,096,state house,2020,1
+tennessee,097,state house,2020,0
+tennessee,098,state house,2020,1
+tennessee,099,state house,2020,0
+texas,001,state house,2020,0
+texas,002,state house,2020,0
+texas,003,state house,2020,0
+texas,004,state house,2020,0
+texas,005,state house,2020,0
+texas,006,state house,2020,0
+texas,007,state house,2020,0
+texas,008,state house,2020,0
+texas,009,state house,2020,0
+texas,010,state house,2020,0
+texas,011,state house,2020,0
+texas,012,state house,2020,0
+texas,013,state house,2020,0
+texas,014,state house,2020,0
+texas,015,state house,2020,0
+texas,016,state house,2020,0
+texas,017,state house,2020,0
+texas,018,state house,2020,0
+texas,019,state house,2020,0
+texas,020,state house,2020,0
+texas,021,state house,2020,0
+texas,022,state house,2020,1
+texas,023,state house,2020,0
+texas,024,state house,2020,0
+texas,025,state house,2020,0
+texas,026,state house,2020,0
+texas,027,state house,2020,1
+texas,028,state house,2020,0
+texas,029,state house,2020,0
+texas,030,state house,2020,0
+texas,031,state house,2020,1
+texas,032,state house,2020,0
+texas,033,state house,2020,0
+texas,034,state house,2020,1
+texas,035,state house,2020,1
+texas,036,state house,2020,1
+texas,037,state house,2020,1
+texas,038,state house,2020,1
+texas,039,state house,2020,1
+texas,040,state house,2020,1
+texas,041,state house,2020,1
+texas,042,state house,2020,1
+texas,043,state house,2020,0
+texas,044,state house,2020,0
+texas,045,state house,2020,1
+texas,046,state house,2020,1
+texas,047,state house,2020,1
+texas,048,state house,2020,1
+texas,049,state house,2020,1
+texas,050,state house,2020,1
+texas,051,state house,2020,1
+texas,052,state house,2020,1
+texas,053,state house,2020,0
+texas,054,state house,2020,0
+texas,055,state house,2020,0
+texas,056,state house,2020,0
+texas,057,state house,2020,0
+texas,058,state house,2020,0
+texas,059,state house,2020,0
+texas,060,state house,2020,0
+texas,061,state house,2020,0
+texas,062,state house,2020,0
+texas,063,state house,2020,0
+texas,064,state house,2020,0
+texas,065,state house,2020,1
+texas,066,state house,2020,0
+texas,067,state house,2020,0
+texas,068,state house,2020,0
+texas,069,state house,2020,0
+texas,070,state house,2020,0
+texas,071,state house,2020,0
+texas,072,state house,2020,0
+texas,073,state house,2020,0
+texas,074,state house,2020,1
+texas,075,state house,2020,1
+texas,076,state house,2020,1
+texas,077,state house,2020,1
+texas,078,state house,2020,1
+texas,079,state house,2020,1
+texas,080,state house,2020,1
+texas,081,state house,2020,0
+texas,082,state house,2020,0
+texas,083,state house,2020,0
+texas,084,state house,2020,0
+texas,085,state house,2020,0
+texas,086,state house,2020,0
+texas,087,state house,2020,0
+texas,088,state house,2020,0
+texas,089,state house,2020,0
+texas,090,state house,2020,1
+texas,091,state house,2020,0
+texas,092,state house,2020,0
+texas,093,state house,2020,0
+texas,094,state house,2020,0
+texas,095,state house,2020,1
+texas,096,state house,2020,0
+texas,097,state house,2020,0
+texas,099,state house,2020,0
+texas,100,state house,2020,1
+texas,101,state house,2020,1
+texas,102,state house,2020,1
+texas,103,state house,2020,1
+texas,104,state house,2020,1
+texas,105,state house,2020,1
+texas,106,state house,2020,0
+texas,107,state house,2020,1
+texas,108,state house,2020,0
+texas,109,state house,2020,1
+texas,110,state house,2020,1
+texas,111,state house,2020,1
+texas,112,state house,2020,0
+texas,113,state house,2020,1
+texas,114,state house,2020,1
+texas,115,state house,2020,1
+texas,116,state house,2020,1
+texas,117,state house,2020,1
+texas,118,state house,2020,1
+texas,119,state house,2020,1
+texas,120,state house,2020,1
+texas,121,state house,2020,0
+texas,122,state house,2020,0
+texas,123,state house,2020,1
+texas,124,state house,2020,1
+texas,125,state house,2020,1
+texas,126,state house,2020,0
+texas,127,state house,2020,0
+texas,128,state house,2020,0
+texas,129,state house,2020,0
+texas,130,state house,2020,0
+texas,131,state house,2020,1
+texas,132,state house,2020,0
+texas,133,state house,2020,0
+texas,134,state house,2020,1
+texas,135,state house,2020,1
+texas,136,state house,2020,1
+texas,137,state house,2020,1
+texas,138,state house,2020,0
+texas,139,state house,2020,1
+texas,140,state house,2020,1
+texas,141,state house,2020,1
+texas,142,state house,2020,1
+texas,143,state house,2020,1
+texas,144,state house,2020,1
+texas,145,state house,2020,1
+texas,146,state house,2020,1
+texas,147,state house,2020,1
+texas,148,state house,2020,1
+texas,149,state house,2020,1
+texas,150,state house,2020,0
+utah,001,state house,2020,0
+utah,002,state house,2020,0
+utah,003,state house,2020,0
+utah,004,state house,2020,0
+utah,005,state house,2020,0
+utah,006,state house,2020,0
+utah,007,state house,2020,0
+utah,008,state house,2020,0
+utah,009,state house,2020,0
+utah,010,state house,2020,1
+utah,011,state house,2020,0
+utah,012,state house,2020,0
+utah,013,state house,2020,0
+utah,014,state house,2020,0
+utah,015,state house,2020,0
+utah,016,state house,2020,0
+utah,017,state house,2020,0
+utah,018,state house,2020,0
+utah,019,state house,2020,0
+utah,020,state house,2020,0
+utah,021,state house,2020,0
+utah,022,state house,2020,1
+utah,023,state house,2020,1
+utah,024,state house,2020,1
+utah,025,state house,2020,1
+utah,026,state house,2020,1
+utah,027,state house,2020,0
+utah,028,state house,2020,1
+utah,029,state house,2020,0
+utah,030,state house,2020,0
+utah,031,state house,2020,1
+utah,032,state house,2020,1
+utah,033,state house,2020,0
+utah,034,state house,2020,1
+utah,035,state house,2020,1
+utah,036,state house,2020,1
+utah,037,state house,2020,1
+utah,038,state house,2020,1
+utah,039,state house,2020,0
+utah,040,state house,2020,1
+utah,041,state house,2020,0
+utah,042,state house,2020,0
+utah,043,state house,2020,0
+utah,044,state house,2020,1
+utah,045,state house,2020,0
+utah,046,state house,2020,1
+utah,047,state house,2020,0
+utah,048,state house,2020,0
+utah,049,state house,2020,0
+utah,050,state house,2020,0
+utah,051,state house,2020,0
+utah,052,state house,2020,0
+utah,053,state house,2020,0
+utah,054,state house,2020,0
+utah,055,state house,2020,0
+utah,056,state house,2020,0
+utah,057,state house,2020,0
+utah,058,state house,2020,0
+utah,059,state house,2020,0
+utah,060,state house,2020,0
+utah,061,state house,2020,0
+utah,062,state house,2020,0
+utah,063,state house,2020,0
+utah,064,state house,2020,0
+utah,065,state house,2020,0
+utah,066,state house,2020,0
+utah,067,state house,2020,0
+utah,068,state house,2020,0
+utah,069,state house,2020,0
+utah,070,state house,2020,0
+utah,071,state house,2020,0
+utah,072,state house,2020,0
+utah,073,state house,2020,0
+utah,074,state house,2020,0
+utah,075,state house,2020,0
+vermont,add-2,state house,2020,1
+vermont,add-5,state house,2020,0
+vermont,add-rut,state house,2020,2
+vermont,ben-1,state house,2020,1
+vermont,ben-3,state house,2020,1
+vermont,ben-rut,state house,2020,1
+vermont,cal-1,state house,2020,0
+vermont,cal-2,state house,2020,1
+vermont,cal-was,state house,2020,1
+vermont,chi-1,state house,2020,1
+vermont,chi-4-1,state house,2020,1
+vermont,chi-4-2,state house,2020,1
+vermont,chi-5-1,state house,2020,1
+vermont,chi-5-2,state house,2020,1
+vermont,chi-6-2,state house,2020,1
+vermont,chi-6-6,state house,2020,1
+vermont,chi-7-1,state house,2020,1
+vermont,chi-7-2,state house,2020,1
+vermont,chi-7-3,state house,2020,1
+vermont,chi-7-4,state house,2020,1
+vermont,chi-8-3,state house,2020,1
+vermont,esx-cal,state house,2020,0
+vermont,esx-cal-orl,state house,2020,2
+vermont,fra-1,state house,2020,0
+vermont,fra-2,state house,2020,2
+vermont,fra-3-2,state house,2020,0
+vermont,fra-6,state house,2020,0
+vermont,fra-7,state house,2020,0
+vermont,lam-1,state house,2020,0
+vermont,lam-3,state house,2020,1
+vermont,ora-2,state house,2020,1
+vermont,ora-cal,state house,2020,0
+vermont,orl-lam,state house,2020,0
+vermont,rut-1,state house,2020,0
+vermont,rut-4,state house,2020,0
+vermont,rut-5-1,state house,2020,0
+vermont,rut-5-2,state house,2020,0
+vermont,rut-5-3,state house,2020,1
+vermont,rut-5-4,state house,2020,1
+vermont,rut-ben,state house,2020,0
+vermont,rut-wdr-1,state house,2020,0
+vermont,rut-wdr-2,state house,2020,1
+vermont,was-5,state house,2020,1
+vermont,was-6,state house,2020,1
+vermont,wdh-1,state house,2020,1
+vermont,wdh-2-1,state house,2020,1
+vermont,wdh-2-2,state house,2020,1
+vermont,wdh-2-3,state house,2020,1
+vermont,wdh-5,state house,2020,1
+vermont,wdh-6,state house,2020,1
+vermont,wdh-ben,state house,2020,2
+vermont,wdh-ben-wdr,state house,2020,2
+vermont,wdr-2,state house,2020,1
+vermont,wdr-3-1,state house,2020,1
+vermont,wdr-4-1,state house,2020,1
+vermont,wdr-5,state house,2020,1
+vermont,wdr-ora-1,state house,2020,1
+vermont,wdr-rut,state house,2020,1
+virginia,029,state house,2020,0
+washington,"district 1, position 1",state house,2020,1
+washington,"district 1, position 2",state house,2020,1
+washington,"district 10, position 1",state house,2020,0
+washington,"district 10, position 2",state house,2020,1
+washington,"district 11, position 1",state house,2020,1
+washington,"district 11, position 2",state house,2020,1
+washington,"district 12, position 1",state house,2020,0
+washington,"district 12, position 2",state house,2020,0
+washington,"district 13, position 1",state house,2020,0
+washington,"district 13, position 2",state house,2020,0
+washington,"district 14, position 1",state house,2020,0
+washington,"district 14, position 2",state house,2020,0
+washington,"district 15, position 1",state house,2020,0
+washington,"district 15, position 2",state house,2020,0
+washington,"district 16, position 1",state house,2020,0
+washington,"district 16, position 2",state house,2020,0
+washington,"district 17, position 1",state house,2020,0
+washington,"district 17, position 2",state house,2020,0
+washington,"district 18, position 1",state house,2020,0
+washington,"district 18, position 2",state house,2020,0
+washington,"district 19, position 1",state house,2020,0
+washington,"district 19, position 2",state house,2020,0
+washington,"district 2, position 1",state house,2020,0
+washington,"district 2, position 2",state house,2020,0
+washington,"district 20, position 1",state house,2020,0
+washington,"district 20, position 2",state house,2020,0
+washington,"district 21, position 1",state house,2020,1
+washington,"district 21, position 2",state house,2020,1
+washington,"district 22, position 1",state house,2020,1
+washington,"district 22, position 2",state house,2020,1
+washington,"district 23, position 1",state house,2020,1
+washington,"district 23, position 2",state house,2020,1
+washington,"district 24, position 1",state house,2020,1
+washington,"district 24, position 2",state house,2020,1
+washington,"district 25, position 1",state house,2020,0
+washington,"district 25, position 2",state house,2020,0
+washington,"district 26, position 1",state house,2020,0
+washington,"district 26, position 2",state house,2020,0
+washington,"district 27, position 1",state house,2020,1
+washington,"district 27, position 2",state house,2020,1
+washington,"district 28, position 1",state house,2020,1
+washington,"district 28, position 2",state house,2020,1
+washington,"district 29, position 1",state house,2020,1
+washington,"district 29, position 2",state house,2020,1
+washington,"district 3, position 1",state house,2020,1
+washington,"district 3, position 2",state house,2020,1
+washington,"district 30, position 1",state house,2020,1
+washington,"district 30, position 2",state house,2020,1
+washington,"district 31, position 1",state house,2020,0
+washington,"district 31, position 2",state house,2020,0
+washington,"district 32, position 1",state house,2020,1
+washington,"district 32, position 2",state house,2020,1
+washington,"district 33, position 1",state house,2020,1
+washington,"district 33, position 2",state house,2020,1
+washington,"district 34, position 1",state house,2020,1
+washington,"district 34, position 2",state house,2020,1
+washington,"district 35, position 1",state house,2020,0
+washington,"district 35, position 2",state house,2020,0
+washington,"district 36, position 1",state house,2020,1
+washington,"district 36, position 2",state house,2020,1
+washington,"district 37, position 1",state house,2020,1
+washington,"district 37, position 2",state house,2020,1
+washington,"district 38, position 1",state house,2020,1
+washington,"district 38, position 2",state house,2020,1
+washington,"district 39, position 1",state house,2020,0
+washington,"district 39, position 2",state house,2020,0
+washington,"district 4, position 1",state house,2020,0
+washington,"district 4, position 2",state house,2020,0
+washington,"district 40, position 1",state house,2020,1
+washington,"district 40, position 2",state house,2020,1
+washington,"district 41, position 1",state house,2020,1
+washington,"district 41, position 2",state house,2020,1
+washington,"district 42, position 1",state house,2020,1
+washington,"district 42, position 2",state house,2020,1
+washington,"district 43, position 1",state house,2020,1
+washington,"district 43, position 2",state house,2020,1
+washington,"district 44, position 1",state house,2020,1
+washington,"district 44, position 2",state house,2020,1
+washington,"district 45, position 1",state house,2020,1
+washington,"district 45, position 2",state house,2020,1
+washington,"district 46, position 1",state house,2020,1
+washington,"district 46, position 2",state house,2020,1
+washington,"district 47, position 1",state house,2020,1
+washington,"district 47, position 2",state house,2020,1
+washington,"district 48, position 1",state house,2020,1
+washington,"district 48, position 2",state house,2020,1
+washington,"district 49, position 1",state house,2020,1
+washington,"district 49, position 2",state house,2020,1
+washington,"district 5, position 1",state house,2020,1
+washington,"district 5, position 2",state house,2020,1
+washington,"district 6, position 1",state house,2020,0
+washington,"district 6, position 2",state house,2020,0
+washington,"district 7, position 1",state house,2020,0
+washington,"district 7, position 2",state house,2020,0
+washington,"district 8, position 1",state house,2020,0
+washington,"district 8, position 2",state house,2020,0
+washington,"district 9, position 1",state house,2020,0
+washington,"district 9, position 2",state house,2020,0
+west virginia,001,state house,2020,0
+west virginia,002,state house,2020,1
+west virginia,003,state house,2020,0
+west virginia,004,state house,2020,1
+west virginia,005,state house,2020,1
+west virginia,006,state house,2020,0
+west virginia,007,state house,2020,0
+west virginia,008,state house,2020,0
+west virginia,009,state house,2020,0
+west virginia,010,state house,2020,0
+west virginia,011,state house,2020,0
+west virginia,012,state house,2020,0
+west virginia,013,state house,2020,0
+west virginia,014,state house,2020,0
+west virginia,015,state house,2020,0
+west virginia,016,state house,2020,0
+west virginia,017,state house,2020,1
+west virginia,018,state house,2020,0
+west virginia,019,state house,2020,0
+west virginia,020,state house,2020,1
+west virginia,021,state house,2020,0
+west virginia,022,state house,2020,0
+west virginia,023,state house,2020,0
+west virginia,024,state house,2020,0
+west virginia,025,state house,2020,0
+west virginia,026,state house,2020,1
+west virginia,027,state house,2020,0
+west virginia,028,state house,2020,0
+west virginia,029,state house,2020,0
+west virginia,030,state house,2020,1
+west virginia,031,state house,2020,0
+west virginia,032,state house,2020,0
+west virginia,033,state house,2020,0
+west virginia,034,state house,2020,1
+west virginia,035,state house,2020,1
+west virginia,036,state house,2020,1
+west virginia,037,state house,2020,1
+west virginia,038,state house,2020,0
+west virginia,039,state house,2020,0
+west virginia,040,state house,2020,0
+west virginia,041,state house,2020,0
+west virginia,042,state house,2020,0
+west virginia,043,state house,2020,1
+west virginia,044,state house,2020,0
+west virginia,045,state house,2020,0
+west virginia,046,state house,2020,0
+west virginia,047,state house,2020,0
+west virginia,048,state house,2020,0
+west virginia,049,state house,2020,0
+west virginia,050,state house,2020,1
+west virginia,051,state house,2020,1
+west virginia,052,state house,2020,0
+west virginia,053,state house,2020,0
+west virginia,054,state house,2020,0
+west virginia,055,state house,2020,0
+west virginia,056,state house,2020,0
+west virginia,057,state house,2020,0
+west virginia,058,state house,2020,0
+west virginia,059,state house,2020,0
+west virginia,060,state house,2020,0
+west virginia,061,state house,2020,1
+west virginia,062,state house,2020,0
+west virginia,063,state house,2020,0
+west virginia,064,state house,2020,0
+west virginia,065,state house,2020,0
+west virginia,066,state house,2020,0
+west virginia,067,state house,2020,1
+wisconsin,001,state house,2020,0
+wisconsin,002,state house,2020,0
+wisconsin,003,state house,2020,0
+wisconsin,004,state house,2020,0
+wisconsin,005,state house,2020,0
+wisconsin,006,state house,2020,0
+wisconsin,007,state house,2020,1
+wisconsin,008,state house,2020,1
+wisconsin,009,state house,2020,1
+wisconsin,010,state house,2020,1
+wisconsin,011,state house,2020,1
+wisconsin,012,state house,2020,1
+wisconsin,013,state house,2020,1
+wisconsin,014,state house,2020,1
+wisconsin,015,state house,2020,0
+wisconsin,016,state house,2020,1
+wisconsin,017,state house,2020,1
+wisconsin,018,state house,2020,1
+wisconsin,019,state house,2020,1
+wisconsin,020,state house,2020,1
+wisconsin,021,state house,2020,0
+wisconsin,022,state house,2020,0
+wisconsin,023,state house,2020,1
+wisconsin,024,state house,2020,0
+wisconsin,025,state house,2020,0
+wisconsin,026,state house,2020,0
+wisconsin,027,state house,2020,0
+wisconsin,028,state house,2020,0
+wisconsin,029,state house,2020,0
+wisconsin,030,state house,2020,0
+wisconsin,031,state house,2020,0
+wisconsin,032,state house,2020,0
+wisconsin,033,state house,2020,0
+wisconsin,034,state house,2020,0
+wisconsin,035,state house,2020,0
+wisconsin,036,state house,2020,0
+wisconsin,037,state house,2020,0
+wisconsin,038,state house,2020,0
+wisconsin,039,state house,2020,0
+wisconsin,040,state house,2020,0
+wisconsin,041,state house,2020,0
+wisconsin,042,state house,2020,0
+wisconsin,043,state house,2020,1
+wisconsin,044,state house,2020,1
+wisconsin,045,state house,2020,1
+wisconsin,046,state house,2020,1
+wisconsin,047,state house,2020,1
+wisconsin,048,state house,2020,1
+wisconsin,049,state house,2020,0
+wisconsin,050,state house,2020,0
+wisconsin,051,state house,2020,0
+wisconsin,052,state house,2020,0
+wisconsin,053,state house,2020,0
+wisconsin,054,state house,2020,1
+wisconsin,055,state house,2020,0
+wisconsin,056,state house,2020,0
+wisconsin,057,state house,2020,1
+wisconsin,058,state house,2020,0
+wisconsin,059,state house,2020,0
+wisconsin,060,state house,2020,0
+wisconsin,061,state house,2020,0
+wisconsin,062,state house,2020,0
+wisconsin,063,state house,2020,0
+wisconsin,064,state house,2020,1
+wisconsin,065,state house,2020,1
+wisconsin,066,state house,2020,1
+wisconsin,067,state house,2020,0
+wisconsin,068,state house,2020,0
+wisconsin,069,state house,2020,0
+wisconsin,070,state house,2020,0
+wisconsin,071,state house,2020,1
+wisconsin,072,state house,2020,0
+wisconsin,073,state house,2020,1
+wisconsin,074,state house,2020,1
+wisconsin,075,state house,2020,0
+wisconsin,076,state house,2020,1
+wisconsin,077,state house,2020,1
+wisconsin,078,state house,2020,1
+wisconsin,079,state house,2020,1
+wisconsin,080,state house,2020,1
+wisconsin,081,state house,2020,1
+wisconsin,082,state house,2020,0
+wisconsin,083,state house,2020,0
+wisconsin,084,state house,2020,0
+wisconsin,085,state house,2020,0
+wisconsin,086,state house,2020,0
+wisconsin,087,state house,2020,0
+wisconsin,088,state house,2020,0
+wisconsin,089,state house,2020,0
+wisconsin,090,state house,2020,1
+wisconsin,091,state house,2020,1
+wisconsin,092,state house,2020,0
+wisconsin,093,state house,2020,0
+wisconsin,094,state house,2020,1
+wisconsin,095,state house,2020,1
+wisconsin,096,state house,2020,0
+wisconsin,097,state house,2020,0
+wisconsin,098,state house,2020,0
+wisconsin,099,state house,2020,0
+wyoming,001,state house,2020,0
+wyoming,002,state house,2020,0
+wyoming,003,state house,2020,0
+wyoming,004,state house,2020,0
+wyoming,005,state house,2020,0
+wyoming,006,state house,2020,0
+wyoming,007,state house,2020,0
+wyoming,008,state house,2020,0
+wyoming,009,state house,2020,0
+wyoming,010,state house,2020,0
+wyoming,011,state house,2020,0
+wyoming,012,state house,2020,0
+wyoming,013,state house,2020,1
+wyoming,014,state house,2020,1
+wyoming,015,state house,2020,0
+wyoming,016,state house,2020,1
+wyoming,017,state house,2020,1
+wyoming,018,state house,2020,0
+wyoming,019,state house,2020,0
+wyoming,020,state house,2020,0
+wyoming,021,state house,2020,0
+wyoming,022,state house,2020,2
+wyoming,023,state house,2020,1
+wyoming,024,state house,2020,0
+wyoming,025,state house,2020,0
+wyoming,026,state house,2020,0
+wyoming,027,state house,2020,0
+wyoming,028,state house,2020,0
+wyoming,029,state house,2020,0
+wyoming,030,state house,2020,0
+wyoming,031,state house,2020,0
+wyoming,032,state house,2020,0
+wyoming,033,state house,2020,1
+wyoming,034,state house,2020,0
+wyoming,035,state house,2020,0
+wyoming,036,state house,2020,0
+wyoming,037,state house,2020,0
+wyoming,038,state house,2020,0
+wyoming,039,state house,2020,1
+wyoming,040,state house,2020,0
+wyoming,041,state house,2020,0
+wyoming,042,state house,2020,0
+wyoming,043,state house,2020,0
+wyoming,044,state house,2020,0
+wyoming,045,state house,2020,1
+wyoming,046,state house,2020,0
+wyoming,047,state house,2020,0
+wyoming,048,state house,2020,0
+wyoming,049,state house,2020,0
+wyoming,050,state house,2020,0
+wyoming,051,state house,2020,0
+wyoming,052,state house,2020,0
+wyoming,053,state house,2020,0
+wyoming,054,state house,2020,0
+wyoming,055,state house,2020,0
+wyoming,056,state house,2020,0
+wyoming,057,state house,2020,0
+wyoming,058,state house,2020,0
+wyoming,059,state house,2020,0
+wyoming,060,state house,2020,0

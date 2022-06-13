@@ -1,0 +1,3761 @@
+district,household language not english,state
+1,13.4,alaska
+2,13.7,alaska
+3,5.8,alaska
+4,4.9,alaska
+5,14.0,alaska
+6,8.9,alaska
+7,7.6,alaska
+8,4.9,alaska
+9,9.3,alaska
+10,7.3,alaska
+11,4.3,alaska
+12,7.5,alaska
+13,11.9,alaska
+14,7.3,alaska
+15,23.4,alaska
+16,19.7,alaska
+17,23.1,alaska
+18,22.3,alaska
+19,33.7,alaska
+20,17.3,alaska
+21,14.8,alaska
+22,18.0,alaska
+23,22.7,alaska
+24,12.4,alaska
+25,20.6,alaska
+26,17.4,alaska
+27,14.0,alaska
+28,7.0,alaska
+29,6.9,alaska
+30,6.5,alaska
+31,8.3,alaska
+32,26.6,alaska
+33,13.2,alaska
+34,10.2,alaska
+35,13.0,alaska
+36,9.3,alaska
+37,39.3,alaska
+38,61.0,alaska
+39,30.1,alaska
+40,34.5,alaska
+1,2.6,arkansas
+2,3.1,arkansas
+3,8.4,arkansas
+4,19.5,arkansas
+5,1.4,arkansas
+6,2.5,arkansas
+7,5.8,arkansas
+8,6.8,arkansas
+9,4.4,arkansas
+10,2.1,arkansas
+11,6.5,arkansas
+12,2.2,arkansas
+13,1.7,arkansas
+14,3.1,arkansas
+15,3.9,arkansas
+16,3.8,arkansas
+17,3.9,arkansas
+18,3.7,arkansas
+19,10.2,arkansas
+20,5.5,arkansas
+21,3.7,arkansas
+22,3.1,arkansas
+23,5.0,arkansas
+24,9.2,arkansas
+25,8.4,arkansas
+26,4.3,arkansas
+27,7.3,arkansas
+28,3.1,arkansas
+29,21.7,arkansas
+30,11.8,arkansas
+31,6.5,arkansas
+32,12.1,arkansas
+33,6.8,arkansas
+34,5.4,arkansas
+35,5.7,arkansas
+36,10.4,arkansas
+37,3.5,arkansas
+38,6.0,arkansas
+39,4.9,arkansas
+40,5.3,arkansas
+41,3.7,arkansas
+42,5.0,arkansas
+43,4.4,arkansas
+44,3.6,arkansas
+45,5.3,arkansas
+46,8.4,arkansas
+47,1.8,arkansas
+48,5.8,arkansas
+49,2.5,arkansas
+50,1.5,arkansas
+51,2.9,arkansas
+52,3.0,arkansas
+53,3.4,arkansas
+54,3.0,arkansas
+55,4.4,arkansas
+56,1.4,arkansas
+57,1.7,arkansas
+58,6.1,arkansas
+59,8.0,arkansas
+60,1.9,arkansas
+61,1.8,arkansas
+62,2.1,arkansas
+63,5.5,arkansas
+64,1.1,arkansas
+65,3.3,arkansas
+66,2.3,arkansas
+67,2.7,arkansas
+68,2.1,arkansas
+69,10.6,arkansas
+70,7.8,arkansas
+71,15.9,arkansas
+72,5.0,arkansas
+73,15.3,arkansas
+74,3.1,arkansas
+75,3.3,arkansas
+76,13.9,arkansas
+77,9.5,arkansas
+78,39.5,arkansas
+79,12.0,arkansas
+80,5.7,arkansas
+81,2.7,arkansas
+82,2.4,arkansas
+83,0.7,arkansas
+84,7.7,arkansas
+85,6.2,arkansas
+86,9.2,arkansas
+87,19.4,arkansas
+88,30.9,arkansas
+89,53.4,arkansas
+90,18.5,arkansas
+91,7.6,arkansas
+92,4.0,arkansas
+93,13.9,arkansas
+94,25.7,arkansas
+95,8.5,arkansas
+96,19.1,arkansas
+97,8.9,arkansas
+98,8.1,arkansas
+99,1.8,arkansas
+100,2.8,arkansas
+1,9.5,california
+2,18.6,california
+3,24.2,california
+4,31.3,california
+5,21.5,california
+6,16.5,california
+7,35.6,california
+8,28.2,california
+9,38.4,california
+10,24.1,california
+11,28.0,california
+12,34.0,california
+13,45.0,california
+14,34.7,california
+15,38.6,california
+16,30.9,california
+17,41.6,california
+18,44.3,california
+19,49.0,california
+20,56.1,california
+21,52.9,california
+22,42.0,california
+23,30.5,california
+24,46.6,california
+25,63.0,california
+26,48.7,california
+27,65.7,california
+28,43.7,california
+29,30.0,california
+30,58.9,california
+31,59.2,california
+32,60.6,california
+33,29.1,california
+34,30.3,california
+35,31.1,california
+36,34.6,california
+37,34.0,california
+38,33.6,california
+39,70.6,california
+40,38.9,california
+41,35.2,california
+42,27.1,california
+43,54.7,california
+44,41.5,california
+45,50.4,california
+46,56.4,california
+47,56.8,california
+48,60.9,california
+49,71.8,california
+50,29.8,california
+51,69.6,california
+52,57.5,california
+53,77.5,california
+54,43.5,california
+55,47.8,california
+56,63.5,california
+57,57.2,california
+58,66.9,california
+59,75.6,california
+60,49.6,california
+61,48.8,california
+62,47.5,california
+63,72.7,california
+64,65.5,california
+65,53.0,california
+66,38.9,california
+67,31.1,california
+68,40.9,california
+69,75.3,california
+70,42.1,california
+71,26.8,california
+72,50.1,california
+73,24.7,california
+74,32.6,california
+75,32.7,california
+76,28.2,california
+77,33.3,california
+78,24.8,california
+79,42.6,california
+80,66.0,california
+1,34.9,colorado
+2,10.8,colorado
+3,15.7,colorado
+4,28.5,colorado
+5,30.6,colorado
+6,17.7,colorado
+7,39.2,colorado
+8,12.6,colorado
+9,18.5,colorado
+10,16.0,colorado
+11,17.1,colorado
+12,13.2,colorado
+13,8.1,colorado
+14,8.8,colorado
+15,11.8,colorado
+16,10.0,colorado
+17,26.0,colorado
+18,9.3,colorado
+19,5.7,colorado
+20,8.8,colorado
+21,14.0,colorado
+22,7.5,colorado
+23,12.0,colorado
+24,10.2,colorado
+25,5.0,colorado
+26,19.7,colorado
+27,7.8,colorado
+28,17.2,colorado
+29,12.7,colorado
+30,35.6,colorado
+31,24.2,colorado
+32,40.5,colorado
+33,14.2,colorado
+34,28.0,colorado
+35,20.7,colorado
+36,27.0,colorado
+37,17.2,colorado
+38,8.0,colorado
+39,5.3,colorado
+40,23.4,colorado
+41,30.0,colorado
+42,47.6,colorado
+43,9.4,colorado
+44,11.9,colorado
+45,8.0,colorado
+46,10.6,colorado
+47,11.3,colorado
+48,13.9,colorado
+49,6.5,colorado
+50,31.6,colorado
+51,5.6,colorado
+52,13.2,colorado
+53,9.7,colorado
+54,7.7,colorado
+55,6.9,colorado
+56,14.5,colorado
+57,22.1,colorado
+58,15.2,colorado
+59,8.6,colorado
+60,6.1,colorado
+61,11.5,colorado
+62,22.7,colorado
+63,16.3,colorado
+64,10.1,colorado
+65,18.0,colorado
+1,26.5,connecticut
+2,20.2,connecticut
+3,60.5,connecticut
+4,52.7,connecticut
+5,18.7,connecticut
+6,57.0,connecticut
+7,23.2,connecticut
+8,6.5,connecticut
+9,31.1,connecticut
+10,37.0,connecticut
+11,42.3,connecticut
+12,19.4,connecticut
+13,16.0,connecticut
+14,20.7,connecticut
+15,14.8,connecticut
+16,9.2,connecticut
+17,13.4,connecticut
+18,19.8,connecticut
+19,21.9,connecticut
+20,29.6,connecticut
+21,26.1,connecticut
+22,29.2,connecticut
+23,7.0,connecticut
+24,38.7,connecticut
+25,57.2,connecticut
+26,43.1,connecticut
+27,28.7,connecticut
+28,22.0,connecticut
+29,30.3,connecticut
+30,13.1,connecticut
+31,13.7,connecticut
+32,8.4,connecticut
+33,19.2,connecticut
+34,6.8,connecticut
+35,8.6,connecticut
+36,6.7,connecticut
+37,11.9,connecticut
+38,7.8,connecticut
+39,36.4,connecticut
+40,14.1,connecticut
+41,12.5,connecticut
+42,9.2,connecticut
+43,5.6,connecticut
+44,6.1,connecticut
+45,3.4,connecticut
+46,25.8,connecticut
+47,7.3,connecticut
+48,7.5,connecticut
+49,38.3,connecticut
+50,5.5,connecticut
+51,5.5,connecticut
+52,5.0,connecticut
+53,7.1,connecticut
+54,19.7,connecticut
+55,6.5,connecticut
+56,15.3,connecticut
+57,9.0,connecticut
+58,13.1,connecticut
+59,11.5,connecticut
+60,15.3,connecticut
+61,12.4,connecticut
+62,7.0,connecticut
+63,6.6,connecticut
+64,7.8,connecticut
+65,13.0,connecticut
+66,8.9,connecticut
+67,12.0,connecticut
+68,14.1,connecticut
+69,9.1,connecticut
+70,20.5,connecticut
+71,25.7,connecticut
+72,42.9,connecticut
+73,27.1,connecticut
+74,36.5,connecticut
+75,43.7,connecticut
+76,7.8,connecticut
+77,16.0,connecticut
+78,9.5,connecticut
+79,23.6,connecticut
+80,9.9,connecticut
+81,13.5,connecticut
+82,21.1,connecticut
+83,20.3,connecticut
+84,41.9,connecticut
+85,15.2,connecticut
+86,9.2,connecticut
+87,10.0,connecticut
+88,16.5,connecticut
+89,10.6,connecticut
+90,18.3,connecticut
+91,18.5,connecticut
+92,25.9,connecticut
+93,19.1,connecticut
+94,25.2,connecticut
+95,58.6,connecticut
+96,29.7,connecticut
+97,37.6,connecticut
+98,7.8,connecticut
+99,22.7,connecticut
+100,15.5,connecticut
+101,6.3,connecticut
+102,12.4,connecticut
+103,10.1,connecticut
+104,19.4,connecticut
+105,12.0,connecticut
+106,10.1,connecticut
+107,20.1,connecticut
+108,15.3,connecticut
+109,44.4,connecticut
+110,55.4,connecticut
+111,14.8,connecticut
+112,14.6,connecticut
+113,18.0,connecticut
+114,20.1,connecticut
+115,33.0,connecticut
+116,37.6,connecticut
+117,12.2,connecticut
+118,13.4,connecticut
+119,14.1,connecticut
+120,18.8,connecticut
+121,27.7,connecticut
+122,15.3,connecticut
+123,19.5,connecticut
+124,49.9,connecticut
+125,14.7,connecticut
+126,46.5,connecticut
+127,41.7,connecticut
+128,54.4,connecticut
+129,42.5,connecticut
+130,54.8,connecticut
+131,13.3,connecticut
+132,12.6,connecticut
+133,24.3,connecticut
+134,14.8,connecticut
+135,13.0,connecticut
+136,13.7,connecticut
+137,34.7,connecticut
+138,26.0,connecticut
+139,15.3,connecticut
+140,58.0,connecticut
+141,17.2,connecticut
+142,25.8,connecticut
+143,21.2,connecticut
+144,32.8,connecticut
+145,54.3,connecticut
+146,39.4,connecticut
+147,29.2,connecticut
+148,53.9,connecticut
+149,17.8,connecticut
+150,31.8,connecticut
+151,27.3,connecticut
+1,7.2,delaware
+2,9.8,delaware
+3,24.5,delaware
+4,10.4,delaware
+5,17.2,delaware
+6,10.0,delaware
+7,10.7,delaware
+8,9.9,delaware
+9,8.8,delaware
+10,12.6,delaware
+11,11.5,delaware
+12,11.1,delaware
+13,18.6,delaware
+14,5.5,delaware
+15,13.9,delaware
+16,15.1,delaware
+17,20.9,delaware
+18,21.7,delaware
+19,17.7,delaware
+20,7.4,delaware
+21,12.3,delaware
+22,13.9,delaware
+23,18.8,delaware
+24,24.2,delaware
+25,18.9,delaware
+26,26.1,delaware
+27,16.0,delaware
+28,13.6,delaware
+29,12.1,delaware
+30,5.5,delaware
+31,12.3,delaware
+32,10.1,delaware
+33,11.8,delaware
+34,10.2,delaware
+35,13.1,delaware
+36,14.5,delaware
+37,18.1,delaware
+38,4.3,delaware
+39,15.1,delaware
+40,9.1,delaware
+41,11.9,delaware
+1,7.2,florida
+2,7.5,florida
+3,5.8,florida
+4,12.7,florida
+5,6.0,florida
+6,8.7,florida
+7,7.5,florida
+8,9.5,florida
+9,9.9,florida
+10,7.7,florida
+11,7.1,florida
+12,22.6,florida
+13,13.0,florida
+14,6.7,florida
+15,13.5,florida
+16,21.4,florida
+17,8.7,florida
+18,12.0,florida
+19,6.9,florida
+20,13.3,florida
+21,13.6,florida
+22,15.2,florida
+23,10.9,florida
+24,14.7,florida
+25,9.4,florida
+26,11.6,florida
+27,21.1,florida
+28,21.6,florida
+29,22.1,florida
+30,25.3,florida
+31,16.7,florida
+32,17.7,florida
+33,6.6,florida
+34,6.8,florida
+35,11.5,florida
+36,13.3,florida
+37,13.9,florida
+38,18.2,florida
+39,22.1,florida
+40,17.9,florida
+41,29.8,florida
+42,32.6,florida
+43,63.6,florida
+44,34.7,florida
+45,31.4,florida
+46,41.5,florida
+47,24.6,florida
+48,61.5,florida
+49,37.6,florida
+50,25.6,florida
+51,8.7,florida
+52,10.9,florida
+53,14.0,florida
+54,13.4,florida
+55,20.6,florida
+56,24.8,florida
+57,22.5,florida
+58,26.9,florida
+59,27.5,florida
+60,20.4,florida
+61,27.1,florida
+62,57.4,florida
+63,30.9,florida
+64,21.3,florida
+65,14.4,florida
+66,11.5,florida
+67,18.8,florida
+68,17.8,florida
+69,14.1,florida
+70,20.1,florida
+71,16.4,florida
+72,17.0,florida
+73,13.0,florida
+74,9.5,florida
+75,9.6,florida
+76,15.9,florida
+77,21.5,florida
+78,22.8,florida
+79,31.5,florida
+80,42.0,florida
+81,33.5,florida
+82,16.3,florida
+83,20.7,florida
+84,21.8,florida
+85,19.4,florida
+86,33.4,florida
+87,64.5,florida
+88,32.1,florida
+89,22.7,florida
+90,35.8,florida
+91,22.6,florida
+92,46.1,florida
+93,25.8,florida
+94,28.7,florida
+95,34.7,florida
+96,34.8,florida
+97,38.0,florida
+98,39.6,florida
+99,45.3,florida
+100,63.8,florida
+101,51.7,florida
+102,45.0,florida
+103,83.2,florida
+104,56.4,florida
+105,73.4,florida
+106,19.2,florida
+107,64.4,florida
+108,59.9,florida
+109,55.3,florida
+110,89.8,florida
+111,90.6,florida
+112,78.6,florida
+113,77.4,florida
+114,72.5,florida
+115,71.6,florida
+116,85.8,florida
+117,63.0,florida
+118,79.7,florida
+119,88.9,florida
+120,46.1,florida
+1,2.5,georgia
+2,3.8,georgia
+3,5.4,georgia
+4,35.9,georgia
+5,16.9,georgia
+6,20.2,georgia
+7,6.5,georgia
+8,5.4,georgia
+9,5.8,georgia
+10,11.7,georgia
+11,7.9,georgia
+12,7.0,georgia
+13,14.0,georgia
+14,6.0,georgia
+15,10.5,georgia
+16,9.9,georgia
+17,6.8,georgia
+18,8.1,georgia
+19,8.4,georgia
+20,13.0,georgia
+21,14.3,georgia
+22,14.3,georgia
+23,14.6,georgia
+24,18.4,georgia
+25,33.0,georgia
+26,12.9,georgia
+27,17.1,georgia
+28,6.8,georgia
+29,43.2,georgia
+30,32.2,georgia
+31,8.6,georgia
+32,6.3,georgia
+33,4.8,georgia
+34,17.3,georgia
+35,21.0,georgia
+36,13.0,georgia
+37,21.2,georgia
+38,18.7,georgia
+39,23.0,georgia
+40,16.1,georgia
+41,33.0,georgia
+42,31.3,georgia
+43,22.5,georgia
+44,18.7,georgia
+45,16.0,georgia
+46,12.9,georgia
+47,18.5,georgia
+48,29.7,georgia
+49,34.3,georgia
+50,41.6,georgia
+51,19.4,georgia
+52,17.7,georgia
+53,8.0,georgia
+54,16.3,georgia
+55,5.8,georgia
+56,14.9,georgia
+57,11.4,georgia
+58,7.3,georgia
+59,12.1,georgia
+60,13.3,georgia
+61,14.3,georgia
+62,7.8,georgia
+63,9.7,georgia
+64,9.0,georgia
+65,11.0,georgia
+66,10.3,georgia
+67,8.2,georgia
+68,5.1,georgia
+69,4.7,georgia
+70,10.6,georgia
+71,7.9,georgia
+72,11.6,georgia
+73,7.8,georgia
+74,23.7,georgia
+75,19.1,georgia
+76,15.6,georgia
+77,19.3,georgia
+78,15.5,georgia
+79,29.7,georgia
+80,25.2,georgia
+81,45.7,georgia
+82,30.3,georgia
+83,7.5,georgia
+84,8.6,georgia
+85,28.2,georgia
+86,25.8,georgia
+87,18.6,georgia
+88,17.9,georgia
+89,6.4,georgia
+90,10.0,georgia
+91,8.5,georgia
+92,11.1,georgia
+93,12.5,georgia
+94,16.1,georgia
+95,26.0,georgia
+96,51.5,georgia
+97,31.2,georgia
+98,28.9,georgia
+99,68.7,georgia
+100,55.4,georgia
+101,39.2,georgia
+102,34.4,georgia
+103,17.9,georgia
+104,24.7,georgia
+105,17.0,georgia
+106,23.7,georgia
+107,43.0,georgia
+108,41.1,georgia
+109,7.7,georgia
+110,4.5,georgia
+111,10.8,georgia
+112,4.9,georgia
+113,7.5,georgia
+114,11.1,georgia
+115,3.5,georgia
+116,14.5,georgia
+117,12.0,georgia
+118,17.1,georgia
+119,10.0,georgia
+120,6.4,georgia
+121,6.9,georgia
+122,10.5,georgia
+123,8.9,georgia
+124,7.2,georgia
+125,5.0,georgia
+126,5.4,georgia
+127,6.6,georgia
+128,2.7,georgia
+129,3.7,georgia
+130,4.2,georgia
+131,2.8,georgia
+132,7.1,georgia
+133,4.4,georgia
+134,10.0,georgia
+135,5.9,georgia
+136,7.0,georgia
+137,4.5,georgia
+138,7.9,georgia
+139,6.6,georgia
+140,6.3,georgia
+141,6.1,georgia
+142,4.5,georgia
+143,4.3,georgia
+144,3.3,georgia
+145,3.5,georgia
+146,8.1,georgia
+147,8.6,georgia
+148,3.9,georgia
+149,6.2,georgia
+150,3.8,georgia
+151,6.8,georgia
+152,4.0,georgia
+153,4.2,georgia
+154,2.7,georgia
+155,6.9,georgia
+156,9.7,georgia
+157,10.3,georgia
+158,5.2,georgia
+159,3.3,georgia
+160,6.3,georgia
+161,10.4,georgia
+162,12.4,georgia
+163,9.5,georgia
+164,14.9,georgia
+165,8.0,georgia
+166,7.3,georgia
+167,8.8,georgia
+168,12.5,georgia
+169,11.0,georgia
+170,7.8,georgia
+171,7.6,georgia
+172,14.3,georgia
+173,7.7,georgia
+174,7.0,georgia
+175,5.3,georgia
+176,8.1,georgia
+177,5.7,georgia
+178,3.6,georgia
+179,7.2,georgia
+180,5.3,georgia
+1,29.8,hawaii
+2,24.5,hawaii
+3,23.2,hawaii
+4,22.1,hawaii
+5,28.4,hawaii
+9,35.6,hawaii
+10,27.6,hawaii
+11,17.8,hawaii
+13,17.9,hawaii
+14,14.0,hawaii
+15,23.2,hawaii
+16,21.1,hawaii
+17,19.2,hawaii
+18,18.5,hawaii
+19,24.4,hawaii
+20,22.4,hawaii
+22,41.2,hawaii
+24,33.0,hawaii
+30,36.8,hawaii
+33,17.6,hawaii
+34,20.3,hawaii
+35,29.3,hawaii
+36,14.5,hawaii
+37,15.9,hawaii
+39,34.7,hawaii
+40,30.6,hawaii
+41,26.9,hawaii
+43,21.7,hawaii
+44,18.1,hawaii
+45,21.2,hawaii
+47,21.8,hawaii
+49,12.4,hawaii
+50,14.7,hawaii
+51,13.6,hawaii
+1,74.0,illinois
+2,67.6,illinois
+3,70.6,illinois
+4,41.8,illinois
+5,15.6,illinois
+6,28.9,illinois
+7,22.8,illinois
+8,18.6,illinois
+9,19.3,illinois
+10,16.3,illinois
+11,15.2,illinois
+12,17.8,illinois
+13,37.9,illinois
+14,35.6,illinois
+15,50.0,illinois
+16,55.7,illinois
+17,32.5,illinois
+18,20.4,illinois
+19,46.4,illinois
+20,41.7,illinois
+21,64.7,illinois
+22,69.0,illinois
+23,59.5,illinois
+24,72.2,illinois
+25,29.6,illinois
+26,20.6,illinois
+27,12.5,illinois
+28,13.8,illinois
+29,7.1,illinois
+30,16.3,illinois
+31,19.2,illinois
+32,33.9,illinois
+33,16.0,illinois
+34,7.4,illinois
+35,17.0,illinois
+36,24.2,illinois
+37,9.7,illinois
+38,8.6,illinois
+39,58.7,illinois
+40,52.8,illinois
+41,21.7,illinois
+42,20.1,illinois
+43,55.3,illinois
+44,50.1,illinois
+45,28.7,illinois
+46,40.1,illinois
+47,19.1,illinois
+48,19.1,illinois
+49,28.2,illinois
+50,12.9,illinois
+51,22.0,illinois
+52,20.0,illinois
+53,30.8,illinois
+54,28.4,illinois
+55,41.0,illinois
+56,37.2,illinois
+57,52.9,illinois
+58,16.8,illinois
+59,46.4,illinois
+60,49.7,illinois
+61,22.1,illinois
+62,31.2,illinois
+63,16.2,illinois
+64,10.6,illinois
+65,15.6,illinois
+66,18.8,illinois
+67,24.5,illinois
+68,11.6,illinois
+69,12.6,illinois
+70,11.7,illinois
+71,7.0,illinois
+72,15.2,illinois
+73,7.6,illinois
+74,3.8,illinois
+75,7.9,illinois
+76,9.1,illinois
+77,62.7,illinois
+78,27.2,illinois
+79,9.6,illinois
+80,13.2,illinois
+81,20.9,illinois
+82,21.5,illinois
+83,51.9,illinois
+84,40.9,illinois
+85,31.6,illinois
+86,31.3,illinois
+87,2.7,illinois
+88,6.1,illinois
+89,3.1,illinois
+90,6.7,illinois
+91,2.3,illinois
+92,6.9,illinois
+93,6.1,illinois
+94,3.4,illinois
+95,2.0,illinois
+96,3.8,illinois
+97,17.3,illinois
+98,26.1,illinois
+99,5.6,illinois
+100,2.1,illinois
+101,2.9,illinois
+102,8.9,illinois
+103,22.4,illinois
+104,9.0,illinois
+105,8.2,illinois
+106,3.9,illinois
+107,3.1,illinois
+108,3.5,illinois
+109,3.3,illinois
+110,3.2,illinois
+111,2.8,illinois
+112,5.9,illinois
+113,7.1,illinois
+114,4.1,illinois
+115,6.0,illinois
+116,3.4,illinois
+117,2.9,illinois
+118,3.5,illinois
+1,27.0,indiana
+2,24.6,indiana
+3,7.9,indiana
+4,5.5,indiana
+5,8.5,indiana
+6,12.1,indiana
+7,11.8,indiana
+8,7.6,indiana
+9,5.3,indiana
+10,5.9,indiana
+11,4.7,indiana
+12,13.6,indiana
+13,4.8,indiana
+14,10.4,indiana
+15,13.7,indiana
+16,3.7,indiana
+17,11.1,indiana
+18,4.2,indiana
+19,10.6,indiana
+20,5.9,indiana
+21,16.9,indiana
+22,14.3,indiana
+23,11.3,indiana
+24,11.9,indiana
+25,5.9,indiana
+26,21.0,indiana
+27,13.8,indiana
+28,3.1,indiana
+29,5.2,indiana
+30,4.4,indiana
+31,2.5,indiana
+32,3.9,indiana
+33,3.3,indiana
+34,4.6,indiana
+35,2.7,indiana
+36,5.3,indiana
+37,12.0,indiana
+38,7.5,indiana
+39,12.5,indiana
+40,8.9,indiana
+41,4.6,indiana
+42,3.7,indiana
+43,4.5,indiana
+44,2.7,indiana
+45,2.7,indiana
+46,4.1,indiana
+47,2.8,indiana
+48,9.7,indiana
+49,28.0,indiana
+50,5.3,indiana
+51,26.3,indiana
+52,4.7,indiana
+53,3.4,indiana
+54,1.8,indiana
+55,3.5,indiana
+56,5.4,indiana
+57,3.9,indiana
+58,9.7,indiana
+59,14.8,indiana
+60,6.4,indiana
+61,10.8,indiana
+62,5.9,indiana
+63,10.9,indiana
+64,1.9,indiana
+65,1.7,indiana
+66,3.1,indiana
+67,1.5,indiana
+68,2.4,indiana
+69,6.0,indiana
+70,2.8,indiana
+71,7.2,indiana
+72,3.3,indiana
+73,2.3,indiana
+74,3.1,indiana
+75,3.4,indiana
+76,2.2,indiana
+77,5.3,indiana
+78,4.9,indiana
+79,9.7,indiana
+80,23.0,indiana
+81,11.3,indiana
+82,12.9,indiana
+83,4.5,indiana
+84,8.2,indiana
+85,8.3,indiana
+86,10.3,indiana
+87,7.7,indiana
+88,5.3,indiana
+89,8.7,indiana
+90,10.9,indiana
+91,13.0,indiana
+92,21.2,indiana
+93,17.5,indiana
+94,21.0,indiana
+95,13.9,indiana
+96,9.1,indiana
+97,15.0,indiana
+98,11.1,indiana
+99,23.8,indiana
+100,8.5,indiana
+1,4.3,iowa
+2,3.2,iowa
+3,4.1,iowa
+4,8.6,iowa
+5,6.0,iowa
+6,8.9,iowa
+7,4.9,iowa
+8,6.1,iowa
+9,5.6,iowa
+10,3.3,iowa
+11,23.7,iowa
+12,3.3,iowa
+13,22.7,iowa
+14,23.1,iowa
+15,10.7,iowa
+16,7.5,iowa
+17,2.9,iowa
+18,17.7,iowa
+19,2.7,iowa
+20,10.8,iowa
+21,2.9,iowa
+22,1.3,iowa
+23,2.2,iowa
+24,3.2,iowa
+25,2.5,iowa
+26,2.9,iowa
+27,8.0,iowa
+28,2.7,iowa
+29,4.3,iowa
+30,3.5,iowa
+31,10.4,iowa
+32,27.7,iowa
+33,24.8,iowa
+34,12.7,iowa
+35,31.0,iowa
+36,13.9,iowa
+37,5.8,iowa
+38,4.8,iowa
+39,10.9,iowa
+40,12.9,iowa
+41,12.1,iowa
+42,12.8,iowa
+43,13.3,iowa
+44,13.5,iowa
+45,16.1,iowa
+46,14.1,iowa
+47,3.3,iowa
+48,4.8,iowa
+49,3.5,iowa
+50,3.3,iowa
+51,4.6,iowa
+52,6.4,iowa
+53,3.6,iowa
+54,6.0,iowa
+55,3.8,iowa
+56,9.3,iowa
+57,3.2,iowa
+58,2.4,iowa
+59,6.3,iowa
+60,7.0,iowa
+61,16.1,iowa
+62,8.6,iowa
+63,1.8,iowa
+64,3.2,iowa
+65,6.4,iowa
+66,9.6,iowa
+67,6.7,iowa
+68,2.1,iowa
+69,7.1,iowa
+70,6.4,iowa
+71,27.7,iowa
+72,8.4,iowa
+73,4.1,iowa
+74,25.1,iowa
+75,2.9,iowa
+76,3.7,iowa
+77,11.1,iowa
+78,5.9,iowa
+79,3.3,iowa
+80,2.6,iowa
+81,13.1,iowa
+82,16.0,iowa
+83,2.3,iowa
+84,5.8,iowa
+85,9.1,iowa
+86,18.4,iowa
+87,4.1,iowa
+88,14.7,iowa
+89,7.2,iowa
+90,9.8,iowa
+91,11.8,iowa
+92,3.0,iowa
+93,5.8,iowa
+94,9.2,iowa
+95,2.0,iowa
+96,2.6,iowa
+97,1.3,iowa
+98,2.3,iowa
+99,5.1,iowa
+100,3.9,iowa
+1,1.7,kansas
+2,1.7,kansas
+3,6.6,kansas
+4,2.7,kansas
+5,1.4,kansas
+6,3.8,kansas
+7,4.1,kansas
+8,12.0,kansas
+9,3.3,kansas
+10,11.8,kansas
+11,4.1,kansas
+12,1.8,kansas
+13,2.2,kansas
+14,15.6,kansas
+15,19.3,kansas
+16,11.1,kansas
+17,6.3,kansas
+18,11.2,kansas
+19,5.6,kansas
+20,7.4,kansas
+21,4.8,kansas
+22,16.7,kansas
+23,18.0,kansas
+24,12.7,kansas
+25,6.6,kansas
+26,8.9,kansas
+27,10.7,kansas
+28,18.2,kansas
+29,16.9,kansas
+30,10.4,kansas
+31,27.4,kansas
+32,59.0,kansas
+33,11.4,kansas
+34,33.7,kansas
+35,26.0,kansas
+36,10.4,kansas
+37,31.6,kansas
+38,4.5,kansas
+39,4.9,kansas
+40,3.6,kansas
+41,6.9,kansas
+42,4.4,kansas
+43,9.0,kansas
+44,11.6,kansas
+45,9.5,kansas
+46,10.3,kansas
+47,1.7,kansas
+48,19.9,kansas
+49,18.6,kansas
+50,1.1,kansas
+51,2.9,kansas
+52,4.2,kansas
+53,5.8,kansas
+54,2.3,kansas
+55,7.5,kansas
+56,4.6,kansas
+57,15.0,kansas
+58,20.3,kansas
+59,3.1,kansas
+60,16.1,kansas
+61,3.3,kansas
+62,2.1,kansas
+63,2.5,kansas
+64,4.5,kansas
+65,13.7,kansas
+66,10.6,kansas
+67,10.6,kansas
+68,12.1,kansas
+69,12.3,kansas
+70,1.8,kansas
+71,5.3,kansas
+72,6.5,kansas
+73,5.7,kansas
+74,4.2,kansas
+75,2.7,kansas
+76,8.3,kansas
+77,1.7,kansas
+78,10.5,kansas
+79,3.9,kansas
+80,6.4,kansas
+81,19.7,kansas
+82,5.4,kansas
+83,19.7,kansas
+84,17.1,kansas
+85,12.4,kansas
+86,21.7,kansas
+87,14.6,kansas
+88,27.3,kansas
+89,19.0,kansas
+90,5.5,kansas
+91,9.4,kansas
+92,23.7,kansas
+93,2.5,kansas
+94,7.8,kansas
+95,19.9,kansas
+96,16.8,kansas
+97,12.5,kansas
+98,14.1,kansas
+99,10.9,kansas
+100,6.7,kansas
+101,5.7,kansas
+102,6.1,kansas
+103,44.8,kansas
+104,3.5,kansas
+105,11.1,kansas
+106,3.3,kansas
+107,2.0,kansas
+108,4.5,kansas
+109,1.9,kansas
+110,2.3,kansas
+111,6.9,kansas
+112,10.7,kansas
+113,7.1,kansas
+114,6.6,kansas
+115,31.4,kansas
+116,2.8,kansas
+117,6.9,kansas
+118,9.2,kansas
+119,54.2,kansas
+120,6.3,kansas
+121,12.8,kansas
+122,34.7,kansas
+123,45.3,kansas
+124,32.8,kansas
+125,58.6,kansas
+1,2.8,kentucky
+2,4.9,kentucky
+3,2.5,kentucky
+4,3.2,kentucky
+5,3.9,kentucky
+6,1.9,kentucky
+7,5.6,kentucky
+8,9.0,kentucky
+9,9.4,kentucky
+10,4.2,kentucky
+11,2.1,kentucky
+12,2.4,kentucky
+13,5.1,kentucky
+14,2.5,kentucky
+15,2.4,kentucky
+16,5.0,kentucky
+17,8.8,kentucky
+18,2.9,kentucky
+19,9.2,kentucky
+20,14.1,kentucky
+21,4.3,kentucky
+22,4.5,kentucky
+23,4.4,kentucky
+24,2.3,kentucky
+25,5.3,kentucky
+26,4.7,kentucky
+27,4.2,kentucky
+28,6.6,kentucky
+29,4.0,kentucky
+30,22.5,kentucky
+31,11.0,kentucky
+32,11.7,kentucky
+33,7.5,kentucky
+34,4.8,kentucky
+35,12.8,kentucky
+36,6.5,kentucky
+37,17.0,kentucky
+38,16.2,kentucky
+39,7.7,kentucky
+40,10.5,kentucky
+41,5.7,kentucky
+42,4.3,kentucky
+43,3.9,kentucky
+44,5.6,kentucky
+45,13.8,kentucky
+46,16.9,kentucky
+47,3.8,kentucky
+48,10.4,kentucky
+49,1.7,kentucky
+50,1.9,kentucky
+51,2.5,kentucky
+52,3.3,kentucky
+53,2.5,kentucky
+54,4.0,kentucky
+55,6.3,kentucky
+56,12.7,kentucky
+57,6.4,kentucky
+58,9.2,kentucky
+59,3.9,kentucky
+60,7.2,kentucky
+61,2.0,kentucky
+62,4.7,kentucky
+63,4.4,kentucky
+64,3.5,kentucky
+65,7.4,kentucky
+66,6.2,kentucky
+67,5.2,kentucky
+68,2.8,kentucky
+69,9.3,kentucky
+70,3.7,kentucky
+71,2.4,kentucky
+72,6.2,kentucky
+73,3.0,kentucky
+74,2.3,kentucky
+75,10.6,kentucky
+76,11.6,kentucky
+77,17.8,kentucky
+78,2.4,kentucky
+79,12.0,kentucky
+80,3.7,kentucky
+81,4.1,kentucky
+82,1.5,kentucky
+83,3.7,kentucky
+84,2.8,kentucky
+85,1.5,kentucky
+86,1.4,kentucky
+87,0.5,kentucky
+88,11.0,kentucky
+89,3.1,kentucky
+90,1.1,kentucky
+91,0.9,kentucky
+92,1.2,kentucky
+93,1.4,kentucky
+94,1.3,kentucky
+95,0.7,kentucky
+96,1.3,kentucky
+97,2.0,kentucky
+98,1.0,kentucky
+99,2.9,kentucky
+100,2.0,kentucky
+1,9.3,maine
+2,4.2,maine
+3,2.4,maine
+4,4.4,maine
+5,2.0,maine
+6,6.4,maine
+7,5.7,maine
+8,2.8,maine
+9,7.9,maine
+10,8.8,maine
+11,14.9,maine
+12,17.0,maine
+13,13.5,maine
+14,8.7,maine
+15,10.8,maine
+16,2.9,maine
+17,6.5,maine
+18,7.9,maine
+19,5.2,maine
+20,2.2,maine
+21,3.5,maine
+22,3.5,maine
+23,2.6,maine
+24,5.6,maine
+25,4.8,maine
+26,3.5,maine
+27,5.8,maine
+28,4.9,maine
+29,6.1,maine
+30,5.1,maine
+31,5.6,maine
+32,3.3,maine
+33,22.9,maine
+34,5.3,maine
+35,13.0,maine
+36,19.4,maine
+37,11.4,maine
+38,17.4,maine
+39,9.3,maine
+40,15.2,maine
+41,6.4,maine
+42,9.9,maine
+43,4.0,maine
+44,7.7,maine
+45,6.9,maine
+46,1.4,maine
+47,2.4,maine
+48,4.7,maine
+49,6.6,maine
+50,7.6,maine
+51,3.6,maine
+52,5.5,maine
+53,2.4,maine
+54,4.8,maine
+55,2.4,maine
+56,4.4,maine
+57,5.0,maine
+58,13.2,maine
+59,21.1,maine
+60,14.8,maine
+61,23.8,maine
+62,8.3,maine
+63,6.5,maine
+64,7.0,maine
+65,4.0,maine
+66,1.2,maine
+67,3.8,maine
+68,2.3,maine
+69,2.9,maine
+70,1.8,maine
+71,2.7,maine
+72,2.9,maine
+73,2.9,maine
+74,3.4,maine
+75,4.9,maine
+76,4.9,maine
+77,3.9,maine
+78,4.1,maine
+79,1.6,maine
+80,2.1,maine
+81,4.0,maine
+82,4.8,maine
+83,1.1,maine
+84,5.7,maine
+85,6.5,maine
+86,7.3,maine
+87,2.0,maine
+88,3.2,maine
+89,3.1,maine
+90,3.4,maine
+91,1.1,maine
+92,4.2,maine
+93,3.5,maine
+94,6.9,maine
+95,4.5,maine
+96,3.0,maine
+97,3.3,maine
+98,1.4,maine
+99,10.3,maine
+100,1.5,maine
+101,4.9,maine
+102,4.0,maine
+103,5.4,maine
+104,1.8,maine
+105,2.9,maine
+106,3.6,maine
+107,6.3,maine
+108,1.5,maine
+109,6.7,maine
+110,8.2,maine
+111,1.1,maine
+112,4.0,maine
+113,1.9,maine
+114,1.4,maine
+115,2.1,maine
+116,2.9,maine
+117,2.6,maine
+118,3.6,maine
+119,2.8,maine
+120,3.9,maine
+121,2.5,maine
+122,2.2,maine
+123,12.1,maine
+124,3.4,maine
+125,10.9,maine
+126,5.3,maine
+127,2.9,maine
+128,5.9,maine
+129,2.3,maine
+130,2.4,maine
+131,2.2,maine
+132,3.2,maine
+133,2.1,maine
+134,2.5,maine
+135,5.7,maine
+136,3.6,maine
+137,3.4,maine
+138,5.0,maine
+139,4.1,maine
+140,9.5,maine
+141,2.5,maine
+142,2.0,maine
+143,1.9,maine
+144,2.7,maine
+145,3.5,maine
+146,2.8,maine
+147,7.0,maine
+148,7.8,maine
+149,8.0,maine
+150,51.7,maine
+151,31.0,maine
+1st barnstable,9.4,massachusetts
+2nd barnstable,19.1,massachusetts
+3rd barnstable,6.3,massachusetts
+4th barnstable,6.4,massachusetts
+"barnstable, dukes & nantucket",13.1,massachusetts
+1st berkshire,7.5,massachusetts
+2nd berkshire,5.5,massachusetts
+3rd berkshire,8.7,massachusetts
+4th berkshire,7.1,massachusetts
+1st bristol,11.8,massachusetts
+2nd bristol,14.2,massachusetts
+3rd bristol,20.3,massachusetts
+4th bristol,10.7,massachusetts
+5th bristol,12.7,massachusetts
+6th bristol,34.0,massachusetts
+7th bristol,41.7,massachusetts
+8th bristol,20.8,massachusetts
+9th bristol,23.0,massachusetts
+10th bristol,14.0,massachusetts
+11th bristol,35.2,massachusetts
+12th bristol,7.0,massachusetts
+13th bristol,36.1,massachusetts
+14th bristol,10.6,massachusetts
+1st essex,6.0,massachusetts
+2nd essex,4.2,massachusetts
+3rd essex,28.3,massachusetts
+4th essex,6.7,massachusetts
+5th essex,7.3,massachusetts
+6th essex,11.2,massachusetts
+7th essex,21.5,massachusetts
+8th essex,20.2,massachusetts
+9th essex,15.0,massachusetts
+10th essex,56.0,massachusetts
+11th essex,49.7,massachusetts
+12th essex,26.4,massachusetts
+13th essex,11.9,massachusetts
+14th essex,31.6,massachusetts
+15th essex,29.9,massachusetts
+16th essex,80.6,massachusetts
+17th essex,64.4,massachusetts
+1st franklin,6.9,massachusetts
+2nd franklin,4.9,massachusetts
+1st hampden,6.9,massachusetts
+2nd hampden,8.1,massachusetts
+3rd hampden,9.8,massachusetts
+4th hampden,15.5,massachusetts
+5th hampden,45.9,massachusetts
+6th hampden,27.7,massachusetts
+7th hampden,19.4,massachusetts
+8th hampden,21.2,massachusetts
+9th hampden,33.1,massachusetts
+10th hampden,56.1,massachusetts
+11th hampden,37.1,massachusetts
+12th hampden,18.4,massachusetts
+18th essex,15.3,massachusetts
+1st hampshire,12.4,massachusetts
+2nd hampshire,9.2,massachusetts
+3rd hampshire,21.4,massachusetts
+1st middlesex,7.3,massachusetts
+2nd middlesex,15.9,massachusetts
+3rd middlesex,17.1,massachusetts
+4th middlesex,29.5,massachusetts
+5th middlesex,20.2,massachusetts
+6th middlesex,30.4,massachusetts
+7th middlesex,43.5,massachusetts
+8th middlesex,16.8,massachusetts
+9th middlesex,25.4,massachusetts
+10th middlesex,37.5,massachusetts
+11th middlesex,23.1,massachusetts
+12th middlesex,26.2,massachusetts
+13th middlesex,19.8,massachusetts
+14th middlesex,21.8,massachusetts
+15th middlesex,33.3,massachusetts
+16th middlesex,29.6,massachusetts
+17th middlesex,34.3,massachusetts
+18th middlesex,45.0,massachusetts
+19th middlesex,9.3,massachusetts
+20th middlesex,9.2,massachusetts
+21st middlesex,22.4,massachusetts
+22nd middlesex,17.4,massachusetts
+23rd middlesex,22.3,massachusetts
+24th middlesex,30.6,massachusetts
+25th middlesex,31.8,massachusetts
+26th middlesex,37.5,massachusetts
+27th middlesex,22.1,massachusetts
+28th middlesex,59.9,massachusetts
+29th middlesex,28.6,massachusetts
+30th middlesex,20.3,massachusetts
+31st middlesex,19.7,massachusetts
+32nd middlesex,15.6,massachusetts
+33rd middlesex,49.7,massachusetts
+34th middlesex,31.7,massachusetts
+35th middlesex,38.8,massachusetts
+36th middlesex,14.4,massachusetts
+37th middlesex,18.4,massachusetts
+18th worcester,10.0,massachusetts
+5th barnstable,7.4,massachusetts
+1st norfolk,42.9,massachusetts
+2nd norfolk,35.0,massachusetts
+3rd norfolk,23.0,massachusetts
+4th norfolk,14.4,massachusetts
+5th norfolk,24.5,massachusetts
+6th norfolk,21.3,massachusetts
+7th norfolk,29.7,massachusetts
+8th norfolk,24.4,massachusetts
+9th norfolk,9.5,massachusetts
+10th norfolk,9.8,massachusetts
+11th norfolk,17.3,massachusetts
+12th norfolk,19.1,massachusetts
+13th norfolk,15.6,massachusetts
+14th norfolk,20.5,massachusetts
+15th norfolk,33.0,massachusetts
+1st plymouth,4.6,massachusetts
+2nd plymouth,5.9,massachusetts
+3rd plymouth,3.6,massachusetts
+4th plymouth,3.8,massachusetts
+5th plymouth,7.0,massachusetts
+6th plymouth,5.1,massachusetts
+7th plymouth,8.3,massachusetts
+8th plymouth,7.0,massachusetts
+9th plymouth,56.4,massachusetts
+10th plymouth,31.2,massachusetts
+11th plymouth,27.9,massachusetts
+12th plymouth,5.6,massachusetts
+1st suffolk,64.4,massachusetts
+2nd suffolk,50.5,massachusetts
+3rd suffolk,31.4,massachusetts
+4th suffolk,22.2,massachusetts
+5th suffolk,52.1,massachusetts
+6th suffolk,41.7,massachusetts
+7th suffolk,36.3,massachusetts
+8th suffolk,30.3,massachusetts
+9th suffolk,42.5,massachusetts
+10th suffolk,26.0,massachusetts
+11th suffolk,36.1,massachusetts
+12th suffolk,32.7,massachusetts
+13th suffolk,33.9,massachusetts
+14th suffolk,40.9,massachusetts
+15th suffolk,35.4,massachusetts
+16th suffolk,49.4,massachusetts
+17th suffolk,38.9,massachusetts
+18th suffolk,34.0,massachusetts
+19th suffolk,43.0,massachusetts
+1st worcester,8.9,massachusetts
+2nd worcester,10.9,massachusetts
+3rd worcester,27.5,massachusetts
+4th worcester,26.6,massachusetts
+5th worcester,4.9,massachusetts
+6th worcester,17.3,massachusetts
+7th worcester,9.4,massachusetts
+8th worcester,7.9,massachusetts
+9th worcester,13.8,massachusetts
+10th worcester,22.9,massachusetts
+11th worcester,29.3,massachusetts
+12th worcester,15.2,massachusetts
+13th worcester,22.5,massachusetts
+14th worcester,30.7,massachusetts
+15th worcester,45.3,massachusetts
+16th worcester,37.1,massachusetts
+17th worcester,30.5,massachusetts
+1,3.6,michigan
+2,4.0,michigan
+3,2.8,michigan
+4,34.7,michigan
+5,37.2,michigan
+6,17.4,michigan
+7,2.2,michigan
+8,3.1,michigan
+9,17.9,michigan
+10,4.2,michigan
+11,18.9,michigan
+12,7.0,michigan
+13,16.0,michigan
+14,14.4,michigan
+15,50.0,michigan
+16,11.5,michigan
+17,3.3,michigan
+18,4.2,michigan
+19,10.9,michigan
+20,16.1,michigan
+21,17.8,michigan
+22,8.7,michigan
+23,7.1,michigan
+24,12.6,michigan
+25,22.4,michigan
+26,10.4,michigan
+27,7.6,michigan
+28,20.7,michigan
+29,20.9,michigan
+30,37.5,michigan
+31,6.1,michigan
+32,4.0,michigan
+33,12.4,michigan
+34,3.0,michigan
+35,9.0,michigan
+36,15.3,michigan
+37,23.3,michigan
+38,21.5,michigan
+39,19.2,michigan
+40,18.6,michigan
+41,29.7,michigan
+42,3.6,michigan
+43,8.1,michigan
+44,4.8,michigan
+45,20.7,michigan
+46,8.3,michigan
+47,2.8,michigan
+48,3.1,michigan
+49,4.7,michigan
+50,5.4,michigan
+51,2.9,michigan
+52,6.5,michigan
+53,20.1,michigan
+54,11.5,michigan
+55,21.5,michigan
+56,3.1,michigan
+57,4.9,michigan
+58,6.1,michigan
+59,8.6,michigan
+60,8.9,michigan
+61,8.4,michigan
+62,8.2,michigan
+63,4.0,michigan
+64,2.9,michigan
+65,3.4,michigan
+66,8.1,michigan
+67,7.3,michigan
+68,13.2,michigan
+69,18.0,michigan
+70,3.6,michigan
+71,7.3,michigan
+72,16.4,michigan
+73,4.4,michigan
+74,5.6,michigan
+75,22.8,michigan
+76,11.1,michigan
+77,16.8,michigan
+78,7.5,michigan
+79,6.2,michigan
+80,7.3,michigan
+81,2.5,michigan
+82,4.4,michigan
+83,4.3,michigan
+84,2.7,michigan
+85,1.9,michigan
+86,4.9,michigan
+87,2.9,michigan
+88,3.4,michigan
+89,5.4,michigan
+90,15.8,michigan
+91,2.8,michigan
+92,4.5,michigan
+93,3.7,michigan
+94,5.2,michigan
+95,3.9,michigan
+96,2.2,michigan
+97,4.0,michigan
+98,4.1,michigan
+99,4.4,michigan
+100,7.2,michigan
+101,3.9,michigan
+102,3.3,michigan
+103,2.0,michigan
+104,3.4,michigan
+105,2.7,michigan
+106,3.4,michigan
+107,3.5,michigan
+108,1.9,michigan
+109,2.8,michigan
+110,4.2,michigan
+1a,4.3,minnesota
+1b,5.6,minnesota
+2a,3.6,minnesota
+2b,4.3,minnesota
+3a,3.7,minnesota
+3b,2.3,minnesota
+4a,8.8,minnesota
+4b,3.7,minnesota
+5a,4.7,minnesota
+5b,2.2,minnesota
+6a,2.5,minnesota
+6b,2.5,minnesota
+7a,5.1,minnesota
+7b,4.7,minnesota
+8a,4.8,minnesota
+8b,3.0,minnesota
+9a,4.8,minnesota
+9b,6.1,minnesota
+10a,2.0,minnesota
+10b,2.2,minnesota
+11a,3.9,minnesota
+11b,3.8,minnesota
+12a,4.2,minnesota
+12b,4.9,minnesota
+13a,4.7,minnesota
+13b,5.5,minnesota
+14a,18.7,minnesota
+14b,11.9,minnesota
+15a,2.6,minnesota
+15b,2.1,minnesota
+16a,8.0,minnesota
+16b,3.8,minnesota
+17a,7.2,minnesota
+17b,13.3,minnesota
+18a,3.4,minnesota
+18b,7.8,minnesota
+19a,5.8,minnesota
+19b,9.6,minnesota
+20a,5.4,minnesota
+20b,7.9,minnesota
+21a,4.3,minnesota
+21b,4.3,minnesota
+22a,4.9,minnesota
+22b,21.6,minnesota
+23a,5.6,minnesota
+23b,6.7,minnesota
+24a,6.8,minnesota
+24b,15.6,minnesota
+25a,7.1,minnesota
+25b,15.8,minnesota
+26a,24.4,minnesota
+26b,7.3,minnesota
+27a,8.5,minnesota
+27b,17.1,minnesota
+28a,5.4,minnesota
+28b,4.4,minnesota
+29a,3.8,minnesota
+29b,4.8,minnesota
+30a,4.9,minnesota
+30b,3.7,minnesota
+31a,3.6,minnesota
+31b,5.0,minnesota
+32a,3.2,minnesota
+32b,3.1,minnesota
+33a,6.1,minnesota
+33b,7.6,minnesota
+34a,8.2,minnesota
+34b,11.6,minnesota
+35a,7.4,minnesota
+35b,6.7,minnesota
+36a,9.4,minnesota
+36b,17.6,minnesota
+37a,12.2,minnesota
+37b,18.5,minnesota
+38a,5.7,minnesota
+38b,5.5,minnesota
+39a,6.2,minnesota
+39b,4.6,minnesota
+40a,31.5,minnesota
+40b,31.6,minnesota
+41a,21.8,minnesota
+41b,22.0,minnesota
+42a,12.3,minnesota
+42b,13.9,minnesota
+43a,17.1,minnesota
+43b,17.0,minnesota
+44a,18.6,minnesota
+44b,12.3,minnesota
+45a,17.0,minnesota
+45b,13.0,minnesota
+46a,12.7,minnesota
+46b,16.7,minnesota
+47a,5.4,minnesota
+47b,8.9,minnesota
+48a,13.2,minnesota
+48b,26.0,minnesota
+49a,10.2,minnesota
+49b,14.2,minnesota
+50a,25.3,minnesota
+50b,17.9,minnesota
+51a,23.3,minnesota
+51b,13.6,minnesota
+52a,12.2,minnesota
+52b,14.4,minnesota
+53a,16.1,minnesota
+53b,15.9,minnesota
+54a,11.2,minnesota
+54b,5.1,minnesota
+55a,21.6,minnesota
+55b,7.3,minnesota
+56a,17.8,minnesota
+56b,15.3,minnesota
+57a,16.7,minnesota
+57b,9.5,minnesota
+58a,9.1,minnesota
+58b,5.5,minnesota
+59a,26.0,minnesota
+59b,23.6,minnesota
+60a,18.2,minnesota
+60b,27.1,minnesota
+61a,9.7,minnesota
+61b,10.1,minnesota
+62a,43.1,minnesota
+62b,26.8,minnesota
+63a,15.5,minnesota
+63b,17.0,minnesota
+64a,10.6,minnesota
+64b,14.8,minnesota
+65a,33.1,minnesota
+65b,28.0,minnesota
+66a,16.7,minnesota
+66b,38.2,minnesota
+67a,43.8,minnesota
+67b,40.3,minnesota
+1,2.3,missouri
+2,4.7,missouri
+3,7.1,missouri
+4,5.5,missouri
+5,1.4,missouri
+6,2.3,missouri
+7,4.0,missouri
+8,2.1,missouri
+9,5.7,missouri
+10,7.4,missouri
+11,3.1,missouri
+12,2.4,missouri
+13,6.2,missouri
+14,12.5,missouri
+15,8.2,missouri
+16,8.1,missouri
+17,7.2,missouri
+18,11.7,missouri
+19,38.6,missouri
+20,4.4,missouri
+21,6.8,missouri
+22,10.2,missouri
+23,20.8,missouri
+24,11.5,missouri
+25,6.9,missouri
+26,6.8,missouri
+27,9.4,missouri
+28,7.2,missouri
+29,9.1,missouri
+30,3.9,missouri
+31,4.9,missouri
+32,3.6,missouri
+33,3.8,missouri
+34,7.3,missouri
+35,7.9,missouri
+36,8.1,missouri
+37,7.6,missouri
+38,3.5,missouri
+39,2.7,missouri
+40,2.8,missouri
+41,1.6,missouri
+42,2.0,missouri
+43,3.5,missouri
+44,4.1,missouri
+45,7.4,missouri
+46,10.5,missouri
+47,7.0,missouri
+48,4.1,missouri
+49,1.9,missouri
+50,8.9,missouri
+51,8.2,missouri
+52,11.3,missouri
+53,2.4,missouri
+54,3.7,missouri
+55,2.8,missouri
+56,5.6,missouri
+57,3.7,missouri
+58,8.5,missouri
+59,2.1,missouri
+60,5.4,missouri
+61,2.9,missouri
+62,2.7,missouri
+63,4.4,missouri
+64,2.6,missouri
+65,5.5,missouri
+66,1.9,missouri
+67,3.0,missouri
+68,6.2,missouri
+69,6.8,missouri
+70,13.6,missouri
+71,17.2,missouri
+72,17.8,missouri
+73,7.6,missouri
+74,2.8,missouri
+75,2.5,missouri
+76,1.3,missouri
+77,9.8,missouri
+78,7.5,missouri
+79,8.4,missouri
+80,16.6,missouri
+81,13.8,missouri
+82,10.8,missouri
+83,7.3,missouri
+84,8.9,missouri
+85,5.5,missouri
+86,7.4,missouri
+87,12.7,missouri
+88,19.2,missouri
+89,12.2,missouri
+90,4.9,missouri
+91,5.4,missouri
+92,11.8,missouri
+93,16.4,missouri
+94,15.1,missouri
+95,5.3,missouri
+96,4.7,missouri
+97,4.3,missouri
+98,8.4,missouri
+99,12.4,missouri
+100,12.5,missouri
+101,14.7,missouri
+102,5.9,missouri
+103,4.3,missouri
+104,5.9,missouri
+105,4.9,missouri
+106,9.3,missouri
+107,5.3,missouri
+108,5.6,missouri
+109,1.4,missouri
+110,4.9,missouri
+111,2.4,missouri
+112,3.7,missouri
+113,5.7,missouri
+114,0.7,missouri
+115,1.9,missouri
+116,1.9,missouri
+117,1.6,missouri
+118,1.5,missouri
+119,1.7,missouri
+120,2.7,missouri
+121,6.8,missouri
+122,13.7,missouri
+123,2.8,missouri
+124,3.8,missouri
+125,2.0,missouri
+126,3.1,missouri
+127,3.0,missouri
+128,3.6,missouri
+129,3.2,missouri
+130,3.0,missouri
+131,4.8,missouri
+132,6.9,missouri
+133,5.6,missouri
+134,5.4,missouri
+135,5.2,missouri
+136,4.1,missouri
+137,2.9,missouri
+138,1.8,missouri
+139,4.2,missouri
+140,3.3,missouri
+141,9.2,missouri
+142,4.3,missouri
+143,1.8,missouri
+144,1.7,missouri
+145,2.8,missouri
+146,1.5,missouri
+147,5.7,missouri
+148,3.0,missouri
+149,3.3,missouri
+150,7.4,missouri
+151,1.0,missouri
+152,2.4,missouri
+153,1.2,missouri
+154,2.7,missouri
+155,2.0,missouri
+156,7.1,missouri
+157,6.9,missouri
+158,9.3,missouri
+159,10.0,missouri
+160,4.9,missouri
+161,5.9,missouri
+162,5.3,missouri
+163,12.5,missouri
+1,2.9,montana
+2,4.9,montana
+3,1.7,montana
+4,2.9,montana
+5,2.7,montana
+6,1.2,montana
+7,3.3,montana
+8,5.0,montana
+9,2.3,montana
+10,4.2,montana
+11,2.4,montana
+12,5.5,montana
+13,1.5,montana
+14,2.2,montana
+15,6.3,montana
+16,3.4,montana
+17,4.5,montana
+18,4.9,montana
+19,6.3,montana
+20,1.8,montana
+21,1.6,montana
+22,2.1,montana
+23,2.3,montana
+24,3.8,montana
+25,4.5,montana
+26,5.7,montana
+27,6.4,montana
+28,2.0,montana
+29,3.4,montana
+30,4.4,montana
+31,4.0,montana
+32,6.2,montana
+33,2.0,montana
+34,1.7,montana
+35,4.4,montana
+36,1.7,montana
+37,2.5,montana
+38,4.9,montana
+39,2.2,montana
+40,2.3,montana
+41,17.9,montana
+42,25.8,montana
+43,1.9,montana
+44,2.0,montana
+45,2.2,montana
+46,4.6,montana
+47,5.8,montana
+48,3.3,montana
+49,5.9,montana
+50,6.6,montana
+51,5.1,montana
+52,3.0,montana
+53,3.1,montana
+54,4.1,montana
+55,4.1,montana
+56,1.6,montana
+57,1.9,montana
+58,3.1,montana
+59,1.9,montana
+60,1.9,montana
+61,6.1,montana
+62,4.3,montana
+63,6.6,montana
+64,3.3,montana
+65,4.7,montana
+66,3.9,montana
+67,1.2,montana
+68,3.3,montana
+69,1.9,montana
+70,4.8,montana
+71,2.9,montana
+72,4.0,montana
+73,1.5,montana
+74,5.1,montana
+75,1.6,montana
+76,0.9,montana
+77,3.3,montana
+78,3.7,montana
+79,2.3,montana
+80,3.1,montana
+81,4.4,montana
+82,2.2,montana
+83,3.1,montana
+84,3.6,montana
+85,3.2,montana
+86,4.2,montana
+87,1.9,montana
+88,3.8,montana
+89,5.7,montana
+90,5.7,montana
+91,7.0,montana
+92,4.0,montana
+93,7.1,montana
+94,3.2,montana
+95,6.2,montana
+96,2.8,montana
+97,5.1,montana
+98,6.1,montana
+99,2.0,montana
+100,7.9,montana
+1,27.0,nevada
+2,22.3,nevada
+3,44.7,nevada
+4,14.4,nevada
+5,33.2,nevada
+6,53.6,nevada
+7,43.7,nevada
+8,41.4,nevada
+9,29.6,nevada
+10,47.3,nevada
+11,63.5,nevada
+12,37.3,nevada
+13,14.6,nevada
+14,56.7,nevada
+15,50.5,nevada
+16,43.4,nevada
+17,30.9,nevada
+18,43.8,nevada
+19,21.5,nevada
+20,34.9,nevada
+21,26.4,nevada
+22,18.6,nevada
+23,12.1,nevada
+24,31.9,nevada
+25,16.2,nevada
+26,18.1,nevada
+27,26.0,nevada
+28,59.8,nevada
+29,20.0,nevada
+30,35.9,nevada
+31,20.9,nevada
+32,15.5,nevada
+33,16.2,nevada
+34,33.1,nevada
+35,29.4,nevada
+36,15.1,nevada
+37,20.6,nevada
+38,13.0,nevada
+39,12.2,nevada
+40,19.9,nevada
+41,28.1,nevada
+42,49.1,nevada
+1,16.8,new mexico
+2,24.6,new mexico
+3,23.3,new mexico
+4,42.9,new mexico
+5,48.0,new mexico
+6,60.9,new mexico
+7,33.7,new mexico
+8,23.1,new mexico
+9,50.8,new mexico
+10,46.1,new mexico
+11,27.7,new mexico
+12,59.5,new mexico
+13,44.5,new mexico
+14,58.4,new mexico
+15,30.6,new mexico
+16,29.4,new mexico
+17,23.7,new mexico
+18,26.8,new mexico
+19,29.8,new mexico
+20,22.1,new mexico
+21,41.0,new mexico
+22,14.3,new mexico
+23,18.2,new mexico
+24,18.3,new mexico
+25,21.9,new mexico
+26,39.0,new mexico
+27,16.4,new mexico
+28,15.4,new mexico
+29,13.5,new mexico
+30,22.8,new mexico
+31,16.5,new mexico
+32,48.5,new mexico
+33,39.0,new mexico
+34,76.8,new mexico
+35,43.4,new mexico
+36,44.7,new mexico
+37,31.3,new mexico
+38,21.6,new mexico
+39,35.4,new mexico
+40,56.0,new mexico
+41,54.2,new mexico
+42,42.4,new mexico
+43,28.8,new mexico
+44,16.2,new mexico
+45,36.9,new mexico
+46,37.4,new mexico
+47,21.2,new mexico
+48,43.8,new mexico
+49,30.8,new mexico
+50,18.4,new mexico
+51,19.8,new mexico
+52,68.1,new mexico
+53,55.3,new mexico
+54,24.5,new mexico
+55,19.8,new mexico
+56,19.7,new mexico
+57,19.0,new mexico
+58,46.1,new mexico
+59,21.4,new mexico
+60,17.5,new mexico
+61,48.5,new mexico
+62,29.8,new mexico
+63,43.3,new mexico
+64,20.4,new mexico
+65,63.9,new mexico
+66,28.7,new mexico
+67,20.4,new mexico
+68,15.2,new mexico
+69,50.4,new mexico
+70,48.5,new mexico
+1,20.6,new york
+2,13.0,new york
+3,19.1,new york
+4,21.0,new york
+5,17.7,new york
+6,61.4,new york
+7,14.1,new york
+8,12.4,new york
+9,12.5,new york
+10,24.9,new york
+11,29.5,new york
+12,16.6,new york
+13,34.9,new york
+14,13.6,new york
+15,31.4,new york
+16,35.2,new york
+17,20.5,new york
+18,45.0,new york
+19,30.6,new york
+20,23.0,new york
+21,23.8,new york
+22,36.9,new york
+23,36.1,new york
+24,54.1,new york
+25,71.3,new york
+26,50.9,new york
+27,58.4,new york
+28,55.0,new york
+29,29.1,new york
+30,60.9,new york
+31,30.0,new york
+32,29.5,new york
+33,35.2,new york
+34,81.3,new york
+35,79.4,new york
+36,49.0,new york
+37,56.8,new york
+38,63.3,new york
+39,88.2,new york
+40,81.1,new york
+41,48.9,new york
+42,38.4,new york
+43,25.9,new york
+44,46.8,new york
+45,64.2,new york
+46,56.2,new york
+47,72.6,new york
+48,68.0,new york
+49,78.0,new york
+50,51.3,new york
+51,66.7,new york
+52,21.5,new york
+53,55.5,new york
+54,56.3,new york
+55,25.3,new york
+56,22.9,new york
+57,26.3,new york
+58,20.1,new york
+59,30.8,new york
+60,28.1,new york
+61,36.6,new york
+62,21.6,new york
+63,37.3,new york
+64,41.2,new york
+65,48.9,new york
+66,19.1,new york
+67,27.9,new york
+68,48.8,new york
+69,34.9,new york
+70,39.4,new york
+71,53.3,new york
+72,73.7,new york
+73,25.9,new york
+74,32.5,new york
+75,29.2,new york
+76,29.2,new york
+77,69.1,new york
+78,74.7,new york
+79,58.8,new york
+80,60.7,new york
+81,47.3,new york
+82,44.2,new york
+83,30.1,new york
+84,67.5,new york
+85,61.0,new york
+86,73.0,new york
+87,60.5,new york
+88,28.9,new york
+89,39.0,new york
+90,44.8,new york
+91,41.8,new york
+92,28.3,new york
+93,27.4,new york
+94,19.8,new york
+95,29.5,new york
+96,35.7,new york
+97,44.4,new york
+98,39.4,new york
+99,19.5,new york
+100,20.4,new york
+101,9.2,new york
+102,6.5,new york
+103,10.4,new york
+104,23.2,new york
+105,15.5,new york
+106,12.8,new york
+107,5.8,new york
+108,12.7,new york
+109,13.9,new york
+110,13.7,new york
+111,10.1,new york
+112,7.7,new york
+113,5.2,new york
+114,5.2,new york
+115,6.5,new york
+116,7.2,new york
+117,7.3,new york
+118,4.0,new york
+119,18.9,new york
+120,3.4,new york
+121,5.0,new york
+122,4.0,new york
+123,11.8,new york
+124,3.9,new york
+125,13.0,new york
+126,4.7,new york
+127,6.6,new york
+128,13.2,new york
+129,16.4,new york
+130,4.8,new york
+131,5.9,new york
+132,7.0,new york
+133,7.3,new york
+134,9.3,new york
+135,8.8,new york
+136,16.3,new york
+137,22.0,new york
+138,16.3,new york
+139,5.4,new york
+140,10.0,new york
+141,14.3,new york
+142,6.6,new york
+143,7.6,new york
+144,4.8,new york
+145,6.0,new york
+146,15.5,new york
+147,3.5,new york
+148,4.7,new york
+149,17.2,new york
+150,8.0,new york
+1,3.4,north carolina
+2,6.4,north carolina
+3,9.3,north carolina
+4,16.8,north carolina
+5,4.7,north carolina
+6,6.9,north carolina
+7,9.2,north carolina
+8,6.0,north carolina
+9,8.1,north carolina
+10,13.5,north carolina
+11,22.7,north carolina
+12,7.1,north carolina
+13,5.1,north carolina
+14,9.9,north carolina
+15,12.3,north carolina
+16,6.7,north carolina
+17,3.2,north carolina
+18,7.5,north carolina
+19,6.1,north carolina
+20,6.4,north carolina
+21,15.2,north carolina
+22,14.1,north carolina
+23,5.0,north carolina
+24,10.7,north carolina
+25,4.1,north carolina
+26,11.0,north carolina
+27,3.1,north carolina
+28,16.0,north carolina
+29,19.2,north carolina
+30,13.4,north carolina
+31,23.3,north carolina
+32,6.7,north carolina
+33,15.4,north carolina
+34,12.1,north carolina
+35,10.0,north carolina
+36,13.2,north carolina
+37,11.7,north carolina
+38,24.6,north carolina
+39,22.2,north carolina
+40,8.2,north carolina
+41,29.4,north carolina
+42,14.5,north carolina
+43,11.4,north carolina
+44,12.4,north carolina
+45,8.0,north carolina
+46,10.7,north carolina
+47,4.9,north carolina
+48,8.5,north carolina
+49,17.2,north carolina
+50,11.3,north carolina
+51,15.6,north carolina
+52,7.1,north carolina
+53,9.6,north carolina
+54,13.8,north carolina
+55,6.7,north carolina
+56,17.8,north carolina
+57,14.4,north carolina
+58,21.4,north carolina
+59,7.2,north carolina
+60,18.5,north carolina
+61,9.7,north carolina
+62,12.8,north carolina
+63,13.1,north carolina
+64,12.0,north carolina
+65,6.0,north carolina
+66,10.2,north carolina
+67,7.6,north carolina
+68,16.0,north carolina
+69,17.7,north carolina
+70,15.4,north carolina
+71,22.0,north carolina
+72,15.7,north carolina
+73,10.6,north carolina
+74,8.0,north carolina
+75,15.5,north carolina
+76,7.8,north carolina
+77,8.0,north carolina
+78,8.2,north carolina
+79,6.5,north carolina
+80,8.7,north carolina
+81,7.0,north carolina
+82,12.7,north carolina
+83,14.6,north carolina
+84,8.7,north carolina
+85,6.6,north carolina
+86,10.3,north carolina
+87,5.3,north carolina
+88,23.6,north carolina
+89,9.9,north carolina
+90,7.4,north carolina
+91,6.7,north carolina
+92,28.3,north carolina
+93,5.5,north carolina
+94,7.0,north carolina
+95,9.6,north carolina
+96,16.5,north carolina
+97,7.2,north carolina
+98,8.6,north carolina
+99,22.7,north carolina
+100,31.7,north carolina
+101,13.9,north carolina
+102,24.3,north carolina
+103,15.4,north carolina
+104,8.7,north carolina
+105,22.7,north carolina
+106,22.0,north carolina
+107,18.1,north carolina
+108,9.2,north carolina
+109,9.7,north carolina
+110,4.4,north carolina
+111,4.4,north carolina
+112,5.3,north carolina
+113,6.2,north carolina
+114,8.8,north carolina
+115,5.6,north carolina
+116,9.7,north carolina
+117,10.8,north carolina
+118,3.4,north carolina
+119,5.2,north carolina
+120,5.1,north carolina
+1,11.5,ohio
+2,4.1,ohio
+3,4.3,ohio
+4,3.1,ohio
+5,2.7,ohio
+6,11.8,ohio
+7,10.2,ohio
+8,8.5,ohio
+9,8.4,ohio
+10,15.9,ohio
+11,7.4,ohio
+12,8.4,ohio
+13,18.8,ohio
+14,15.7,ohio
+15,17.3,ohio
+16,11.3,ohio
+17,12.1,ohio
+18,9.0,ohio
+19,10.9,ohio
+20,14.9,ohio
+21,18.6,ohio
+22,23.6,ohio
+23,13.2,ohio
+24,10.0,ohio
+25,16.3,ohio
+26,8.8,ohio
+27,6.8,ohio
+28,11.5,ohio
+29,4.7,ohio
+30,5.1,ohio
+31,8.9,ohio
+32,8.7,ohio
+33,6.5,ohio
+34,10.8,ohio
+35,4.9,ohio
+36,5.9,ohio
+37,7.3,ohio
+38,4.7,ohio
+39,5.7,ohio
+40,6.8,ohio
+41,6.3,ohio
+42,6.7,ohio
+43,2.8,ohio
+44,6.7,ohio
+45,5.6,ohio
+46,6.2,ohio
+47,6.7,ohio
+48,4.2,ohio
+49,3.3,ohio
+50,1.9,ohio
+51,9.2,ohio
+52,12.0,ohio
+53,4.6,ohio
+54,13.0,ohio
+55,5.5,ohio
+56,10.3,ohio
+57,4.1,ohio
+58,8.2,ohio
+59,4.4,ohio
+60,8.5,ohio
+61,6.9,ohio
+62,3.7,ohio
+63,3.0,ohio
+64,7.6,ohio
+65,3.7,ohio
+66,1.6,ohio
+67,10.2,ohio
+68,6.9,ohio
+69,3.9,ohio
+70,7.7,ohio
+71,4.9,ohio
+72,4.3,ohio
+73,7.6,ohio
+74,3.1,ohio
+75,4.4,ohio
+76,10.4,ohio
+77,5.4,ohio
+78,1.3,ohio
+79,3.6,ohio
+80,2.9,ohio
+81,3.5,ohio
+82,3.4,ohio
+83,5.1,ohio
+84,1.6,ohio
+85,2.2,ohio
+86,5.4,ohio
+87,3.5,ohio
+88,4.1,ohio
+89,3.3,ohio
+90,1.4,ohio
+91,2.3,ohio
+92,2.0,ohio
+93,2.1,ohio
+94,3.7,ohio
+95,3.2,ohio
+96,1.9,ohio
+97,3.0,ohio
+98,20.2,ohio
+99,6.6,ohio
+3,7.0,oklahoma
+4,8.6,oklahoma
+11,5.4,oklahoma
+23,27.6,oklahoma
+24,5.6,oklahoma
+26,4.2,oklahoma
+28,4.8,oklahoma
+29,3.1,oklahoma
+30,4.8,oklahoma
+34,10.3,oklahoma
+43,10.3,oklahoma
+45,11.6,oklahoma
+46,9.4,oklahoma
+55,7.7,oklahoma
+56,5.4,oklahoma
+57,12.9,oklahoma
+62,10.2,oklahoma
+64,12.8,oklahoma
+65,5.6,oklahoma
+66,4.0,oklahoma
+68,10.3,oklahoma
+71,14.8,oklahoma
+78,15.4,oklahoma
+79,16.4,oklahoma
+81,8.8,oklahoma
+83,10.9,oklahoma
+85,6.6,oklahoma
+87,22.7,oklahoma
+88,19.5,oklahoma
+89,62.5,oklahoma
+90,28.4,oklahoma
+93,41.7,oklahoma
+94,10.3,oklahoma
+95,6.5,oklahoma
+97,5.6,oklahoma
+100,12.4,oklahoma
+101,3.4,oklahoma
+1,3.8,oregon
+2,4.5,oregon
+3,4.1,oregon
+4,8.8,oregon
+5,10.0,oregon
+6,11.5,oregon
+7,3.7,oregon
+8,8.2,oregon
+9,5.7,oregon
+10,7.2,oregon
+11,7.0,oregon
+12,8.6,oregon
+13,10.0,oregon
+14,9.9,oregon
+15,10.7,oregon
+16,15.7,oregon
+17,7.4,oregon
+18,17.4,oregon
+19,17.1,oregon
+20,14.7,oregon
+21,28.9,oregon
+22,46.9,oregon
+23,8.1,oregon
+24,17.5,oregon
+25,15.1,oregon
+26,14.5,oregon
+27,19.7,oregon
+28,29.5,oregon
+29,31.3,oregon
+30,27.2,oregon
+31,8.9,oregon
+32,8.3,oregon
+33,27.2,oregon
+34,27.3,oregon
+35,16.9,oregon
+36,13.4,oregon
+37,14.6,oregon
+38,14.5,oregon
+39,10.7,oregon
+40,9.2,oregon
+41,9.5,oregon
+42,10.6,oregon
+43,12.3,oregon
+44,17.3,oregon
+45,15.2,oregon
+46,19.7,oregon
+47,36.6,oregon
+48,27.0,oregon
+49,27.7,oregon
+50,27.1,oregon
+51,28.0,oregon
+52,15.3,oregon
+53,8.1,oregon
+54,8.9,oregon
+55,5.0,oregon
+56,9.6,oregon
+57,30.0,oregon
+58,5.4,oregon
+59,12.2,oregon
+60,14.8,oregon
+1,13.1,pennsylvania
+2,8.4,pennsylvania
+3,6.0,pennsylvania
+4,3.5,pennsylvania
+5,8.0,pennsylvania
+6,3.2,pennsylvania
+7,3.2,pennsylvania
+8,3.1,pennsylvania
+9,3.8,pennsylvania
+10,2.6,pennsylvania
+11,2.0,pennsylvania
+12,5.6,pennsylvania
+13,15.9,pennsylvania
+14,1.9,pennsylvania
+15,1.9,pennsylvania
+16,3.9,pennsylvania
+17,6.1,pennsylvania
+18,25.4,pennsylvania
+19,8.2,pennsylvania
+20,5.6,pennsylvania
+21,8.7,pennsylvania
+22,50.8,pennsylvania
+23,20.3,pennsylvania
+24,9.3,pennsylvania
+25,7.0,pennsylvania
+26,7.1,pennsylvania
+27,7.4,pennsylvania
+28,10.4,pennsylvania
+29,14.1,pennsylvania
+30,5.7,pennsylvania
+31,12.1,pennsylvania
+32,4.1,pennsylvania
+33,4.3,pennsylvania
+34,5.4,pennsylvania
+35,4.6,pennsylvania
+36,8.6,pennsylvania
+37,6.9,pennsylvania
+38,7.5,pennsylvania
+39,3.4,pennsylvania
+40,6.9,pennsylvania
+41,8.8,pennsylvania
+42,11.0,pennsylvania
+43,20.9,pennsylvania
+44,7.3,pennsylvania
+45,4.7,pennsylvania
+46,5.1,pennsylvania
+47,6.9,pennsylvania
+48,3.5,pennsylvania
+49,2.5,pennsylvania
+50,2.3,pennsylvania
+51,5.3,pennsylvania
+52,2.1,pennsylvania
+53,19.5,pennsylvania
+54,3.4,pennsylvania
+55,1.9,pennsylvania
+56,2.5,pennsylvania
+57,2.6,pennsylvania
+58,1.8,pennsylvania
+59,2.4,pennsylvania
+60,2.0,pennsylvania
+61,14.6,pennsylvania
+62,4.2,pennsylvania
+63,3.8,pennsylvania
+64,1.9,pennsylvania
+65,4.7,pennsylvania
+66,7.6,pennsylvania
+67,2.7,pennsylvania
+68,1.8,pennsylvania
+69,3.0,pennsylvania
+70,21.1,pennsylvania
+71,3.1,pennsylvania
+72,1.9,pennsylvania
+73,4.8,pennsylvania
+74,13.4,pennsylvania
+75,1.7,pennsylvania
+76,8.6,pennsylvania
+77,15.6,pennsylvania
+78,2.7,pennsylvania
+79,2.3,pennsylvania
+80,3.2,pennsylvania
+81,6.3,pennsylvania
+82,7.3,pennsylvania
+83,3.8,pennsylvania
+84,4.6,pennsylvania
+85,8.1,pennsylvania
+86,7.2,pennsylvania
+87,15.0,pennsylvania
+88,9.5,pennsylvania
+89,9.9,pennsylvania
+90,4.9,pennsylvania
+91,5.4,pennsylvania
+92,3.6,pennsylvania
+93,4.8,pennsylvania
+94,6.3,pennsylvania
+95,22.6,pennsylvania
+96,33.6,pennsylvania
+97,11.5,pennsylvania
+98,6.4,pennsylvania
+99,21.1,pennsylvania
+100,26.5,pennsylvania
+101,19.1,pennsylvania
+102,7.8,pennsylvania
+103,19.6,pennsylvania
+104,7.8,pennsylvania
+105,9.7,pennsylvania
+106,11.4,pennsylvania
+107,4.0,pennsylvania
+108,5.4,pennsylvania
+109,3.1,pennsylvania
+110,2.8,pennsylvania
+111,4.1,pennsylvania
+112,13.4,pennsylvania
+113,14.6,pennsylvania
+114,4.9,pennsylvania
+115,19.7,pennsylvania
+116,24.2,pennsylvania
+117,2.2,pennsylvania
+118,5.6,pennsylvania
+119,10.7,pennsylvania
+120,5.5,pennsylvania
+121,19.1,pennsylvania
+122,4.9,pennsylvania
+123,6.7,pennsylvania
+124,4.9,pennsylvania
+125,5.4,pennsylvania
+126,34.3,pennsylvania
+127,54.0,pennsylvania
+128,10.5,pennsylvania
+129,14.7,pennsylvania
+130,5.0,pennsylvania
+131,6.4,pennsylvania
+132,40.9,pennsylvania
+133,22.7,pennsylvania
+134,11.9,pennsylvania
+135,25.0,pennsylvania
+136,16.8,pennsylvania
+137,8.5,pennsylvania
+138,10.0,pennsylvania
+139,6.7,pennsylvania
+140,11.7,pennsylvania
+141,13.3,pennsylvania
+142,12.8,pennsylvania
+143,6.6,pennsylvania
+144,11.0,pennsylvania
+145,5.9,pennsylvania
+146,7.9,pennsylvania
+147,5.4,pennsylvania
+148,11.1,pennsylvania
+149,20.1,pennsylvania
+150,14.6,pennsylvania
+151,15.2,pennsylvania
+152,16.8,pennsylvania
+153,12.3,pennsylvania
+154,12.0,pennsylvania
+155,9.8,pennsylvania
+156,8.5,pennsylvania
+157,15.3,pennsylvania
+158,12.8,pennsylvania
+159,7.9,pennsylvania
+160,13.9,pennsylvania
+161,8.1,pennsylvania
+162,7.5,pennsylvania
+163,12.6,pennsylvania
+164,31.9,pennsylvania
+165,13.5,pennsylvania
+166,10.7,pennsylvania
+167,15.7,pennsylvania
+168,10.3,pennsylvania
+169,5.2,pennsylvania
+170,35.3,pennsylvania
+171,9.2,pennsylvania
+172,29.9,pennsylvania
+173,20.6,pennsylvania
+174,32.8,pennsylvania
+175,18.8,pennsylvania
+176,11.9,pennsylvania
+177,24.7,pennsylvania
+178,11.5,pennsylvania
+179,36.1,pennsylvania
+180,58.8,pennsylvania
+181,19.1,pennsylvania
+182,18.7,pennsylvania
+183,6.5,pennsylvania
+184,33.7,pennsylvania
+185,15.9,pennsylvania
+186,15.3,pennsylvania
+187,11.0,pennsylvania
+188,19.6,pennsylvania
+189,16.8,pennsylvania
+190,11.0,pennsylvania
+191,11.2,pennsylvania
+192,8.7,pennsylvania
+193,7.7,pennsylvania
+194,10.3,pennsylvania
+195,10.5,pennsylvania
+196,5.5,pennsylvania
+197,54.8,pennsylvania
+198,5.9,pennsylvania
+199,6.2,pennsylvania
+200,7.0,pennsylvania
+201,10.6,pennsylvania
+202,46.7,pennsylvania
+203,22.0,pennsylvania
+1,25.9,rhode island
+2,33.4,rhode island
+3,55.9,rhode island
+4,17.9,rhode island
+5,36.0,rhode island
+6,36.3,rhode island
+7,45.6,rhode island
+8,44.2,rhode island
+9,60.1,rhode island
+10,67.3,rhode island
+11,73.3,rhode island
+12,66.1,rhode island
+13,64.0,rhode island
+14,43.6,rhode island
+15,13.6,rhode island
+16,14.9,rhode island
+17,31.0,rhode island
+18,26.4,rhode island
+19,8.9,rhode island
+20,11.8,rhode island
+21,5.3,rhode island
+22,9.1,rhode island
+23,9.1,rhode island
+24,11.4,rhode island
+25,8.6,rhode island
+26,15.0,rhode island
+27,13.2,rhode island
+28,4.3,rhode island
+29,4.8,rhode island
+30,9.8,rhode island
+31,4.7,rhode island
+32,6.5,rhode island
+33,6.8,rhode island
+34,5.8,rhode island
+35,10.1,rhode island
+36,3.4,rhode island
+37,8.3,rhode island
+38,2.3,rhode island
+39,5.6,rhode island
+40,4.2,rhode island
+41,8.9,rhode island
+42,18.1,rhode island
+43,17.4,rhode island
+44,10.0,rhode island
+45,21.3,rhode island
+46,15.8,rhode island
+47,5.3,rhode island
+48,9.5,rhode island
+49,38.6,rhode island
+50,20.2,rhode island
+51,25.2,rhode island
+52,12.6,rhode island
+53,10.1,rhode island
+54,18.8,rhode island
+55,23.7,rhode island
+56,64.9,rhode island
+57,44.8,rhode island
+58,53.0,rhode island
+59,42.9,rhode island
+60,44.8,rhode island
+61,24.2,rhode island
+62,35.5,rhode island
+63,18.9,rhode island
+64,40.2,rhode island
+65,14.4,rhode island
+66,8.1,rhode island
+67,10.4,rhode island
+68,13.2,rhode island
+69,19.3,rhode island
+70,8.6,rhode island
+71,2.4,rhode island
+72,8.2,rhode island
+73,11.7,rhode island
+74,13.9,rhode island
+75,8.9,rhode island
+1,6.0,south carolina
+2,4.5,south carolina
+3,7.1,south carolina
+4,1.4,south carolina
+5,4.6,south carolina
+6,5.4,south carolina
+7,3.0,south carolina
+8,2.7,south carolina
+9,4.6,south carolina
+10,6.8,south carolina
+11,4.0,south carolina
+12,6.4,south carolina
+13,3.0,south carolina
+14,4.8,south carolina
+15,17.0,south carolina
+16,6.4,south carolina
+17,4.3,south carolina
+18,11.6,south carolina
+19,21.7,south carolina
+20,12.7,south carolina
+21,14.8,south carolina
+22,12.9,south carolina
+23,13.7,south carolina
+24,10.3,south carolina
+25,12.6,south carolina
+26,13.4,south carolina
+27,11.1,south carolina
+28,9.4,south carolina
+29,3.1,south carolina
+30,5.0,south carolina
+31,12.2,south carolina
+32,6.6,south carolina
+33,6.5,south carolina
+34,15.1,south carolina
+35,8.9,south carolina
+36,14.3,south carolina
+37,14.1,south carolina
+38,7.4,south carolina
+39,11.3,south carolina
+40,8.9,south carolina
+41,3.3,south carolina
+42,2.0,south carolina
+43,3.3,south carolina
+44,4.7,south carolina
+45,8.5,south carolina
+46,7.3,south carolina
+47,5.2,south carolina
+48,11.8,south carolina
+49,3.9,south carolina
+50,4.0,south carolina
+51,6.7,south carolina
+52,6.0,south carolina
+53,4.4,south carolina
+54,2.1,south carolina
+55,2.5,south carolina
+56,8.3,south carolina
+57,3.3,south carolina
+58,5.1,south carolina
+59,4.0,south carolina
+60,2.2,south carolina
+61,2.4,south carolina
+62,2.5,south carolina
+63,4.9,south carolina
+64,3.4,south carolina
+65,2.3,south carolina
+66,1.4,south carolina
+67,5.0,south carolina
+68,13.2,south carolina
+69,7.6,south carolina
+70,6.6,south carolina
+71,4.7,south carolina
+72,8.7,south carolina
+73,6.4,south carolina
+74,4.6,south carolina
+75,11.0,south carolina
+76,10.2,south carolina
+77,9.4,south carolina
+78,13.0,south carolina
+79,11.6,south carolina
+80,6.4,south carolina
+81,5.4,south carolina
+82,5.6,south carolina
+83,7.2,south carolina
+84,5.5,south carolina
+85,6.5,south carolina
+86,6.5,south carolina
+87,6.2,south carolina
+88,7.9,south carolina
+89,9.7,south carolina
+90,2.1,south carolina
+91,2.3,south carolina
+92,7.8,south carolina
+93,4.6,south carolina
+94,4.3,south carolina
+95,6.3,south carolina
+96,9.2,south carolina
+97,3.7,south carolina
+98,10.9,south carolina
+99,8.3,south carolina
+100,5.6,south carolina
+101,3.5,south carolina
+102,2.7,south carolina
+103,1.2,south carolina
+104,5.8,south carolina
+105,5.4,south carolina
+106,3.3,south carolina
+107,15.2,south carolina
+108,5.8,south carolina
+109,11.6,south carolina
+110,6.8,south carolina
+111,4.0,south carolina
+112,5.9,south carolina
+113,12.0,south carolina
+114,6.3,south carolina
+115,5.3,south carolina
+116,6.3,south carolina
+117,14.3,south carolina
+118,17.5,south carolina
+119,5.0,south carolina
+120,11.2,south carolina
+121,5.8,south carolina
+122,6.4,south carolina
+123,12.6,south carolina
+124,6.7,south carolina
+1,2.7,tennessee
+2,2.8,tennessee
+3,2.6,tennessee
+4,3.4,tennessee
+5,3.1,tennessee
+6,4.4,tennessee
+7,5.0,tennessee
+8,2.8,tennessee
+9,1.7,tennessee
+10,10.2,tennessee
+11,3.1,tennessee
+12,8.3,tennessee
+13,7.6,tennessee
+14,7.9,tennessee
+15,5.9,tennessee
+16,5.0,tennessee
+17,4.1,tennessee
+18,8.9,tennessee
+19,2.5,tennessee
+20,4.5,tennessee
+21,6.7,tennessee
+22,2.6,tennessee
+23,3.9,tennessee
+24,9.8,tennessee
+25,4.9,tennessee
+26,5.3,tennessee
+27,4.7,tennessee
+28,6.2,tennessee
+29,6.9,tennessee
+30,13.9,tennessee
+31,4.2,tennessee
+32,3.8,tennessee
+33,5.0,tennessee
+34,10.2,tennessee
+35,2.8,tennessee
+36,1.4,tennessee
+37,13.6,tennessee
+38,2.7,tennessee
+39,2.7,tennessee
+40,4.9,tennessee
+41,2.3,tennessee
+42,5.4,tennessee
+43,4.4,tennessee
+44,6.3,tennessee
+45,5.2,tennessee
+46,5.4,tennessee
+47,3.5,tennessee
+48,9.4,tennessee
+49,13.9,tennessee
+50,11.0,tennessee
+51,10.0,tennessee
+52,32.9,tennessee
+53,31.2,tennessee
+54,5.9,tennessee
+55,11.7,tennessee
+56,8.1,tennessee
+57,6.9,tennessee
+58,9.3,tennessee
+59,38.6,tennessee
+60,11.1,tennessee
+61,10.8,tennessee
+62,9.2,tennessee
+63,7.6,tennessee
+64,5.9,tennessee
+65,8.0,tennessee
+66,6.5,tennessee
+67,11.0,tennessee
+68,7.0,tennessee
+69,2.9,tennessee
+70,3.9,tennessee
+71,2.4,tennessee
+72,2.2,tennessee
+73,5.1,tennessee
+74,7.3,tennessee
+75,1.7,tennessee
+76,2.9,tennessee
+77,2.7,tennessee
+78,3.3,tennessee
+79,2.9,tennessee
+80,3.0,tennessee
+81,2.8,tennessee
+82,5.0,tennessee
+83,11.2,tennessee
+84,10.1,tennessee
+85,7.3,tennessee
+86,5.5,tennessee
+87,9.1,tennessee
+88,7.0,tennessee
+89,5.7,tennessee
+90,6.3,tennessee
+91,7.5,tennessee
+92,3.6,tennessee
+93,13.2,tennessee
+94,2.4,tennessee
+95,10.4,tennessee
+96,11.6,tennessee
+97,14.2,tennessee
+98,11.5,tennessee
+99,5.9,tennessee
+1,7.3,texas
+2,12.1,texas
+3,24.9,texas
+4,15.1,texas
+5,16.3,texas
+6,19.0,texas
+7,13.9,texas
+8,17.8,texas
+9,8.3,texas
+10,17.7,texas
+11,17.1,texas
+12,20.6,texas
+13,17.7,texas
+14,25.0,texas
+15,20.0,texas
+16,23.9,texas
+17,30.7,texas
+18,19.5,texas
+19,8.2,texas
+20,15.1,texas
+21,13.8,texas
+22,23.6,texas
+23,21.3,texas
+24,17.4,texas
+25,25.7,texas
+26,43.0,texas
+27,32.0,texas
+28,42.0,texas
+29,27.8,texas
+30,24.2,texas
+31,64.0,texas
+32,29.4,texas
+33,23.8,texas
+34,41.4,texas
+35,75.8,texas
+36,87.2,texas
+37,78.7,texas
+38,70.8,texas
+39,80.9,texas
+40,83.3,texas
+41,75.3,texas
+42,90.3,texas
+43,38.5,texas
+44,21.5,texas
+45,24.6,texas
+46,40.1,texas
+47,18.3,texas
+48,19.0,texas
+49,24.6,texas
+50,34.9,texas
+51,43.8,texas
+52,25.5,texas
+53,19.9,texas
+54,18.9,texas
+55,17.2,texas
+56,17.1,texas
+57,15.0,texas
+58,15.6,texas
+59,15.2,texas
+60,11.9,texas
+61,11.3,texas
+62,10.5,texas
+63,19.6,texas
+64,20.5,texas
+65,32.2,texas
+66,35.1,texas
+67,32.1,texas
+68,17.2,texas
+69,12.6,texas
+70,22.2,texas
+71,18.2,texas
+72,26.3,texas
+73,16.0,texas
+74,69.6,texas
+75,79.6,texas
+76,77.7,texas
+77,69.6,texas
+78,57.3,texas
+79,64.6,texas
+80,78.1,texas
+81,43.1,texas
+82,34.8,texas
+83,23.2,texas
+84,24.4,texas
+85,37.3,texas
+86,20.3,texas
+87,31.5,texas
+88,35.9,texas
+89,28.0,texas
+90,65.3,texas
+91,25.7,texas
+92,26.1,texas
+93,27.0,texas
+94,22.8,texas
+95,33.9,texas
+96,19.6,texas
+97,19.7,texas
+98,18.9,texas
+99,20.3,texas
+100,42.5,texas
+101,45.5,texas
+102,41.1,texas
+103,63.7,texas
+104,66.2,texas
+105,54.9,texas
+106,21.7,texas
+107,41.3,texas
+108,21.2,texas
+109,26.1,texas
+110,52.3,texas
+111,29.2,texas
+112,44.8,texas
+113,39.4,texas
+114,30.9,texas
+115,48.4,texas
+116,47.2,texas
+117,39.1,texas
+118,45.0,texas
+119,39.4,texas
+120,35.1,texas
+121,24.0,texas
+122,24.9,texas
+123,45.8,texas
+124,41.5,texas
+125,46.2,texas
+126,41.0,texas
+127,22.8,texas
+128,26.7,texas
+129,29.7,texas
+130,25.4,texas
+131,51.8,texas
+132,39.7,texas
+133,34.9,texas
+134,27.0,texas
+135,39.2,texas
+136,22.8,texas
+137,69.7,texas
+138,51.0,texas
+139,46.7,texas
+140,77.5,texas
+141,43.4,texas
+142,42.3,texas
+143,70.0,texas
+144,57.3,texas
+145,65.6,texas
+146,42.4,texas
+147,39.1,texas
+148,55.0,texas
+149,60.7,texas
+150,27.3,texas
+1,8.0,utah
+2,9.0,utah
+3,10.7,utah
+4,14.1,utah
+5,8.8,utah
+6,13.2,utah
+7,14.6,utah
+8,13.8,utah
+9,17.8,utah
+10,20.7,utah
+11,9.8,utah
+12,10.1,utah
+13,11.7,utah
+14,12.4,utah
+15,6.7,utah
+16,12.1,utah
+17,6.1,utah
+18,6.8,utah
+19,10.0,utah
+20,12.3,utah
+21,9.5,utah
+22,27.7,utah
+23,49.0,utah
+24,16.9,utah
+25,15.9,utah
+26,41.9,utah
+27,6.1,utah
+28,12.4,utah
+29,5.5,utah
+30,30.9,utah
+31,47.3,utah
+32,14.8,utah
+33,43.2,utah
+34,27.1,utah
+35,30.1,utah
+36,9.7,utah
+37,13.1,utah
+38,30.3,utah
+39,28.4,utah
+40,15.5,utah
+41,6.9,utah
+42,12.6,utah
+43,18.1,utah
+44,21.2,utah
+45,13.7,utah
+46,9.7,utah
+47,22.8,utah
+48,14.8,utah
+49,8.4,utah
+50,10.9,utah
+51,13.4,utah
+52,9.5,utah
+53,9.4,utah
+54,16.2,utah
+55,7.7,utah
+56,9.5,utah
+57,12.4,utah
+58,9.1,utah
+59,19.3,utah
+60,21.0,utah
+61,23.3,utah
+62,9.1,utah
+63,22.7,utah
+64,29.5,utah
+65,13.3,utah
+66,9.4,utah
+67,11.4,utah
+68,9.5,utah
+69,7.3,utah
+70,7.5,utah
+71,6.7,utah
+72,9.0,utah
+73,20.2,utah
+74,10.2,utah
+75,11.0,utah
+addison-2,3.9,vermont
+addison-5,4.2,vermont
+addison-rutland,7.8,vermont
+bennington-1,0.2,vermont
+bennington-3,1.7,vermont
+bennington-rutland,4.4,vermont
+chittenden-1,0.9,vermont
+chittenden-4-1,4.9,vermont
+chittenden-4-2,1.6,vermont
+chittenden-5-1,6.7,vermont
+chittenden-5-2,10.3,vermont
+chittenden-6-2,19.7,vermont
+chittenden-6-6,9.5,vermont
+chittenden-7-1,10.3,vermont
+chittenden-7-2,17.0,vermont
+chittenden-7-3,9.0,vermont
+chittenden-7-4,16.2,vermont
+chittenden-8-3,4.4,vermont
+caledonia-1,5.4,vermont
+caledonia-2,3.5,vermont
+caledonia-washington,3.3,vermont
+essex-caledonia,2.3,vermont
+essex-caledonia-orleans,10.5,vermont
+franklin-1,5.9,vermont
+franklin-2,0.6,vermont
+franklin-6,4.2,vermont
+franklin-7,0.6,vermont
+franklin-3-2,3.3,vermont
+lamoille-1,5.1,vermont
+lamoille-3,2.0,vermont
+orange-caledonia,2.3,vermont
+orleans-lamoille,4.2,vermont
+orange-2,4.2,vermont
+rutland-1,2.9,vermont
+rutland-4,3.4,vermont
+rutland-bennington,6.1,vermont
+rutland-windsor-1,7.0,vermont
+rutland-5-1,7.4,vermont
+rutland-5-2,8.0,vermont
+rutland-5-3,4.3,vermont
+rutland-5-4,4.3,vermont
+rutland-windsor-2,3.7,vermont
+windham-1,6.0,vermont
+windham-5,3.4,vermont
+windham-6,4.7,vermont
+windham-2-1,3.1,vermont
+windham-2-2,4.6,vermont
+windham-2-3,6.1,vermont
+washington-5,2.4,vermont
+washington-6,2.0,vermont
+windham-bennington-windsor,4.1,vermont
+windham-bennington,4.8,vermont
+windsor-2,3.4,vermont
+windsor-5,5.0,vermont
+windsor-rutland,3.5,vermont
+windsor-3-1,2.4,vermont
+windsor-4-1,2.9,vermont
+windsor-orange-1,4.3,vermont
+1,1.8,west virginia
+2,1.8,west virginia
+3,2.4,west virginia
+4,1.9,west virginia
+5,0.4,west virginia
+6,0.9,west virginia
+7,2.6,west virginia
+8,0.8,west virginia
+9,2.8,west virginia
+10,1.8,west virginia
+11,1.0,west virginia
+12,0.7,west virginia
+13,0.9,west virginia
+14,0.8,west virginia
+15,2.5,west virginia
+16,2.2,west virginia
+17,3.3,west virginia
+18,2.8,west virginia
+19,0.9,west virginia
+20,0.4,west virginia
+21,0.9,west virginia
+22,1.1,west virginia
+23,0.4,west virginia
+24,0.2,west virginia
+25,0.4,west virginia
+26,2.5,west virginia
+27,2.4,west virginia
+28,1.6,west virginia
+29,4.6,west virginia
+30,6.0,west virginia
+31,0.5,west virginia
+32,1.3,west virginia
+33,1.2,west virginia
+34,2.1,west virginia
+35,3.3,west virginia
+36,2.0,west virginia
+37,2.0,west virginia
+38,3.5,west virginia
+39,0.7,west virginia
+40,0.4,west virginia
+41,1.9,west virginia
+42,3.1,west virginia
+43,1.2,west virginia
+44,0.7,west virginia
+45,1.0,west virginia
+46,1.7,west virginia
+47,1.8,west virginia
+48,1.4,west virginia
+49,1.6,west virginia
+50,1.9,west virginia
+51,7.7,west virginia
+52,4.0,west virginia
+53,0.4,west virginia
+54,2.8,west virginia
+55,4.4,west virginia
+56,1.3,west virginia
+57,1.5,west virginia
+58,1.6,west virginia
+59,3.7,west virginia
+60,3.8,west virginia
+61,4.9,west virginia
+62,5.6,west virginia
+63,5.2,west virginia
+64,3.9,west virginia
+65,8.1,west virginia
+66,5.1,west virginia
+67,4.2,west virginia
+1,3.5,wisconsin
+2,4.7,wisconsin
+3,5.8,wisconsin
+4,6.5,wisconsin
+5,3.1,wisconsin
+6,3.2,wisconsin
+7,23.1,wisconsin
+8,65.1,wisconsin
+9,56.9,wisconsin
+10,8.5,wisconsin
+11,13.5,wisconsin
+12,10.0,wisconsin
+13,11.9,wisconsin
+14,7.6,wisconsin
+15,8.5,wisconsin
+16,12.7,wisconsin
+17,9.2,wisconsin
+18,12.0,wisconsin
+19,9.6,wisconsin
+20,11.7,wisconsin
+21,14.3,wisconsin
+22,6.2,wisconsin
+23,7.6,wisconsin
+24,9.6,wisconsin
+25,5.7,wisconsin
+26,11.8,wisconsin
+27,7.2,wisconsin
+28,2.6,wisconsin
+29,4.1,wisconsin
+30,4.2,wisconsin
+31,8.9,wisconsin
+32,9.6,wisconsin
+33,4.4,wisconsin
+34,2.3,wisconsin
+35,2.6,wisconsin
+36,2.6,wisconsin
+37,5.3,wisconsin
+38,5.1,wisconsin
+39,4.6,wisconsin
+40,4.2,wisconsin
+41,5.3,wisconsin
+42,6.4,wisconsin
+43,6.5,wisconsin
+44,6.5,wisconsin
+45,10.7,wisconsin
+46,6.3,wisconsin
+47,13.7,wisconsin
+48,10.1,wisconsin
+49,5.3,wisconsin
+50,6.2,wisconsin
+51,5.0,wisconsin
+52,7.1,wisconsin
+53,3.8,wisconsin
+54,6.7,wisconsin
+55,5.5,wisconsin
+56,7.6,wisconsin
+57,10.1,wisconsin
+58,3.2,wisconsin
+59,3.1,wisconsin
+60,3.4,wisconsin
+61,7.3,wisconsin
+62,7.1,wisconsin
+63,6.3,wisconsin
+64,16.0,wisconsin
+65,16.1,wisconsin
+66,16.5,wisconsin
+67,3.3,wisconsin
+68,6.6,wisconsin
+69,9.3,wisconsin
+70,4.3,wisconsin
+71,6.3,wisconsin
+72,6.4,wisconsin
+73,2.8,wisconsin
+74,3.1,wisconsin
+75,3.8,wisconsin
+76,9.9,wisconsin
+77,19.5,wisconsin
+78,18.3,wisconsin
+79,8.2,wisconsin
+80,3.5,wisconsin
+81,5.2,wisconsin
+82,13.0,wisconsin
+83,4.4,wisconsin
+84,10.9,wisconsin
+85,10.6,wisconsin
+86,5.0,wisconsin
+87,4.7,wisconsin
+88,13.9,wisconsin
+89,3.3,wisconsin
+90,20.8,wisconsin
+91,8.0,wisconsin
+92,6.8,wisconsin
+93,3.3,wisconsin
+94,6.3,wisconsin
+95,5.2,wisconsin
+96,8.9,wisconsin
+97,8.6,wisconsin
+98,9.5,wisconsin
+99,4.0,wisconsin
+1,2.9,wyoming
+2,3.8,wyoming
+3,8.7,wyoming
+4,8.0,wyoming
+5,6.7,wyoming
+6,4.4,wyoming
+7,1.9,wyoming
+8,8.3,wyoming
+9,3.8,wyoming
+10,5.4,wyoming
+11,3.2,wyoming
+12,10.9,wyoming
+13,16.2,wyoming
+14,7.0,wyoming
+15,17.6,wyoming
+16,27.6,wyoming
+17,15.8,wyoming
+18,4.5,wyoming
+19,5.0,wyoming
+20,7.5,wyoming
+21,1.9,wyoming
+22,11.7,wyoming
+23,11.8,wyoming
+24,2.5,wyoming
+25,6.1,wyoming
+26,8.1,wyoming
+27,7.1,wyoming
+28,3.2,wyoming
+29,2.6,wyoming
+30,4.5,wyoming
+31,6.6,wyoming
+32,1.4,wyoming
+33,16.4,wyoming
+34,4.8,wyoming
+35,6.1,wyoming
+36,7.7,wyoming
+37,2.9,wyoming
+38,8.7,wyoming
+39,16.4,wyoming
+40,2.2,wyoming
+41,5.0,wyoming
+42,5.2,wyoming
+43,3.8,wyoming
+44,6.2,wyoming
+45,10.4,wyoming
+46,8.4,wyoming
+47,7.8,wyoming
+48,7.9,wyoming
+49,6.3,wyoming
+50,3.6,wyoming
+51,2.8,wyoming
+52,8.0,wyoming
+53,5.1,wyoming
+54,4.5,wyoming
+55,4.4,wyoming
+56,5.2,wyoming
+57,4.7,wyoming
+58,5.6,wyoming
+59,7.8,wyoming
+60,5.9,wyoming
