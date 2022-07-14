@@ -1,6 +1,6 @@
 # US-State-House-Elections
 
-The goal of this project was to be able to predict election results from the 2016 and 2020 US State House of Representative Elections reasonably well and thereby gain experience in an end to end Data Science workflow (find it under **_US State House Elections 2016 + 2020.ipynb_**).
+The goal of this project was to be able to predict election results from the 2016 and 2020 US State House of Representative Elections reasonably well and thereby gain experience in an end to end Data Science workflow (find it on this page under **_US State House Elections 2016 + 2020.ipynb_**).
 
 The target variable for 2016 is webscraped from Ballotpedia (www.ballotpedia.com). As for 2020 webscraping wasn't possible the data was extracted from the MIT Election and Science Lab dataset (https://electionlab.mit.edu/). The notebooks with this process can be found under "2016 Target Data Ballotpedia", "2020 Target Data".
 
